@@ -79,7 +79,7 @@
     };
 
 //    $.fn.fireworks = function(action) {
-$.prototype.fireworks = function(action) {
+window.jQuery.prototype.fireworks = function(action) {
         // Assume no action means we want to init
         if (!action) {
             action = 'init';
