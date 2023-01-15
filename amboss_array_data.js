@@ -15,163 +15,163 @@ var myAmbossQuestionsDataArray = [
                 "varQuestionNumber": 1,
                 "text": "A 62-year-old man comes to the physician because of fatigue and decreased urine output for 2 weeks. He has not been to the physician for many years and takes no medications. Serum studies show a urea nitrogen concentration of 42 mg/dL and a creatinine concentration of 2.3 mg/dL. Urinalysis shows heavy proteinuria. A photomicrograph of a section of a kidney biopsy specimen is shown. Which of the following is the most likely underlying cause of this patient's symptoms?",
                 "disease": "hyaline arteriolosclerosis",
-                "videoSettings": {"youtubeID": "u0tla84IJts", "start": "11"}
+                "videoSettings": {"youtubeID": "EdlRtIE5F9A", "start": "12"}
             },
             {
                 "varQuestionNumber": 2,
                 "text": "A 53-year-old man is brought to the emergency department by his wife because of a 1-day history of headache, blurry vision, and confusion. His wife also says that he has not urinated in the past 24 hours. Despite appropriate measures, the patient dies shortly after admission. A photomicrograph of a section of the kidney obtained at autopsy is shown. Which of the following is the most likely explanation for the findings indicated by the arrow?",
                 "disease": "hyperplastic arteriolosclerosis",
-                "videoSettings": {"youtubeID": "u0tla84IJts", "start": "120"}
+                "videoSettings": {"youtubeID": "EdlRtIE5F9A", "start": "120"}
             },
             {
                 "varQuestionNumber": 3,
                 "text": "A 44-year-old woman with recurrent urinary tract infections is brought to the emergency department by ambulance after sudden onset of severe headache 30 minutes ago. She has a history of occasional, mild headaches in the morning. There is no other history of serious illness. Both her father and her paternal grandmother died of chronic kidney disease. Her temperature is 37.2°C (99.1°F) and blood pressure is 145/90 mm Hg. Physical examination shows neck stiffness. When her hip is flexed, she is unable to fully extend her knee because of pain. Lumbar puncture performed 12 hours after headache onset yields 10 mL of yellow-colored fluid with no leukocytes. Which of the following is the most likely predisposing factor for this patient's current condition?",
                 "disease": "saccular (berry) aneurysm",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "EdlRtIE5F9A", "start": "203"}
             },
             {
                 "varQuestionNumber": 4,
                 "text": "A 43-year-old man from Chile comes to the physician because of a 1-day history of upper back pain and difficulty swallowing. He has had pain in his shoulder and knee joints over the past 10 years. He is 190 cm (6 ft 3 in) tall and weighs 70.3 kg (155 lb); BMI is 19 kg/m2. His blood pressure is 142/86 mm Hg in the right arm and 130/70 mg Hg in the left arm. Physical examination shows a depression in the sternum and a grade 3/6 diastolic murmur at the right upper sternal border. A CT scan of the chest with contrast is shown. Which of the following is the most likely underlying cause of this patient's current condition?",
                 "disease": "ascending (thoracic) aortic aneurysm",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "EdlRtIE5F9A", "start": "308"}
             },
             {
                 "varQuestionNumber": 5,
                 "text": "A 71-year-old man with hypertension is taken to the emergency department after the sudden onset of stabbing abdominal pain that radiates to the back. He has smoked 1 pack of cigarettes daily for 20 years. His pulse is 120/min and thready, respirations are 18/min, and blood pressure is 82/54 mm Hg. Physical examination shows a periumbilical, pulsatile mass and abdominal bruit. There is epigastric tenderness. Which of the following is the most likely underlying cause of this patient's current condition?",
                 "disease": "abdominal aortic aneurysm",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "EdlRtIE5F9A", "start": "420"}
             },
             {
                 "varQuestionNumber": 6,
                 "text": "A 72-year-old man comes to the physician because of a 6-month history of intermittent dull abdominal pain that radiates to the back. He has smoked one pack of cigarettes daily for 50 years. His blood pressure is 145/80 mm Hg. Abdominal examination shows generalized tenderness and a pulsatile mass in the periumbilical region on deep palpation. Further evaluation of the affected blood vessel is most likely to show which of the following?",
                 "disease": "abdominal aortic aneurysm",
-                "videoSettings": "abdominal aortic aneurysm"
+                "videoSettings": {"youtubeID": "p9O-zkSs-Bk", "start": "9"}
             },
             {
                 "varQuestionNumber": 7,
                 "text": "A 55-year-old man is brought to the emergency department 30 minutes after the sudden onset of severe, migrating anterior chest pain, shortness of breath, and sweating at rest. He has hypertension, hypercholesterolemia, and type 2 diabetes mellitus. Medications include atorvastatin, hydrochlorothiazide, lisinopril, and metformin. He has smoked one pack of cigarettes daily for 25 years. He is in acute distress. His pulse is 110/min, respirations are 20/min, and blood pressure is 150/85 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. Cardiac examination shows a grade 3/6, high-pitched, blowing, diastolic murmur heard best over the right sternal border. The lungs are clear to auscultation. Femoral pulses are decreased bilaterally. An ECG shows sinus tachycardia and left ventricular hypertrophy. Which of the following is the most likely diagnosis?",
                 "disease": "dissecting aortic aneurysm",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "p9O-zkSs-Bk", "start": "91"}
             },
             {
                 "varQuestionNumber": 8,
                 "text": "A 58-year-old man is brought to the emergency department by his wife 30 minutes after the sudden onset of severe retrosternal chest pain radiating to his back. He has a history of hyperlipidemia, hypertension, and type 2 diabetes mellitus. He has smoked one-half pack of cigarettes daily for 20 years. Medications include aspirin, captopril, atorvastatin, and metformin. His pulse is 80/min and blood pressure is 160/60 mm Hg. A CT scan of the chest is shown. Which of the following is the strongest predisposing factor for this patient's current condition?",
                 "disease": "dissecting aortic aneurysm",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "p9O-zkSs-Bk", "start": "182"}
             },
             {
                 "varQuestionNumber": 9,
                 "text": "A 65-year-old man with hypertension and type 2 diabetes mellitus is brought to the emergency department 20 minutes after the onset of severe anterior chest pain and shortness of breath. He has smoked one pack of cigarettes daily for 30 years. He appears distressed. His pulse is 116/min, respirations are 22/min, and blood pressure is 156/88 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. A grade 3/6, high-pitched, blowing, diastolic murmur is heard over the right upper sternal border. Which of the following is the most likely cause of this patient's symptoms?",
                 "disease": "dissecting aortic aneurysm",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "p9O-zkSs-Bk", "start": "293"}
             },
             {
                 "varQuestionNumber": 10,
                 "text": "An investigator is studying the immunologic response to a Staphylococcus aureus toxin in a mouse model. Fourteen days after injecting mice with this toxin, he isolates antibodies against neutrophil proteinase 3 in their serum. A patient with high concentrations of these antibodies would most likely present with which of the following clinical features?",
                 "disease": "granulomatosis with polyangiitis",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "p9O-zkSs-Bk", "start": "377"}
             },
             {
                 "varQuestionNumber": 11,
                 "text": "A 5-year-old boy is brought to the physician by his parents because of a 4-day history of arthralgia, abdominal pain, and lesions on his arms and legs. Ten days ago, he had an upper respiratory tract infection. A photograph of his right leg is shown. Further evaluation is most likely to show which of the following?",
                 "disease": "Henoch-Sconlein purpura",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "fjDHiu2HEts", "start": "10"}
             },
             {
                 "varQuestionNumber": 12,
                 "text": "A 63-year-old man comes to the physician because of a 2-day history of fever and blood-tinged sputum. He has also had a productive cough for 1 year and has had 3 episodes of sinusitis during this time. Physical examination shows palpable erythematous skin lesions over his hands and feet that do not blanch on pressure. There are ulcerations of the nasopharyngeal mucosa and a perforation of the nasal septum. His serum creatinine is 2.6 mg/dL. Urinalysis shows acanthocytes, 70 RBCs/hpf, 2+ proteinuria, and RBC casts. An x-ray of the chest shows multiple, cavitating, nodular lesions bilaterally. Further evaluation of this patient is most likely to show which of the following findings?",
                 "disease": "granulomatosis with polyangiitis",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "fjDHiu2HEts", "start": "74"}
             },
             {
                 "varQuestionNumber": 13,
                 "text": "A 58-year-old man comes to the physician because of a 3-month history of diffuse muscle pain, malaise, pain in both knees, recurrent episodes of abdominal and chest pain. He has also had a 5-kg (11-lb) weight loss over the past 4 months. Four years ago, he was diagnosed with chronic hepatitis B infection and was started on tenofovir. There are several ulcerations around the ankle and calves bilaterally. Perinuclear anti-neutrophil cytoplasmic antibodies are negative. Urinalysis shows proteinuria and hematuria. Muscle biopsy shows a transmural inflammation of the arterial wall with leukocytic infiltration and fibrinoid necrosis. Which of the following is the most likely diagnosis?",
                 "disease": "macroscopic polyarteritis nodosa",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "fjDHiu2HEts", "start": "200"}
             },
             {
                 "varQuestionNumber": 14,
                 "text": "A 54-year-old man comes to the physician because of a cough with blood-tinged sputum for 1 week. He also reports fever and a 5-kg (11 lb) weight loss during the past 2 months. Over the past year, he has had 4 episodes of sinusitis. Physical examination shows palpable nonblanching skin lesions over the hands and feet. Examination of the nasal cavity shows ulceration of the nasopharyngeal mucosa and a depressed nasal bridge. Oral examination shows a painful erythematous gingival enlargement that bleeds easily on contact. Which of the following is the most likely cause of the patient's symptoms?",
                 "disease": "granulomatosis with polyangiitis",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "fjDHiu2HEts", "start": "319"}
             },
             {
                 "varQuestionNumber": 15,
                 "text": "A 32-year-old woman who recently emigrated to the USA from Japan comes to the physician because of a 3-month history of night sweats, malaise, and joint pain. During this time, she has also had a 6-kg (13-lb) weight loss. Physical examination shows weak brachial and radial pulses. There are tender subcutaneous nodules on both legs. Carotid bruits are heard on auscultation bilaterally. Laboratory studies show an erythrocyte sedimentation rate of 96 mm/h. A CT scan of the chest shows thickening and narrowing of the aortic arch. Microscopic examination of the aortic arch is most likely to show which of the following findings?",
                 "disease": "Takayasu disease",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "fjDHiu2HEts", "start": "400"}
             },
             {
                 "varQuestionNumber": 16,
                 "text": "A 38-year-old man comes to the physician because of a 3-week history of a painful rash affecting his left foot. For the past 2 years, he has had recurrent episodes of color changes in his fingers when exposed to the cold; his fingers first turn white and then progress to blue and red before spontaneously resolving. He has smoked two packs of cigarettes daily for 20 years. His blood pressure is 115/78 mm Hg. Physical examination shows multiple tender, dark purple nodules on the lateral surface of the left foot with surrounding erythema that follow the course of the lateral marginal vein. There are dry ulcers on the tip of his right index finger and on the distal aspect of his right hallux. Serum lipid studies show no abnormalities. Biopsy of the dorsalis pedis artery will most likely show which of the following findings?",
                 "disease": "Buerger disease",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "Ou8oOAvOb1M", "start": "8"}
             },
             {
                 "varQuestionNumber": 17,
                 "text": "A 45-year-old man with asthma comes to the physician because of a 1-month history of progressively worsening shortness of breath and cough. He also has a history of chronic sinusitis and foot drop. Current medications include an albuterol inhaler and inhaled corticosteroid. Physical examination shows diffuse wheezing over both lung fields and tender subcutaneous nodules on both elbows. Laboratory studies show a leukocyte count of 23,000/mm3 with 26% eosinophils and a serum creatinine of 1.7 mg/dL. Urine microscopy shows red blood cell casts. Which of the following is the most likely diagnosis in this patient?",
                 "disease": "eosinophilic granulomatosis with polyangiitis",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "Ou8oOAvOb1M", "start": "114"}
             },
             {
                 "varQuestionNumber": 18,
                 "text": "A previously healthy 48-year-old man comes to the physician for a 3-month history of myalgias and recurrent episodes of retrosternal chest pain and dizziness. He has had a 5-kg (11-lb) weight loss during this period. His temperature is 39.1°C (102.3°F), pulse is 90/min, and blood pressure is 160/102 mm Hg. Physical examination shows lacy, purplish discoloration of the skin with multiple erythematous, tender subcutaneous nodules on the lower legs. Some of the nodules have central ulcerations. Serum studies show an erythrocyte sedimentation rate of 76 mm/h and creatinine level of 1.8 mg/dL. Renal MR angiography shows irregular areas of dilation and constriction in the renal arteries bilaterally. Further evaluation of this patient is most likely to show which of the following?",
                 "disease": "macroscopic polyarteritis nodosa",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "Ou8oOAvOb1M", "start": "207"}
             },
             {
                 "varQuestionNumber": 19,
                 "text": "A 49-year-old woman with a history of intravenous drug use comes to the physician because of a 6-month history of fatigue, joint pain, and episodic, painful discoloration in her fingers when exposed to cold weather. She takes no medications. She has smoked one pack of cigarettes daily for the past 22 years. She appears tired. Physical examination shows palpable, nonblanching purpura over the hands and feet. Neurological examination shows weakness and decreased sensation in all extremities. Serum studies show: Alanine aminotransferase 78 U/L Aspartate aminotransferase 90 U/L Urea nitrogen 18 mg/dL Creatinine 1.5 mg/dL Which of the following processes is the most likely explanation for this patient's current condition?",
                 "disease": "cryoglobulinemic vasculitis",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "Ou8oOAvOb1M", "start": "331"}
             },
             {
                 "varQuestionNumber": 20,
                 "text": "A 78-year-old woman comes to the physician because of a 2-month history of right-sided headache and generalized fatigue. She also has pain, weakness, and stiffness of her shoulders and hips. The stiffness is worse in the morning and usually improves after 60–90 minutes of activity. Three months ago, she fell and hit her head on the kitchen countertop. Her temperature is 38.1°C (100.6°F). Examination shows normal muscle strength in bilateral upper and lower extremities; range of motion of the shoulder and hip is mildly limited by pain. Deep tendon reflexes are 2+ bilaterally. Her erythrocyte sedimentation rate is 68 mm/h and serum creatine kinase is 36 mg/dL. Which of the following is the most likely underlying cause of this patient's headache?",
                 "disease": "giant cell arteritis",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "Ou8oOAvOb1M", "start": "440"}
             },
             {
                 "varQuestionNumber": 21,
                 "text": "A 72-year-old woman comes to the physician because of a 1-month history of frequent headaches, double vision, fatigue, and myalgias. Physical examination shows pallor, tenderness to palpation over the temples, and inward deviation of the left eye. Laboratory studies show an erythrocyte sedimentation rate of 65 mm/h. Temporal artery biopsy shows transmural granulomatous inflammation and fragmentation of the internal elastic lamina. Treatment with high-dose intravenous corticosteroids is begun. The patient's condition puts her at greatest risk of developing which of the following complications?",
                 "disease": "giant cell arteritis",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "T67J33rjh-c", "start": "9"}
             },
             {
                 "varQuestionNumber": 22,
                 "text": "A previously healthy 3-year-old boy is brought to the physician by his parents because of fever and a rash for 6 days. His temperature is 38.9°C (102°F). Examination shows right-sided anterior cervical lymphadenopathy, bilateral conjunctival injection, erythema of the tongue and lips, and a maculopapular rash involving the hands, feet, perineum, and trunk. Which of the following is the most common complication of this patient's condition?",
                 "disease": "Kawasaki disease",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "T67J33rjh-c", "start": "115"}
             },
             {
                 "varQuestionNumber": 23,
                 "text": "A 62-year-old woman comes to the physician because of a 2-month history of a rash on her ankles with intermittent itching. After the rash developed, she started applying a new scented lotion to her legs daily. She works as a cashier at a grocery store. She has type 2 diabetes mellitus and hypertension. Current medications include metformin and enalapril. Examination shows enlarged superficial veins of the right lower extremity and red-brown discoloration with indistinct margins over the medial ankles. There is 1+ edema in the lower extremities. Which of the following is the most likely cause of this patient’s skin findings?",
                 "disease": "varicose veins",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "T67J33rjh-c", "start": "164"}
             },
             {
                 "varQuestionNumber": 24,
                 "text": "A 67-year-old woman comes to the physician with a 6-month history of pain and swelling of both legs. The symptoms are worst at the end of the day and are associated with itching of the overlying skin. Physical examination shows bilateral pitting ankle edema. An image of one of the ankles is shown. This patient is at greatest risk for which of the following complications?",
                 "disease": "varicose veins",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "T67J33rjh-c", "start": "248"}
             },
             {
                 "varQuestionNumber": 25,
                 "text": "A 62-year-old man comes to the physician because of a 5-day history of swelling in his left arm. Two months ago, he was diagnosed with a deep venous thrombosis in the left calf. He has had a 7-kg (15-lb) weight loss in the last 3 months. He has smoked 1 pack of cigarettes daily for the past 25 years. His only medication is warfarin. Physical examination shows warm edema of the left forearm with overlying erythema and a tender, palpable cord-like structure along the medial arm. His lungs are clear to auscultation bilaterally. Duplex sonography shows thrombosis of the left basilic and external jugular veins. Which of the following is the most appropriate next step to confirm the underlying diagnosis?",
                 "disease": "Trousseau sign",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "T67J33rjh-c", "start": "296"}
             },
             {
                 "varQuestionNumber": 26,
                 "text": "A 29-year-old woman, gravida 1, para 0 at 11 weeks' gestation comes to the physician because of a 2-day history of left lower extremity pain and swelling. Her temperature is 37.9°C (100.2°F). Physical examination shows a tender, palpable cord on the lateral aspect of the left lower leg. The overlying skin is erythematous and indurated. Duplex ultrasound shows vascular wall thickening and subcutaneous edema. Which of the following is the most likely diagnosis?",
                 "disease": "Trousseau sign",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "T67J33rjh-c", "start": "413"}
             },
             {
                 "varQuestionNumber": 27,
                 "text": "A 72-year-old woman with hypertension comes to the physician because of swelling and pain in both legs for the past year. The symptoms are worse at night and improve in the morning. Current medications include losartan and metoprolol. Her temperature is 36°C (96.8°F), pulse is 67/min, and blood pressure is 142/88 mm Hg. Examination shows normal heart sounds; there is no jugular venous distention. Her abdomen is soft and the liver edge is not palpable. Examination of the lower extremities shows bilateral pitting edema and prominent superficial veins. The skin is warm and there is reddish-brown discoloration of both ankles. Laboratory studies show a normal serum creatinine and normal urinalysis. Which of the following is the most likely underlying cause of this patient's symptoms?",
                 "disease": "varicose veins",
-                "videoSettings": {"youtubeID": "", "start": ""}
+                "videoSettings": {"youtubeID": "T67J33rjh-c", "start": "505"}
 			}],
 		"diseaseObject": {
 			"a": "abdominal aortic aneurysm",
