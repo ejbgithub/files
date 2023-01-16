@@ -200,7 +200,7 @@ var myAmbossQuestionsDataArray = [
     },
 	{
 		"name": "Brown - Trails for hypertensive heart disease and more",
-		"ambossID": "",
+		"ambossID": "J-rsyP1",
 		"values": [{
 				"varQuestionNumber": 0,
 				"text": "",
@@ -215,8 +215,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 71-year-old man with hypertension comes to the physician for a follow-up examination. Cardiovascular exam shows the point of maximal impulse to be in the mid-axillary line. A transthoracic echocardiogram shows concentric left ventricular hypertrophy with a normal right ventricle. Which of the following is the most likely underlying mechanism of this patient's ventricular hypertrophy?",
 				"disease": "concentric cardiac hypertrophy",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "u9fw81yKOIU",
+					"start": "10"
 				}
 			},
 			{
@@ -224,8 +224,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 54-year-old man is brought to the emergency department after having been hit by a car while riding his bicycle. He was not wearing a helmet. Despite appropriate life-saving measures, he dies 2 hours later because of a severe intracranial hemorrhage. Autopsy of the heart shows general thickening of the left ventricular wall with narrowing of the ventricular chamber. Which of the following conditions is the most likely underlying cause of the described cardiac changes?",
 				"disease": "concentric cardiac hypertrophy",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "u9fw81yKOIU",
+					"start": "67"
 				}
 			},
 			{
@@ -233,8 +233,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 61-year-old woman dies unexpectedly. She had not seen a physician in 10 years. Examination of the heart during autopsy shows hypertrophy of the left ventricular wall and enlargement of the left ventricular chamber. Microscopic examination shows lengthening of individual muscle fibers due to duplication of sarcomeres in series. Which of the following is the most likely underlying cause of these findings?",
 				"disease": "eccentric cardiac hypertrophy",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "u9fw81yKOIU",
+					"start": "120"
 				}
 			},
 			{
@@ -242,8 +242,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A previously healthy 46-year-old woman comes to the physician because of progressive shortness of breath, fatigue, and chest pain during exercise for the last 6 months. She does not smoke. Her maternal uncle had similar symptoms. Cardiac examination shows wide splitting of S2. The second component of S2 is loud and best heard at the 2nd left intercostal space. The lungs are clear to auscultation. Which of the following is the most likely cause of this patient's cardiac findings?",
 				"disease": "chronic cor pulmonale",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "u9fw81yKOIU",
+					"start": "186"
 				}
 			},
 			{
@@ -251,8 +251,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 63-year-old woman comes to the physician because of a 6-month history of fatigue and shortness of breath on exertion in addition to a 1-month history of ankle swelling. She has a history of sleep apnea. Examination of the lower extremities shows bilateral pitting pedal and ankle edema. Cardiac examination shows a widely split S2 that varies with respiration. An ECG shows right bundle branch block. Which of the following is the most likely etiology of the patient's lower extremity edema?",
 				"disease": "chronic cor pulmonale",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "u9fw81yKOIU",
+					"start": "290"
 				}
 			},
 			{
@@ -260,8 +260,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 14-year-old girl is brought to the physician because of a 1-week history of malaise and chest pain. Three weeks ago, she had a sore throat that resolved without treatment. Her temperature is 38.7°C (101.7°F). Examination shows several subcutaneous nodules on her elbows and wrist bilaterally and a new-onset early systolic murmur best heard at the apex in the left lateral position. An endomysial biopsy is most likely to show which of the following?",
 				"disease": "acute rheumatic fever",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "QnCflHh24_Q",
+					"start": "11"
 				}
 			},
 			{
@@ -269,8 +269,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 7-year-old boy is brought to the physician because of a 5-day history of fever, malaise, and joint pain. He had a sore throat 4 weeks ago that resolved without treatment. His temperature is 38.6°C (101.5°F) and blood pressure is 84/62 mm Hg. Physical examination shows several firm, painless nodules under the skin near his elbows and the dorsal aspect of both wrists. Cardiopulmonary examination shows bilateral basilar crackles and a blowing, holosystolic murmur heard best at the cardiac apex. Both knee joints are warm. Laboratory studies show an erythrocyte sedimentation rate of 129 mm/h. The immune response seen in this patient is most likely due to the presence of which of the following?",
 				"disease": "acute rheumatic fever",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "QnCflHh24_Q",
+					"start": "96"
 				}
 			},
 			{
@@ -278,8 +278,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "An 8-year-old boy is brought to the physician by his father because of abnormal movements of his limbs. For the past 4 days, he has had uncontrolled jerking movements of his arms and legs and has been dropping cups and toys. His symptoms are worse when he is excited and improve while he is asleep. During the same time period, he has become increasingly irritable and tearful. He had a sore throat 6 weeks ago that resolved without treatment. His temperature is 37.3°C (99.2°F). Examination shows occasional grimacing with involuntary jerking movements of his limbs. Muscle strength and tone are decreased in all extremities. When he grips the physician's index and middle fingers with his hands, his grip increases and decreases continuously. This patient is at increased risk for which of the following complications?",
 				"disease": "Sydenham chorea",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "QnCflHh24_Q",
+					"start": "192"
 				}
 			},
 			{
@@ -287,8 +287,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 9-year-old boy from Eritrea is admitted to the hospital for lethargy and increased work of breathing. He has had recurrent episodes of fever, shortness of breath, and fatigue over the past 3 years. His pulse is 132/min and blood pressure is 90/66 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 82%. Auscultation of the chest shows coarse crackles in both lungs and a diastolic murmur at the cardiac apex. Despite appropriate lifesaving measures, he dies. A photomicrograph of a section of myocardium obtained at autopsy is shown. Which of the following is the most likely underlying cause of this patient's cardiac disease?",
 				"disease": "acute rheumatic fever",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "QnCflHh24_Q",
+					"start": "268"
 				}
 			},
 			{
@@ -296,8 +296,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A group of epidemiologists is studying the rates of cardiac surgeries performed in several Southeast Asian countries compared to the United States. Results show a significant increase in the number of mitral valve replacements performed in Vietnam in adults aged 30–50 years compared to the same age group in the United States. Which of the following public health interventions is most likely to decrease this number?",
 				"disease": "acute rheumatic fever",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "QnCflHh24_Q",
+					"start": "357"
 				}
 			},
 			{
@@ -305,8 +305,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 51-year-old man comes to the emergency department because of a 3-day history of shortness of breath, fever, and chills. He has no history of serious illness. His temperature is 39.5°C (103.1°F). Physical examination shows a grade 4/6, holosystolic, blowing murmur over the apex that radiates to the axilla. Crackles are heard in both lower lung fields. Examination of the extremities shows several nontender, nonblanching, erythematous macules on the palms and soles. Histopathologic examination of these macules is most likely to show which of the following?",
 				"disease": "acute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "9tY13tZx0-k",
+					"start": "9"
 				}
 			},
 			{
@@ -314,8 +314,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "An autopsy of a patient's heart who recently died in a motor vehicle accident shows multiple nodules near the line of closure on the ventricular side of the mitral valve leaflet. Microscopic examination shows that these nodules are composed of immune complexes, mononuclear cells, and thrombi interwoven with fibrin strands. These nodules are most likely to be found in which of the following patients?",
 				"disease": "Libman-Sacks endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "9tY13tZx0-k",
+					"start": "120"
 				}
 			},
 			{
@@ -323,8 +323,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "Three weeks after undergoing transurethral prostate resection for benign prostatic hyperplasia, a 70-year-old man has fever, malaise, and pain in his extremities. Physical examination shows subungual petechiae and tender red papules on his fingers and toes. A new holosystolic murmur is heard on chest auscultation. A photomicrograph of a Gram stain of an isolate from blood culture is shown. The organism does not cause hemolysis on blood agar. Addition of pyrrolidonyl-β-naphthylamide gives the bacterial colonies a cherry red color. Which of the following is the most likely causal organism?",
 				"disease": "subacute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "9tY13tZx0-k",
+					"start": "196"
 				}
 			},
 			{
@@ -332,8 +332,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 60-year-old woman with ovarian cancer comes to the physician with a 5-day history of fever, chills, and dyspnea. She has a right subclavian chemoport in which she last received chemotherapy 2 weeks ago. Her temperature is 39.5°C (103.1°F), blood pressure is 110/80 mm Hg, and pulse is 115/min. Cardiopulmonary examination shows jugular venous distention and a new, soft holosystolic murmur heard best in the left parasternal region. Crackles are heard at both lung bases. Echocardiography shows a vegetation on the tricuspid valve. Peripheral blood cultures taken from this patient is most likely to show which of the following findings?",
 				"disease": "acute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "9tY13tZx0-k",
+					"start": "266"
 				}
 			},
 			{
@@ -341,8 +341,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 41-year-old man comes to the physician because of a 10-day history of generalized weakness. He has also had headaches and night sweats and is a known user of illicit intravenous drugs. His temperature is 39.1°C (102.4°F), pulse is 110/min, respirations are 17/min, and blood pressure is 127/78 mm Hg. There are several track marks on his forearms. A holosystolic murmur that increases on inspiration is heard along the left sternal border. Laboratory studies show a leukocyte count of 13,900/mm3 and an erythrocyte sedimentation rate of 58 mm/h. Which of the following is the most likely consequence of this patient's condition?",
 				"disease": "right-sided infective endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "9tY13tZx0-k",
+					"start": "369"
 				}
 			},
 			{
@@ -350,8 +350,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 47-year-old woman comes to the physician because of a 6-week history of fatigue and low-grade fever. She has no history of serious illness except for a bicuspid aortic valve, diagnosed 10 years ago. She does not use illicit drugs. Her temperature is 37.7°C (99.9°F). Physical examination shows petechiae under the fingernails and multiple tender, red nodules on the fingers. A new grade 2/6 diastolic murmur is heard at the right second intercostal space. Which of the following is the most likely causal organism?",
 				"disease": "subacute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "flHdwxAs3yk",
+					"start": "10"
 				}
 			},
 			{
@@ -359,8 +359,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 62-year-old man comes to the physician for a 1-month history of fever, malaise, and skin rash. He has had a 5-kg (11-lb) weight loss during this period. He does not smoke, drink alcohol, or use illicit drugs. He appears pale. His temperature is 39.1°C (102.3°F), pulse is 110/min, and blood pressure is 140/85 mm Hg. Physical examination shows nontender, erythematous macules on the palms and soles. A photograph of one of his fingernails is shown. Microscopic examination of the nail lesion is most likely to show which of the following?",
 				"disease": "subacute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "flHdwxAs3yk",
+					"start": "91"
 				}
 			},
 			{
@@ -368,8 +368,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 67-year-old woman comes to the physician because of fever, chills, myalgias, and joint pain 1 month after undergoing aortic prosthetic valve replacement due to high-grade aortic stenosis. She does not drink alcohol or use illicit drugs. Her temperature is 39.3°C (102.8°F). She appears weak and lethargic. Physical examination shows crackles at both lung bases and a grade 2/6, blowing diastolic murmur over the right sternal border. Laboratory studies show leukocytosis and an elevated erythrocyte sedimentation rate. The causal organism is most likely to have which of the following characteristics?",
 				"disease": "subacute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "flHdwxAs3yk",
+					"start": "164"
 				}
 			},
 			{
@@ -377,8 +377,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 73-year-old man dies 4 months after being diagnosed with advanced adenocarcinoma of the colon. Examination of the heart at autopsy shows vegetations lining the mitral valve margins. The vegetations are loosely attached and can be easily scraped off. Microscopic examination shows the vegetations to be composed of interwoven fibrin strands with mononuclear cells. The mitral valve endothelium is intact. Which of the following is the most likely underlying cause of these autopsy findings?",
 				"disease": "marantic endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "flHdwxAs3yk",
+					"start": "240"
 				}
 			},
 			{
@@ -386,8 +386,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 47-year-old woman is admitted to the hospital because of a 2-week history of low-grade fever, fatigue, and a 3-kg (6.6-lb) weight loss. Her temperature is 38°C (100.4°F). Physical examination shows pallor and a cardiac murmur. Her serum creatinine is 1.8 mg/dL. Urinalysis shows red cell casts and 2+ protein. A CT scan of the abdomen with contrast shows no abnormalities. Despite appropriate medical therapy, the patient dies. A photograph of the heart taken during autopsy is shown. Which of the following is the most likely explanation for the laboratory findings in this patient?",
 				"disease": "acute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "flHdwxAs3yk",
+					"start": "349"
 				}
 			},
 			{
@@ -395,8 +395,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 59-year-old man is brought to the emergency department by his wife because of fever, chills, night sweats, and generalized fatigue for 2 weeks. His temperature is 39.1°C (102.4°F). He appears ill. Physical examination shows a grade 3/6 mid-diastolic murmur at the left sternal border, and crackles at both lung bases. A transesophageal echocardiography shows a 12 mm vegetation on the aortic valve. Blood cultures show gram-positive, catalase-negative, gamma-hemolytic cocci in chains that are unable to grow in a 6.5% NaCl medium. Which of the following is the most likely predisposing factor for this patient’s current condition?",
 				"disease": "subacute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "Hc9iJbrtCJw",
+					"start": "10"
 				}
 			},
 			{
@@ -404,8 +404,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 45-year-old man comes to the physician because of a 1-month history of fever and poor appetite. Five weeks ago, he underwent molar extraction for dental caries. His temperature is 38°C (100.4°F). Cardiac examination shows a grade 2/6 holosystolic murmur heard best at the apex. A blood culture shows gram-positive, catalase-negative cocci. Transesophageal echocardiography shows a small vegetation on the mitral valve with mild regurgitation. The causal organism most likely has which of the following characteristics?",
 				"disease": "subacute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "Hc9iJbrtCJw",
+					"start": "95"
 				}
 			},
 			{
@@ -413,8 +413,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A 51-year-old man comes to the physician for 2 months of intermittent low-grade fever, malaise, and joint pain. He has a history of recurrent dental abscesses requiring drainage but has otherwise been healthy. His temperature is 38.3°C (100.9°F) and pulse is 112/min. Physical examination shows a new holosystolic murmur in the left midclavicular line that radiates to the axilla. There are linear reddish-brown lesions underneath the nail beds and tender violaceous nodules on the bilateral thenar eminences. Two sets of blood cultures grow Streptococcus mutans. A transthoracic echocardiogram shows moderate regurgitation of the mitral valve. Which of the following mechanisms is most likely directly involved in the pathogenesis of this patient's valvular condition?",
 				"disease": "subacute bacterial endocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "Hc9iJbrtCJw",
+					"start": "175"
 				}
 			},
 			{
@@ -422,8 +422,8 @@ var myAmbossQuestionsDataArray = [
 				"text": "A previously healthy 24-year-old man is brought to the emergency department because of fevers, congestion, and chest pain for 3 days. The chest pain is exacerbated by deep inspiration. He takes no medications. His temperature is 37.5°C (99.5°F), pulse is 130/min, respirations are 12/min, and blood pressure is 118/75 mm Hg. He appears weak and lethargic. Cardiac examination shows a scratchy sound best heard along the left sternal border when the patient leans forward. There are crackles in both lung bases. Examination of the lower extremities shows pitting edema. Results of a rapid influenza test are negative. ECG shows diffuse ST-elevations with depressed PR interval. An echocardiogram shows left ventricular chamber enlargement with contractile dysfunction. Infection with which of the following pathogens is the most likely cause of this patient's symptoms?",
 				"disease": "viral myocarditis",
 				"videoSettings": {
-					"youtubeID": "",
-					"start": ""
+					"youtubeID": "Hc9iJbrtCJw",
+					"start": "260"
 				}
 			}
 		],
