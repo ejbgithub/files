@@ -90,9 +90,65 @@ var myUWorldQuestionsDataArray = [
             "youtubeID": "",
             "start": ""
         }
-    }
+    },
+	{
+		"varUWquestionsID": "Question Id: 15542",
+		"text": "A 54-year-old man comes to the emergency department due to severe shortness of breath and palpitations.  During initial assessment, pulse oximetry shows 83%.  Diffuse, bilateral crackles are heard on lung auscultation.  Chest x-ray is consistent with pulmonary edema.  ECG shows atrial fibrillation with rapid ventricular response.  The patient dies despite appropriate medical care.  Autopsy is performed and gross examination of the heart is shown below.\n\nHistologic examination of the myocardial tissue reveals thick myocardial fibers with large, hyperchromatic nuclei as well as mild interstitial fibrosis.  Which of the following is the most likely diagnosis?",
+		"disease": "concentric cardiac hypertrophy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varUWquestionsID": "Question Id: 72",
+		"text": "A 32-year-old man is brought to the emergency department with a several-day history of high-grade fever, dyspnea, and fatigue.  The patient's temperature is 39.4 C (102.9 F), blood pressure is 122/70 mm Hg, and pulse is 102/min and regular.  Physical examination reveals a new holosystolic murmur with a blowing quality that is best heard over the cardiac apex.  Skin examination shows nontender lesions on the sole of the feet, as shown in the image below.\n\nWhich of the following do these lesions most likely represent?",
+		"disease": "acute bacterial (infective) endocarditis",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varUWquestionsID": "Question Id: 240",
+		"text": "A 10-year-old boy is brought to the emergency department due to shortness of breath and palpitations for the past day.  He also has associated fever and fatigue.  Vital signs indicate tachypnea, tachycardia, and hypotension.  On cardiac auscultation, the patient has a new holosystolic murmur.  He is admitted to the hospital for further workup and management.  A cardiac biopsy is performed due to decompensation and an unclear diagnosis.  Light microscopy of the tissue specimen is shown in the image below.\n\nWhich of the following most likely preceded development of this patient's current condition?",
+		"disease": "acute rheumatic fever",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varUWquestionsID": "Question Id: 14789",
+		"text": "A 38-year-old man dies suddenly at his workplace and cannot be resuscitated.  He had experienced chest discomfort, shortness of breath, and fatigue in the week preceding the event.  The man was overweight but otherwise had no significant medical history.  He had no established primary care physician.  He did not use alcohol, tobacco, or illicit drugs.  Both parents are alive and healthy; a maternal uncle reportedly died of a heart attack at age 50.  Autopsy was performed and myocardial findings are shown in the slide below.\n\nWhich of the following is the most likely diagnosis?",
+		"disease": "viral myocarditis",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varUWquestionsID": "Question Id: 73",
+		"text": "A 38-year-old woman suddenly collapses at home after experiencing severe chest pain and dies before reaching a hospital.  Postmortem examination reveals an occluding thrombus overlying a ruptured atherosclerotic plaque on the left anterior descending artery.  The patient is also found to have thickened mitral valve leaflets with multiple small vegetations on both valvular surfaces and fibrinoid necrosis of arterioles.  Other findings include glomerular capillary basement membrane thickening with wire-loop changes.  This patient was most likely suffering from which of the following conditions?",
+		"disease": "Libman-Sacks endocarditis",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	}
 ]
 
 
 console.log(myUWorldQuestionsDataArray);
 
+/*
+    {
+        "varUWquestionsID": "Question Id: ",
+        "text": "",
+        "disease": "",
+        "videoSettings": {
+            "youtubeID": "",
+            "start": ""
+        }
+    }
+*/
