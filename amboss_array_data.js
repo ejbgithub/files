@@ -429,14 +429,14 @@ var myAmbossQuestionsDataArray = [
 		],
 		"diseaseObject": {
 			"a": "acute bacterial endocarditis",
-			"b": "acute chronic rheumatic fever",
+			"b": "acute rheumatic fever",
 			"c": "carcinoid heart disease",
 			"d": "chronic cor pulmonale",
 			"e": "concentric cardiac hypertrophy",
 			"f": "eccentric cardiac hypertrophy",
 			"g": "Libman-Sacks endocarditis",
 			"h": "marantic endocarditis",
-			"i": "rheumatic fever",
+			"i": "chronic rheumatic fever",
 			"j": "right-sided infective endocarditis",
 			"k": "subacute bacterial endocarditis",
 			"l": "Sydenham chorea",
@@ -444,60 +444,202 @@ var myAmbossQuestionsDataArray = [
 		}
 	},	
 	{
-		"name": "Brown - Trails for ischemic heart disease",
-		"ambossID": "",
+		"name": "Brown - Trails for atheroscleosis and angina",
+		"ambossID": "6GrjZQ1",
 		"values": [{
-			"varQuestionNumber": 0,
-			"text": "",
-			"disease": "",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}, {
-			"varQuestionNumber": 1,
-			"text": "A 73-year-old man with coronary artery disease and hypertension is brought to the emergency department by ambulance 90 minutes after the acute onset of substernal chest pain and dyspnea. He has smoked 2 packs of cigarettes daily for 52 years. Shortly after arriving at the hospital, he loses consciousness and is pulseless. Despite attempts at cardiopulmonary resuscitation, he dies. Examination of the heart at autopsy shows complete occlusion of the left anterior descending artery with a red thrombus overlying a necrotic plaque. Which of the following pathophysiologic mechanisms is most likely responsible for this patient's coronary occlusion?",
-			"disease": "myocardial infarction",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}, {
-			"varQuestionNumber": 2,
-			"text": "Two days after being admitted for acute myocardial infarction, a 61-year-old man has sharp, substernal chest pain that worsens with inspiration and improves when leaning forward. Cardiac examination shows a scratchy sound best heard over the left sternal border. Histopathological examination of the affected tissue is most likely to show which of the following findings?",
-			"disease": "acute pericarditis",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}, {
-			"varQuestionNumber": 3,
-			"text": "A 61-year-old man is brought to the emergency department by ambulance because of severe retrosternal chest pain and shortness of breath for 30 minutes. Paramedics report that an ECG recorded en route to the hospital showed ST-segment elevation in I, aVL, and the precordial leads. On arrival, the patient is unresponsive to painful stimuli. Examination shows neither respiration nor pulse. Despite appropriate lifesaving measures, he dies 10 minutes later. Which of the following is the most likely cause of death in this patient?",
-			"disease": "",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}, {
-			"varQuestionNumber": 4,
-			"text": "Seventy-two hours after admission for an acute myocardial infarction, a 48-year-old man develops dyspnea and a productive cough with frothy sputum. Physical examination shows coarse crackles in both lungs and a blowing, holosystolic murmur heard best at the apex. ECG shows Q waves in the anteroseptal leads. Pulmonary capillary wedge pressure is 23 mm Hg. Which of the following is the most likely cause of this patient’s current condition?",
-			"disease": "",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}, {
-			"varQuestionNumber": 5,
-			"text": "A 76-year-old man is admitted to the hospital for evaluation of sudden-onset chest pain. Three days after admission, he develops severe shortness of breath. Despite appropriate care, the patient dies. The left ventricle of the heart at autopsy is shown. Which of the following most likely contributed to this patient's cause of death?",
-			"disease": "",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}, {
-			"varQuestionNumber": 6,
-			"text": "An 80-year-old man is admitted to the hospital after the sudden onset of sub-sternal chest pain and shortness of breath while sitting in a chair. He has hypertension and type 2 diabetes mellitus. He has smoked 1 pack of cigarettes daily for 42 years. Four days after admission, he becomes tachycardic and then loses consciousness; the cardiac monitor shows irregular electrical activity. Cardiac examination shows a new systolic murmur at the apex. Despite appropriate measures, he dies. Microscopic evaluation of the myocardium is most likely to show which of the following?",
-			"disease": "",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}, {
-			"varQuestionNumber": 7,
-			"text": "A 59-year-old man with angina pectoris comes to the physician because of a 6-month history of shortness of breath on exertion that improves with rest. He has hypertension and hyperlipidemia. Current medications include aspirin, metoprolol, and nitroglycerine. Echocardiography shows left ventricular septal and apical hypokinesis. Cardiac catheterization shows 96% occlusion of the left anterior descending artery. The patient undergoes angioplasty and placement of a stent. The patient's shortness of breath subsequently resolves and follow-up echocardiography one week later shows normal regional contractile function. Which of the following is the most accurate explanation for the changes in echocardiography?",
-			"disease": "",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}, {
-			"varQuestionNumber": 8,
-			"text": "A 60-year-old man comes to the emergency department because of a 2-day history of sharp chest pain and a nonproductive cough. The pain worsens with deep inspiration and improves when he leans forward. Three weeks ago, the patient was diagnosed with an ST-elevation myocardial infarction and underwent stent implantation of the right coronary artery. His temperature is 38.4°C (101.1°F) and blood pressure is 132/85 mm Hg. Cardiac auscultation shows a high-pitched scratching sound during expiration. An x-ray of the chest shows enlargement of the cardiac silhouette and a left-sided pleural effusion. Which of the following is the most likely underlying cause of this patient's current condition?",
-			"disease": "",
-			"videoSettings": {"youtubeID": "", "start": ""}
-		}],
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 66-year-old woman with hypertension comes to the physician because of crampy, dull abdominal pain and weight loss for 1 month. The pain is located in the epigastric region and typically occurs within the first hour after eating. She has had a 7-kg (15.4-lb) weight loss in the past month. She has smoked 1 pack of cigarettes daily for 20 years. Physical examination shows a scaphoid abdomen and diffuse tenderness to palpation. Laboratory studies including carbohydrate antigen 19-9 (CA 19-9), carcinoembryonic antigen (CEA), and lipase concentrations are within the reference range. Which of the following is the most likely cause of this patient's symptoms?",
+				"disease": "atherosclerosis",
+				"videoSettings": {
+					"youtubeID": "VYllGuU-S44",
+					"start": "10"
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "A 61-year-old woman is brought to the emergency department because of crushing substernal chest pain at rest for the past 2 hours. She is diaphoretic. Her temperature is 37.5°C (99.5°F), pulse is 110/min, respirations are 21/min, and blood pressure is 115/65 mm Hg. An ECG shows ST elevation in I, aVL, and V2–V4. Coronary angiography shows an 80% stenosis in the left anterior descending artery. Which of the following is the most likely initial step in the pathogenesis of this patient's coronary condition?",
+				"disease": "atherosclerosis",
+				"videoSettings": {
+					"youtubeID": "VYllGuU-S44",
+					"start": "112"
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "A 41-year-old man with a history of hypertension and hyperlipidemia is brought to the emergency department by his wife for difficulty breathing after choking on food at dinner. He is unconscious and pulseless on arrival. Despite appropriate life-saving measures, he dies. Examination of the heart shows a necrotic, pale yellow plaque in the left circumflex artery. Similar lesions are most likely to be found in which of the following locations?",
+				"disease": "atherosclerosis",
+				"videoSettings": {
+					"youtubeID": "VYllGuU-S44",
+					"start": "188"
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "A 61-year-old man with hypertension and hyperlipidemia comes to the physician for a 4-month history of recurrent episodes of retrosternal chest pain, shortness of breath, dizziness, and nausea. The episodes usually start after physical activity and subside within minutes of resting. He has smoked one pack of cigarettes daily for 40 years. He is 176 cm (5 ft 9 in) tall and weighs 95 kg (209 lb); BMI is 30 kg/m2. His blood pressure is 160/100 mm Hg. Coronary angiography shows an atherosclerotic lesion with stenosis of the left anterior descending artery. Compared to normal healthy coronary arteries, increased levels of platelet-derived growth factor (PDGF) are found in this lesion. Which of the following is the most likely effect of this factor?",
+				"disease": "stable angina",
+				"videoSettings": {
+					"youtubeID": "VYllGuU-S44",
+					"start": "236"
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "A 42-year-old man with systolic heart failure secondary to amyloidosis undergoes heart transplantation. The donor heart is obtained from a 17-year-old boy who died in a motor vehicle collision. Examination of the donor heart during the procedure shows a flat, yellow-white discoloration with an irregular border on the luminal surface of the aorta. A biopsy of this lesion is most likely to show which of the following?",
+				"disease": "atherosclerosis",
+				"videoSettings": {
+					"youtubeID": "VYllGuU-S44",
+					"start": "305"
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "A 52-year-old man with hypertension and hyperlipidemia comes to the emergency department 30 minutes after the sudden onset of substernal chest pain while sitting in a chair at home. He reports drinking 2 glasses of whiskey earlier that day, after a stressful day at work. Current medications include hydrochlorothiazide and atorvastatin. He has smoked one pack of cigarettes daily for the past 20 years. His pulse is 102/min, and blood pressure is 135/88 mm Hg. Cardiopulmonary examination shows normal heart sounds. An ECG obtained on arrival at the emergency department shows ST-segment elevations in the anterior leads. Fifteen minutes later, the patient's chest pain has resolved and a repeat ECG shows no abnormalities. Which of the following is the most likely underlying mechanism of this patient’s chest pain?",
+				"disease": "vasospastic angina",
+				"videoSettings": {
+					"youtubeID": "fW-alzAo1z8",
+					"start": "10"
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A 67-year-old man comes to the emergency department because of retrosternal chest pressure and shortness of breath for 4 hours. The symptoms started while he was walking to work and have only minimally improved with rest. He has a history of type 2 diabetes mellitus. He has smoked one pack of cigarettes daily for 35 years. He appears uncomfortable. His pulse is 95/min. Serum studies show a normal troponin concentration. An ECG shows no abnormalities. Which of the following is the most likely underlying cause of this patient's symptoms?",
+				"disease": "unstable angina",
+				"videoSettings": {
+					"youtubeID": "fW-alzAo1z8",
+					"start": "111"
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A 17-year-old boy is brought to the emergency department by his parents because of crushing chest pain, nausea, and vomiting for the past 2 hours. The pain is constant and radiates to his left shoulder. Over the past year, he has been admitted to the hospital twice for deep vein thrombosis. He has a history of learning disability and has been held back three grades. The patient is at the 99th percentile for height and the 45th percentile for weight. His pulse is 110/min, respirations are 21/min, and blood pressure is 128/84 mm Hg. His fingers are long and slender, and his arm span exceeds his body height. Electrocardiography shows ST-segment elevation in leads V1 and V2. His serum troponin I concentration is 2.0 ng/mL. Coronary angiography shows 90% occlusion of the proximal left anterior descending artery. Further evaluation of this patient is most likely to show which of the following findings?",
+				"disease": "homocystinuria",
+				"videoSettings": {
+					"youtubeID": "fW-alzAo1z8",
+					"start": "208"
+				}
+			},
+			{
+				"varQuestionNumber": 9,
+				"text": "Two weeks after undergoing an emergency cardiac catheterization for unstable angina pectoris, a 65-year-old man has decreased urinary output. He takes naproxen for osteoarthritis and was started on aspirin, clopidogrel, and metoprolol after the coronary intervention. His temperature is 38.1°C (100.5°F), pulse is 96/min, and blood pressure is 128/88 mm Hg. Examination shows mottled, reticulated purplish discoloration of the feet and ischemic changes on the right big toe. His leukocyte count is 16,500/mm3 with 56% segmented neutrophils, 12% eosinophils, 30% lymphocytes, and 2% monocytes. His serum creatinine concentration is 4.5 mg/dL. A photomicrograph of a kidney biopsy specimen is shown. Which of the following is the most likely cause of this patient's presentation?",
+				"disease": "systemic atherothrombotic microembolism",
+				"videoSettings": {
+					"youtubeID": "fW-alzAo1z8",
+					"start": "348"
+				}
+			}
+		],
 		"diseaseObject": {
-			"a": "acute pericarditis",
-			"b": "myocardial infarction"
+			"a": "atherosclerosis",
+			"b": "homocystinuria",
+			"c": "Leriche syndrome",
+			"d": "stable angina",
+			"e": "systemic atherothrombotic microembolism",
+			"f": "unstable angina",
+			"g": "vasospastic angina"
+		}
+	},	
+	{
+		"name": "Brown - Trails for ischemic heart disease",
+		"ambossID": "pGrLZQ1",
+		"values": [{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 73-year-old man with coronary artery disease and hypertension is brought to the emergency department by ambulance 90 minutes after the acute onset of substernal chest pain and dyspnea. He has smoked 2 packs of cigarettes daily for 52 years. Shortly after arriving at the hospital, he loses consciousness and is pulseless. Despite attempts at cardiopulmonary resuscitation, he dies. Examination of the heart at autopsy shows complete occlusion of the left anterior descending artery with a red thrombus overlying a necrotic plaque. Which of the following pathophysiologic mechanisms is most likely responsible for this patient's coronary occlusion?",
+				"disease": "myocardial infarction",
+				"videoSettings": {
+					"youtubeID": "TEx6tbHKAU4",
+					"start": "11"
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "Two days after being admitted for acute myocardial infarction, a 61-year-old man has sharp, substernal chest pain that worsens with inspiration and improves when leaning forward. Cardiac examination shows a scratchy sound best heard over the left sternal border. Histopathological examination of the affected tissue is most likely to show which of the following findings?",
+				"disease": "myocardial infarction",
+				"videoSettings": {
+					"youtubeID": "TEx6tbHKAU4",
+					"start": "96"
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "A 61-year-old man is brought to the emergency department by ambulance because of severe retrosternal chest pain and shortness of breath for 30 minutes. Paramedics report that an ECG recorded en route to the hospital showed ST-segment elevation in I, aVL, and the precordial leads. On arrival, the patient is unresponsive to painful stimuli. Examination shows neither respiration nor pulse. Despite appropriate lifesaving measures, he dies 10 minutes later. Which of the following is the most likely cause of death in this patient?",
+				"disease": "myocardial infarction",
+				"videoSettings": {
+					"youtubeID": "TEx6tbHKAU4",
+					"start": "160"
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "Seventy-two hours after admission for an acute myocardial infarction, a 48-year-old man develops dyspnea and a productive cough with frothy sputum. Physical examination shows coarse crackles in both lungs and a blowing, holosystolic murmur heard best at the apex. ECG shows Q waves in the anteroseptal leads. Pulmonary capillary wedge pressure is 23 mm Hg. Which of the following is the most likely cause of this patient’s current condition?",
+				"disease": "papillary muscle rupture",
+				"videoSettings": {
+					"youtubeID": "TEx6tbHKAU4",
+					"start": "213"
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "A 76-year-old man is admitted to the hospital for evaluation of sudden-onset chest pain. Three days after admission, he develops severe shortness of breath. Despite appropriate care, the patient dies. The left ventricle of the heart at autopsy is shown. Which of the following most likely contributed to this patient's cause of death?",
+				"disease": "papillary muscle rupture",
+				"videoSettings": {
+					"youtubeID": "TEx6tbHKAU4",
+					"start": "273"
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "An 80-year-old man is admitted to the hospital after the sudden onset of sub-sternal chest pain and shortness of breath while sitting in a chair. He has hypertension and type 2 diabetes mellitus. He has smoked 1 pack of cigarettes daily for 42 years. Four days after admission, he becomes tachycardic and then loses consciousness; the cardiac monitor shows irregular electrical activity. Cardiac examination shows a new systolic murmur at the apex. Despite appropriate measures, he dies. Microscopic evaluation of the myocardium is most likely to show which of the following?",
+				"disease": "papillary muscle rupture",
+				"videoSettings": {
+					"youtubeID": "TEx6tbHKAU4",
+					"start": "323"
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A 59-year-old man with angina pectoris comes to the physician because of a 6-month history of shortness of breath on exertion that improves with rest. He has hypertension and hyperlipidemia. Current medications include aspirin, metoprolol, and nitroglycerine. Echocardiography shows left ventricular septal and apical hypokinesis. Cardiac catheterization shows 96% occlusion of the left anterior descending artery. The patient undergoes angioplasty and placement of a stent. The patient's shortness of breath subsequently resolves and follow-up echocardiography one week later shows normal regional contractile function. Which of the following is the most accurate explanation for the changes in echocardiography?",
+				"disease": "hibernating myocardium",
+				"videoSettings": {
+					"youtubeID": "TEx6tbHKAU4",
+					"start": "432"
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A 60-year-old man comes to the emergency department because of a 2-day history of sharp chest pain and a nonproductive cough. The pain worsens with deep inspiration and improves when he leans forward. Three weeks ago, the patient was diagnosed with an ST-elevation myocardial infarction and underwent stent implantation of the right coronary artery. His temperature is 38.4°C (101.1°F) and blood pressure is 132/85 mm Hg. Cardiac auscultation shows a high-pitched scratching sound during expiration. An x-ray of the chest shows enlargement of the cardiac silhouette and a left-sided pleural effusion. Which of the following is the most likely underlying cause of this patient's current condition?",
+				"disease": "Dressler syndrome",
+				"videoSettings": {
+					"youtubeID": "TEx6tbHKAU4",
+					"start": "510"
+				}
+			}
+		],
+		"diseaseObject": {
+			"a": "Dressler syndrome",
+			"b": "hibernating myocardium",
+			"c": "myocardial infarction",
+			"d": "papillary muscle rupture"
 		}
 	}
-]
+	]
 
 console.log(myAmbossQuestionsDataArray);
 
