@@ -228,7 +228,7 @@ var myUWorldQuestionsDataArray = [
     },
     {
         "varUWquestionsID": "Question Id: 196",
-        "text": "A 32-year-old woman comes to the emergency department with lightheadedness and shortness of breath, which started while shopping at a supermarket.  During the last 6 months, she had increasing shortness of breath and had to adjust her daily activities.  The patient has no other medical problems and does not use tobacco, alcohol, or illicit drugs.  There is no family history of heart disease, stroke, or blood clots.  Her BMI is 25 kg/m2.  After initial assessment, the patient reports that she feels "fine," refuses further evaluation, and insists on being discharged.  She dies a month later.  At autopsy, her heart has the following appearance (RV, right ventricle; LV, left ventricle):",
+        "text": "",
         "disease": "cor pulmonale",
         "videoSettings": {
             "youtubeID": "",
