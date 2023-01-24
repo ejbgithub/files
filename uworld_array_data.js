@@ -234,7 +234,7 @@ var myUWorldQuestionsDataArray = [
             "youtubeID": "",
             "start": ""
         }
-    },
+    }
 ]
 
 
