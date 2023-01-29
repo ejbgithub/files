@@ -1157,7 +1157,7 @@ var myAmbossQuestionsDataArray = [
 			"disease": "aortic regurgitation",
 			"videoSettings": {
 				"youtubeID": "Frythg3zADg",
-				"start": "465"
+				"start": "406"
 			}
 		},
 		{
