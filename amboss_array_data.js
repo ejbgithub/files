@@ -638,7 +638,931 @@ var myAmbossQuestionsDataArray = [
 			"c": "myocardial infarction",
 			"d": "papillary muscle rupture"
 		}
+	},
+	{
+		"name": "Brown - Trails for heart failure and cardiomyopathies",
+		"ambossID": "p-rLyP1",
+		"values": 
+[{
+		"varQuestionNumber": 0,
+		"text": "",
+		"disease": "",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 1,
+		"text": "A 70-year-old man comes to the physician for evaluation of worsening nocturia, fatigue, and shortness of breath on exertion. While he used to be able to walk for 15 minutes at a time, he now has to pause every 5 minutes. Recently, he has started using two pillows to avoid waking up short of breath at night. He has a history of hypertension treated with daily amlodipine and prazosin; he has difficulty adhering to his medication regimen. His pulse is 75/min, and blood pressure is 150/90 mm Hg. Physical examination shows a laterally displaced apical heartbeat and 2+ bilateral pitting edema of the lower legs. Auscultation shows an S4 gallop and fine bibasilar rales. Further evaluation is most likely to show which of the following pathophysiologic changes in this patient?",
+		"disease": "congestive heart failure",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 2,
+		"text": "A 38-year-old woman comes to the physician because of an 8-week history of shortness of breath and dull chest pain. She has a history of antiphospholipid syndrome. Physical examination shows jugular venous distention. Right heart catheterization shows a mean pulmonary arterial pressure of 30 mm Hg and a pulmonary capillary wedge pressure of 10 mm Hg. Further evaluation is most likely to show which of the following?",
+		"disease": "right heart failure",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 3,
+		"text": "A 29-year-old man is brought to the emergency department 20 minutes after being stabbed in the left thigh. His pulse is 110/min, respirations are 20/min, and blood pressure is 110/70 mm Hg. Examination shows a 2-cm wound overlying a pulsatile mass on the left anterior thigh, 4 cm below the inguinal crease. A thrill is palpated, and a bruit is heard over this area. Peripheral pulses are normal bilaterally. The patient is at greatest risk for which of the following?",
+		"disease": "high-ouput cardiac faiure",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 4,
+		"text": "A 58-year-old man comes to the physician because of a 5-day history of progressively worsening shortness of breath and fatigue. He has smoked one pack of cigarettes daily for 30 years. His pulse is 96/min, respirations are 26/min, and blood pressure is 100/60 mm Hg. An x-ray of the chest is shown. Which of the following is the most likely cause of this patient's findings?",
+		"disease": "left heart failure",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 5,
+		"text": "An investigator is studying early post-mortem changes in the lung. Autopsies are performed on patients who died following recent hospital admissions. Microscopic examination of the lungs at one of the autopsies shows numerous macrophages with brown intracytoplasmic inclusions. A Prussian blue stain causes these inclusions to turn purple. These findings are most consistent with a pathological process that would manifest with which of the following symptoms?",
+		"disease": "left heart failure",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 6,
+		"text": "A 51-year-old man comes to the physician because of progressive shortness of breath, exercise intolerance, and cough for the past 6 months. He is no longer able to climb a full flight of stairs without resting and uses 3 pillows to sleep at night. He has a history of using cocaine in his 30s but has not used any illicit drugs for the past 20 years. His pulse is 99/min, respiratory rate is 21/min, and blood pressure is 95/60 mm Hg. Crackles are heard in both lower lung fields. An x-ray of the chest shows an enlarged cardiac silhouette with bilateral fluffy infiltrates and thickening of the interlobar fissures. Which of the following findings is most likely in this patient?",
+		"disease": "left heart failure",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 7,
+		"text": "A 27-year-old woman comes to the physician because of a 3-day history of a sore throat and fever. Her temperature is 38.5°C (101.3°F). Examination shows edematous oropharyngeal mucosa and enlarged tonsils with purulent exudate. There is tender cervical lymphadenopathy. If left untreated, which of the following conditions is most likely to occur in this patient?",
+		"disease": "dilated cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 8,
+		"text": "A 59-year-old woman comes to the physician for a 3-month history of progressively worsening shortness of breath on exertion and swelling of her legs. She has a history of breast cancer, which was treated with surgery followed by therapy with doxorubicin and trastuzumab 4 years ago. Cardiac examination shows an S3 gallop; there are no murmurs or rubs. Examination of the lower extremities shows pitting edema below the knees. Echocardiography is most likely to show which of the following sets of changes in this patient? Ventricular wall thickness Ventricular cavity size Diastolic function Aorto-ventricular pressure gradient A Normal normal ↓ normal B ↑ ↑ normal normal C ↑ ↓ ↓ normal D ↑ ↓ ↓ ↑ E ↓ ↑ normal normal",
+		"disease": "dilated cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 9,
+		"text": "A 74-year-old man comes to the physician because of a 2-month history of shortness of breath and leg swelling. He has trouble climbing one flight of stairs due to dyspnea. He has hypertension and was diagnosed with multiple myeloma 6 months ago. Current medications include hydrochlorothiazide. Cardiopulmonary examination shows jugular venous distention, bibasilar crackles, and pitting edema in the lower extremities. Transthoracic echocardiography shows a thickened myocardium with elevated diastolic filling pressures. Which of the following is the most likely underlying mechanism of this patient's cardiomyopathy?",
+		"disease": "restrictive cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 10,
+		"text": "A 51-year-old man comes to the physician because of progressively worsening dyspnea on exertion and fatigue for the past 2 months. Cardiac examination shows no murmurs or bruits. Coarse crackles are heard at the lung bases bilaterally. An ECG shows an irregularly irregular rhythm with absent P waves. An x-ray of the chest shows globular enlargement of the cardiac shadow with prominent hila and bilateral fluffy infiltrates. Transthoracic echocardiography shows a dilated left ventricle with an increased ventricular cavity size; left ventricular ejection fraction is 40%. Which of the following is the most likely cause of this patient's condition?",
+		"disease": "dilated cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 11,
+		"text": "A 32-year-old man who recently emigrated from Colombia comes to the physician because of a 3-month history of shortness of breath and fatigue. Physical examination shows jugular venous distention and an additional late diastolic heart sound. Crackles are heard at the lung bases bilaterally. Cardiac catheterization is performed and left ventricular pressures are obtained. The left ventricular pressure-volume relationship compared to that of a healthy patient is shown. Which of the following is the most likely cause of this patient's heart failure?",
+		"disease": "restrictive cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 12,
+		"text": "A 27-year-old woman comes to the physician because of a 1-year history of progressive shortness of breath. She is now unable to jog for more than 10 minutes without stopping to catch her breath. Cardiac examination shows a harsh systolic, crescendo-decrescendo murmur best heard at the lower left sternal border. The murmur increases in intensity when she moves from a squatting to a standing position and decreases when she clenches her fists. The lungs are clear to auscultation. Which of the following is the most likely cause of her condition?",
+		"disease": "hypertrophic cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 13,
+		"text": "A previously healthy 30-year-old man is brought to the emergency department 30 minutes after collapsing at home. Cardiopulmonary resuscitation is attempted for 10 minutes without success. An autopsy is performed one hour after the death of the patient. During the autopsy, examination of the heart shows pliable valves without any calcification. A photograph of sections of the heart obtained at autopsy is shown. The patient's condition is most likely associated with which of the following pathophysiologic changes?",
+		"disease": "hypertrophic cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 14,
+		"text": "A previously healthy 20-year-old man is brought to the emergency department 15 minutes after collapsing while playing basketball. He has no history of serious illness. On arrival, there is no palpable pulse or respiratory effort observed. He is declared dead. The family agrees to an autopsy. Cardiac workup prior to this patient's death would most likely have shown which of the following findings?",
+		"disease": "hypertrophic cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 15,
+		"text": "A previously healthy 26-year-old man is brought to the emergency department 30 minutes after collapsing during soccer practice. The patient appears well. His pulse is 73/min and blood pressure is 125/78 mm Hg. Cardiac examination is shown. Rapid squatting decreases the intensity of the patient's auscultation finding. Which of the following is the most likely cause of this patient's condition? Video",
+		"disease": "hypertrophic cardiomyopathy",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
 	}
+],
+		"diseaseObject": {
+			"a": "arrhythmogenic right ventricular cardiomyopathy",
+			"b": "congestive heart failure NOS",
+			"c": "dilated cardiomyopathy",
+			"d": "high-ouput cardiac faiure",
+			"e": "hypertrophic cardiomyopathy",
+			"f": "left heart failure",
+			"g": "restrictive cardiomyopathy",
+			"h": "right heart failure",
+			"i": "Takotsubo cardiomyopathy"
+		}
+	},
+	{
+		"name": "Brown - Trails for heart failure and cardiomyopathies",
+		"ambossID": "",
+		"values": [
+
+			{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 70-year-old man comes to the physician for evaluation of worsening nocturia, fatigue, and shortness of breath on exertion. While he used to be able to walk for 15 minutes at a time, he now has to pause every 5 minutes. Recently, he has started using two pillows to avoid waking up short of breath at night. He has a history of hypertension treated with daily amlodipine and prazosin; he has difficulty adhering to his medication regimen. His pulse is 75/min, and blood pressure is 150/90 mm Hg. Physical examination shows a laterally displaced apical heartbeat and 2+ bilateral pitting edema of the lower legs. Auscultation shows an S4 gallop and fine bibasilar rales. Further evaluation is most likely to show which of the following pathophysiologic changes in this patient?",
+				"disease": "congestive heart failure NOS",
+				"videoSettings": {
+					"youtubeID": "tgmqt2NWhtc",
+					"start": "11"
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "A 38-year-old woman comes to the physician because of an 8-week history of shortness of breath and dull chest pain. She has a history of antiphospholipid syndrome. Physical examination shows jugular venous distention. Right heart catheterization shows a mean pulmonary arterial pressure of 30 mm Hg and a pulmonary capillary wedge pressure of 10 mm Hg. Further evaluation is most likely to show which of the following?",
+				"disease": "right heart failure",
+				"videoSettings": {
+					"youtubeID": "tgmqt2NWhtc",
+					"start": "103"
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "A 29-year-old man is brought to the emergency department 20 minutes after being stabbed in the left thigh. His pulse is 110/min, respirations are 20/min, and blood pressure is 110/70 mm Hg. Examination shows a 2-cm wound overlying a pulsatile mass on the left anterior thigh, 4 cm below the inguinal crease. A thrill is palpated, and a bruit is heard over this area. Peripheral pulses are normal bilaterally. The patient is at greatest risk for which of the following?",
+				"disease": "high-ouput cardiac faiure",
+				"videoSettings": {
+					"youtubeID": "tgmqt2NWhtc",
+					"start": "188"
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "A 58-year-old man comes to the physician because of a 5-day history of progressively worsening shortness of breath and fatigue. He has smoked one pack of cigarettes daily for 30 years. His pulse is 96/min, respirations are 26/min, and blood pressure is 100/60 mm Hg. An x-ray of the chest is shown. Which of the following is the most likely cause of this patient's findings?",
+				"disease": "left heart failure",
+				"videoSettings": {
+					"youtubeID": "tgmqt2NWhtc",
+					"start": "237"
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "An investigator is studying early post-mortem changes in the lung. Autopsies are performed on patients who died following recent hospital admissions. Microscopic examination of the lungs at one of the autopsies shows numerous macrophages with brown intracytoplasmic inclusions. A Prussian blue stain causes these inclusions to turn purple. These findings are most consistent with a pathological process that would manifest with which of the following symptoms?",
+				"disease": "left heart failure",
+				"videoSettings": {
+					"youtubeID": "tgmqt2NWhtc",
+					"start": "310"
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "A 51-year-old man comes to the physician because of progressive shortness of breath, exercise intolerance, and cough for the past 6 months. He is no longer able to climb a full flight of stairs without resting and uses 3 pillows to sleep at night. He has a history of using cocaine in his 30s but has not used any illicit drugs for the past 20 years. His pulse is 99/min, respiratory rate is 21/min, and blood pressure is 95/60 mm Hg. Crackles are heard in both lower lung fields. An x-ray of the chest shows an enlarged cardiac silhouette with bilateral fluffy infiltrates and thickening of the interlobar fissures. Which of the following findings is most likely in this patient?",
+				"disease": "left heart failure",
+				"videoSettings": {
+					"youtubeID": "HZsiGPiXAWA",
+					"start": "12"
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A 27-year-old woman comes to the physician because of a 3-day history of a sore throat and fever. Her temperature is 38.5°C (101.3°F). Examination shows edematous oropharyngeal mucosa and enlarged tonsils with purulent exudate. There is tender cervical lymphadenopathy. If left untreated, which of the following conditions is most likely to occur in this patient?",
+				"disease": "dilated cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "HZsiGPiXAWA",
+					"start": "104"
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A 59-year-old woman comes to the physician for a 3-month history of progressively worsening shortness of breath on exertion and swelling of her legs. She has a history of breast cancer, which was treated with surgery followed by therapy with doxorubicin and trastuzumab 4 years ago. Cardiac examination shows an S3 gallop; there are no murmurs or rubs. Examination of the lower extremities shows pitting edema below the knees. Echocardiography is most likely to show which of the following sets of changes in this patient? Ventricular wall thickness Ventricular cavity size Diastolic function Aorto-ventricular pressure gradient A Normal normal ↓ normal B ↑ ↑ normal normal C ↑ ↓ ↓ normal D ↑ ↓ ↓ ↑ E ↓ ↑ normal normal",
+				"disease": "dilated cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "HZsiGPiXAWA",
+					"start": "197"
+				}
+			},
+			{
+				"varQuestionNumber": 9,
+				"text": "A 74-year-old man comes to the physician because of a 2-month history of shortness of breath and leg swelling. He has trouble climbing one flight of stairs due to dyspnea. He has hypertension and was diagnosed with multiple myeloma 6 months ago. Current medications include hydrochlorothiazide. Cardiopulmonary examination shows jugular venous distention, bibasilar crackles, and pitting edema in the lower extremities. Transthoracic echocardiography shows a thickened myocardium with elevated diastolic filling pressures. Which of the following is the most likely underlying mechanism of this patient's cardiomyopathy?",
+				"disease": "restrictive cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "HZsiGPiXAWA",
+					"start": "287"
+				}
+			},
+			{
+				"varQuestionNumber": 10,
+				"text": "A 51-year-old man comes to the physician because of progressively worsening dyspnea on exertion and fatigue for the past 2 months. Cardiac examination shows no murmurs or bruits. Coarse crackles are heard at the lung bases bilaterally. An ECG shows an irregularly irregular rhythm with absent P waves. An x-ray of the chest shows globular enlargement of the cardiac shadow with prominent hila and bilateral fluffy infiltrates. Transthoracic echocardiography shows a dilated left ventricle with an increased ventricular cavity size; left ventricular ejection fraction is 40%. Which of the following is the most likely cause of this patient's condition?",
+				"disease": "dilated cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "HZsiGPiXAWA",
+					"start": "410"
+				}
+			},
+			{
+				"varQuestionNumber": 11,
+				"text": "A 32-year-old man who recently emigrated from Colombia comes to the physician because of a 3-month history of shortness of breath and fatigue. Physical examination shows jugular venous distention and an additional late diastolic heart sound. Crackles are heard at the lung bases bilaterally. Cardiac catheterization is performed and left ventricular pressures are obtained. The left ventricular pressure-volume relationship compared to that of a healthy patient is shown. Which of the following is the most likely cause of this patient's heart failure?",
+				"disease": "restrictive cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "FHvwtEh2nls",
+					"start": "12"
+				}
+			},
+			{
+				"varQuestionNumber": 12,
+				"text": "A 27-year-old woman comes to the physician because of a 1-year history of progressive shortness of breath. She is now unable to jog for more than 10 minutes without stopping to catch her breath. Cardiac examination shows a harsh systolic, crescendo-decrescendo murmur best heard at the lower left sternal border. The murmur increases in intensity when she moves from a squatting to a standing position and decreases when she clenches her fists. The lungs are clear to auscultation. Which of the following is the most likely cause of her condition?",
+				"disease": "hypertrophic cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "FHvwtEh2nls",
+					"start": "132"
+				}
+			},
+			{
+				"varQuestionNumber": 13,
+				"text": "A previously healthy 30-year-old man is brought to the emergency department 30 minutes after collapsing at home. Cardiopulmonary resuscitation is attempted for 10 minutes without success. An autopsy is performed one hour after the death of the patient. During the autopsy, examination of the heart shows pliable valves without any calcification. A photograph of sections of the heart obtained at autopsy is shown. The patient's condition is most likely associated with which of the following pathophysiologic changes?",
+				"disease": "hypertrophic cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "FHvwtEh2nls",
+					"start": "227"
+				}
+			},
+			{
+				"varQuestionNumber": 14,
+				"text": "A previously healthy 20-year-old man is brought to the emergency department 15 minutes after collapsing while playing basketball. He has no history of serious illness. On arrival, there is no palpable pulse or respiratory effort observed. He is declared dead. The family agrees to an autopsy. Cardiac workup prior to this patient's death would most likely have shown which of the following findings?",
+				"disease": "hypertrophic cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "FHvwtEh2nls",
+					"start": "310"
+				}
+			},
+			{
+				"varQuestionNumber": 15,
+				"text": "A previously healthy 26-year-old man is brought to the emergency department 30 minutes after collapsing during soccer practice. The patient appears well. His pulse is 73/min and blood pressure is 125/78 mm Hg. Cardiac examination is shown. Rapid squatting decreases the intensity of the patient's auscultation finding. Which of the following is the most likely cause of this patient's condition? Video",
+				"disease": "hypertrophic cardiomyopathy",
+				"videoSettings": {
+					"youtubeID": "FHvwtEh2nls",
+					"start": "364"
+				}
+			}
+		],
+		"diseaseObject": {
+			"a": "arrhythmogenic right ventricular cardiomyopathy",
+			"b": "congestive heart failure NOS",
+			"c": "dilated cardiomyopathy",
+			"d": "high-ouput cardiac faiure",
+			"e": "hypertrophic cardiomyopathy",
+			"f": "left heart failure",
+			"g": "restrictive cardiomyopathy",
+			"h": "right heart failure",
+			"i": "Takotsubo cardiomyopathy",
+			"j": "none of the above"
+		}
+	},
+{
+	"name": "Brown - Trails for blood vessel and heart tumors",
+	"ambossID": "",
+	"values": [{
+			"varQuestionNumber": 0,
+			"text": "",
+			"disease": "",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 1,
+			"text": "A 4-year-old boy is brought to the physician by his mother because of painless lesions on his face that he has had since shortly after birth. They recently moved to the USA from Indonesia where they had limited access to healthcare. A photograph of the lesions is shown. Which of the following is the most likely diagnosis?",
+			"disease": "hemangioma",
+			"videoSettings": {
+				"youtubeID": "2RQIPxcFfoQ",
+				"start": "12"
+			}
+		},
+		{
+			"varQuestionNumber": 2,
+			"text": "An otherwise healthy 8-month-old girl is brought to the physician because of a lesion on her back. Her mother reports that the lesion has been present since shortly after birth and has been rapidly increasing in size. Vital signs are within normal limits. Examination of the upper back shows a 2.8-cm, flat, reddish-purple, sharply demarcated skin lesion that is nontender and blanches with pressure. A biopsy of the lesion is obtained; microscopic examination of the specimen shows dense cords of mitotically active endothelial cells and few small-caliber vessel lumina that contain red blood cells. Which of the following is the most likely outcome if the patient's lesion is left untreated?",
+			"disease": "hemangioma",
+			"videoSettings": {
+				"youtubeID": "2RQIPxcFfoQ",
+				"start": "75"
+			}
+		},
+		{
+			"varQuestionNumber": 3,
+			"text": "A 49-year-old woman comes to the physician with a 2-month history of mild abdominal pain, nausea, and several episodes of vomiting. She often feels full after eating only a small amount of food. Abdominal examination shows mild right upper quadrant tenderness and a liver span of 16 cm. Ultrasonography shows a 5 x 4 cm hyperechoic mass in the left lobe of the liver. The mass is surgically excised. A photomicrograph of the resected specimen is shown. Which of the following is the most likely diagnosis?",
+			"disease": "hemangioma",
+			"videoSettings": {
+				"youtubeID": "2RQIPxcFfoQ",
+				"start": "168"
+			}
+		},
+		{
+			"varQuestionNumber": 4,
+			"text": "A 32-year-old man comes to the physician because of a 3-week history of recurrent thumb pain that worsens with exposure to cold temperatures. Examination shows a 6-mm, blue-red papule under the left thumbnail. The overlying area is extremely tender to palpation. The thumbnail is slightly pitted and cracked. This lesion most likely developed from which of the following types of cells?",
+			"disease": "glomus tumor",
+			"videoSettings": {
+				"youtubeID": "2RQIPxcFfoQ",
+				"start": "240"
+			}
+		},
+		{
+			"varQuestionNumber": 5,
+			"text": "A 44-year-old man with HIV comes to the physician for a routine follow-up examination. He has been nonadherent with his antiretroviral medication regimen for several years. He appears chronically ill and fatigued. CD4+ T-lymphocyte count is 405/mm3. Further evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "Kaposi sarcoma",
+			"videoSettings": {
+				"youtubeID": "2RQIPxcFfoQ",
+				"start": "300"
+			}
+		},
+		{
+			"varQuestionNumber": 6,
+			"text": "A 49-year-old man with HIV comes to the physician because of a 1-month history of intermittent diarrhea and abdominal pain. Abdominal examination shows mild, diffuse tenderness throughout the lower quadrants. His CD4+ T-lymphocyte count is 180/mm3. Colonoscopy shows multiple hemorrhagic nodules in the rectum and descending colon. Polymerase chain reaction of the lesions is positive for HHV-8. Histologic examination of the lesions is most likely to show which of the following findings?",
+			"disease": "Kaposi sarcoma",
+			"videoSettings": {
+				"youtubeID": "0osfpfHBK1o",
+				"start": "11"
+			}
+		},
+		{
+			"varQuestionNumber": 7,
+			"text": "A 48-year-old man comes to the physician because of a skin lesion on his nose and in his mouth. The lesions have been gradually increasing in size and are not painful or pruritic. Two months ago, he was treated for esophageal candidiasis. Physical examination shows one pinkish-brown papule on the right wing of the nose and two similar nodular lesions on the hard palate and buccal mucosa. A biopsy of one of the lesions shows spindle-shaped endothelial cells and infiltration of lymphocytes, plasma cells, and macrophages. Which of the following is the most likely causal organism of this patient's condition?",
+			"disease": "Kaposi sarcoma",
+			"videoSettings": {
+				"youtubeID": "0osfpfHBK1o",
+				"start": "81"
+			}
+		},
+		{
+			"varQuestionNumber": 8,
+			"text": "A 38-year-old man with HIV infection comes to the physician for a follow-up examination. The patient is homeless and reports that he has not been taking his medications regularly. Examination shows multiple large, firm violaceous nodules, which erode easily, on his arms, legs, and trunk. His CD4+ T-lymphocyte count is 90/mm3. Treatment with oral erythromycin is begun. Three months later, the lesions have resolved. Which of the following is the most likely causal pathogen?",
+			"disease": "bacillary angiomatosis",
+			"videoSettings": {
+				"youtubeID": "0osfpfHBK1o",
+				"start": "155"
+			}
+		},
+		{
+			"varQuestionNumber": 9,
+			"text": "An 11-year-old girl comes to the physician for evaluation of recurrent nosebleeds since childhood. She has multiple, small dilated capillaries on the lips, nose, and fingers on exam. Her father has a similar history of recurrent nosebleeds. Which of the following conditions is this patient at increased risk for?",
+			"disease": "Osler-Weber-Rendu syndrome",
+			"videoSettings": {
+				"youtubeID": "0osfpfHBK1o",
+				"start": "210"
+			}
+		},
+		{
+			"varQuestionNumber": 10,
+			"text": "A 70-year-old man comes to the emergency department after briefly losing consciousness and collapsing when rising from a chair. He did not sustain any injuries from his collapse. He has had a two-week history of dizziness upon standing. He has smoked one pack of cigarettes daily for 55 years. He drinks three beers and two glasses of whiskey daily. He currently takes dutasteride and tamsulosin for benign prostatic hyperplasia. His blood pressure is 120/80 mm Hg supine and 100/70 mm Hg one minute after standing with no change in pulse rate. Physical examination shows conjunctival pallor. On cardiac auscultation, there is a plopping sound followed by a low-pitched, rumbling mid-diastolic murmur heard best at the apex. Which of the following is the most likely cause of this patient's presentation?",
+			"disease": "cardiac myxoma",
+			"videoSettings": {
+				"youtubeID": "0osfpfHBK1o",
+				"start": "279"
+			}
+		},
+		{
+			"varQuestionNumber": 11,
+			"text": "A 53-year-old woman is brought to the emergency department because of sudden-onset slurred speech and right-sided weakness. Physical examination shows an expressive aphasia, right facial droop, and decreased muscle strength in the right arm and leg. A CT angiogram of the head shows a thrombus in the left middle cerebral artery, and endovascular thrombectomy is performed. Microscopic examination of the retrieved thrombus shows mucoid, gelatinous material that is hypocellular. This thrombus most likely originated from which of the following anatomic locations?",
+			"disease": "cardiac myxoma",
+			"videoSettings": {
+				"youtubeID": "0osfpfHBK1o",
+				"start": "355"
+			}
+		},
+		{
+			"varQuestionNumber": 12,
+			"text": "A 45-year-old woman comes to the emergency department for fatigue and swelling in her legs. She has had a 10-kg (22-lb) weight loss in the past 8 months despite normal appetite. She has no history of serious medical illness, and has not seen a physician in over 15 years. Physical examination shows a brown-black, asymmetrical macule on her left shoulder. Cardiac examination shows jugular venous distention and an S3 gallop best heard over the apex. Pitting edema is present in the bilateral lower extremities up to the mid-shin. A transthoracic echocardiogram shows a nonmobile mass protruding from the interatrial septum into the right atrium that partially occludes the tricuspid valve. A biopsy of the mass is most likely to show which of the following?",
+			"disease": "metastasis",
+			"videoSettings": {
+				"youtubeID": "0osfpfHBK1o",
+				"start": "459"
+			}
+		},
+		{
+			"varQuestionNumber": 13,
+			"text": "A 52-year-old woman comes to the physician because of a 1-month history of mild fever, fatigue, and shortness of breath. She has no history of serious medical illness and takes no medications. Cardiopulmonary examination shows a mid-diastolic plopping sound heard best at the apex and bilateral rales at the base of the lungs. Echocardiography shows a pedunculated, heterogeneous mass in the left atrium. A biopsy of the mass shows clusters of mesenchymal cells surrounded by gelatinous material. Further evaluation of this patient is most likely to show which of the following?",
+			"disease": "cardiac myxoma",
+			"videoSettings": {
+				"youtubeID": "0osfpfHBK1o",
+				"start": "575"
+			}
+		}
+	],
+	"diseaseObject": {
+		"a": "",
+		"b": "",
+		"c": "",
+		"d": "",
+		"e": "",
+		"f": "",
+		"g": ""
+	}
+},
+{
+	"name": "Brown - Trails for pericardial and valvular disorders",
+	"ambossID": "",
+	"values": [{
+			"varQuestionNumber": 0,
+			"text": "",
+			"disease": "",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 1,
+			"text": "An 81-year-old man comes to the physician because of increased exertional dyspnea and dizziness over the past 8 weeks. He has hypertension for which he takes lisinopril. He has smoked one pack of cigarettes daily for the past 50 years. Physical examination shows weak peripheral pulses. Cardiac examination is shown. Which of the following is the most likely diagnosis? Video",
+			"disease": "aortic stenosis",
+			"videoSettings": {
+				"youtubeID": "Frythg3zADg",
+				"start": "12"
+			}
+		},
+		{
+			"varQuestionNumber": 2,
+			"text": "A 67-year-old woman comes to the physician for chest tightness, shortness of breath, and lightheadedness. She has experienced these symptoms during the past 2 weeks while climbing stairs but feels better when she sits down. She had a cold 2 weeks ago but has otherwise been well. She appears short of breath. Her respirations are 21/min and blood pressure is 131/85 mm Hg. On cardiovascular examination, a late systolic ejection murmur is heard best in the second right intercostal space. The lungs are clear to auscultation. Which of the following mechanisms is the most likely cause of this patient's current condition?",
+			"disease": "aortic stenosis",
+			"videoSettings": {
+				"youtubeID": "Frythg3zADg",
+				"start": "96"
+			}
+		},
+		{
+			"varQuestionNumber": 3,
+			"text": "A 79-year-old woman is brought to the emergency department by her husband 20 minutes after losing consciousness. She was walking briskly with her husband when she collapsed suddenly. Her husband says that she regained consciousness after 1 minute. She has had episodes of mild chest pain for the past 2 months, especially when working in the garden. Physical examination shows a grade 3/6 systolic ejection murmur. The intensity of the murmur decreases with the handgrip maneuver and does not change with inspiration. Which of the following is the most likely cause of this patient's symptoms?",
+			"disease": "aortic stenosis",
+			"videoSettings": {
+				"youtubeID": "Frythg3zADg",
+				"start": "220"
+			}
+		},
+		{
+			"varQuestionNumber": 4,
+			"text": "A 52-year-old woman comes to the physician because of a 3-month history of worsening chest pain and breathlessness during exercise. She has no history of serious illness and takes no medications. Vital signs are within normal limits. Auscultation of the chest shows a murmur in the 2nd right intercostal space. A phonocardiogram of the murmur is shown. Which of the following is the most likely underlying cause of this patient's symptoms?",
+			"disease": "aortic stenosis",
+			"videoSettings": {
+				"youtubeID": "Frythg3zADg",
+				"start": "319"
+			}
+		},
+		{
+			"varQuestionNumber": 5,
+			"text": "A 74-year-old man comes to the physician for a 6-month history of progressively worsening fatigue and shortness of breath on exertion. He immigrated to the United States 35 years ago from India. His pulse is 89/min and blood pressure is 145/60 mm Hg. Crackles are heard at the lung bases. Cardiac examination shows a grade 3/6 early diastolic murmur loudest at the left sternal border in the third intercostal space. Further evaluation of this patient is most likely to show which of the following?",
+			"disease": "aortic regurgitation",
+			"videoSettings": {
+				"youtubeID": "Frythg3zADg",
+				"start": "465"
+			}
+		},
+		{
+			"varQuestionNumber": 6,
+			"text": "An otherwise healthy 25-year-old man comes to the physician because of a 2-day history of chills, palpitations, and worsening shortness of breath. The patient is 183 cm (6 ft) tall and weighs 70 kg (154 lbs); BMI is 21 kg/m2. His temperature is 39.5°C (103.1°F), pulse is 110/min, and blood pressure is 140/60 mm Hg. Examination of the extremities shows several nontender, nonblanching, erythematous macules on the palms and soles and painful nodules on the pads of the fingers and toes. Coarse crackles are heard over both lungs. Cardiac examination is shown. Results of initial blood cultures are pending. Echocardiography is most likely to show which of the following abnormalities? Video",
+			"disease": "aortic regurgitation",
+			"videoSettings": {
+				"youtubeID": "bPwVlZyBDWo",
+				"start": "11"
+			}
+		},
+		{
+			"varQuestionNumber": 7,
+			"text": "A 38-year-old man comes to the physician because of recurrent palpitations over the past 2 months. He says that he was diagnosed with a minor heart defect during childhood but does not remember the details and has not had regular medical follow-up examinations since. Physical examination shows a heart murmur. Cardiac catheterization is performed and hemodynamic results show: Oxygen saturation (%) Pressure (mm Hg) Right atrium 75 3 Right ventricle 75 25/4 Pulmonary trunk 75 22/10 Left atrium 99 10 Left ventricle 99 165/45 Ascending Aorta 99 155/70 Which of the following is the most likely diagnosis?",
+			"disease": "aortic regurgitation",
+			"videoSettings": {
+				"youtubeID": "bPwVlZyBDWo",
+				"start": "102"
+			}
+		},
+		{
+			"varQuestionNumber": 8,
+			"text": "A 39-year-old woman comes to the physician because of an 8-month history of progressive fatigue, shortness of breath, and palpitations. She has a history of recurrent episodes of joint pain and fever during childhood. She emigrated from India with her parents when she was 10 years old. Cardiac examination shows an opening snap followed by a late diastolic rumble, which is best heard at the fifth intercostal space in the left midclavicular line. This patient is at greatest risk for compression of which of the following structures?",
+			"disease": "mitral stenosis",
+			"videoSettings": {
+				"youtubeID": "bPwVlZyBDWo",
+				"start": "193"
+			}
+		},
+		{
+			"varQuestionNumber": 9,
+			"text": "A 44-year-old woman comes to the physician because of progressively worsening shortness of breath with exertion and intermittent palpitations over the last 2 months. She has had neither chest pain nor a cough. Her pulse is 124/min and irregular. Physical examination shows a grade 4/6 high-pitched holosystolic murmur that is best heard at the apex and radiates to the back. The murmur increases in intensity when she clenches her hands into fists. The lungs are clear to auscultation. Further evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "mitral regurgitation",
+			"videoSettings": {
+				"youtubeID": "bPwVlZyBDWo",
+				"start": "263"
+			}
+		},
+		{
+			"varQuestionNumber": 10,
+			"text": "A 53-year-old woman with hypertension and hyperlipidemia comes to the physician because of a 3-month history of progressively worsening shortness of breath. Her pulse is 92/min, respirations are 22/min, and blood pressure is 110/70 mm Hg. Cardiac examination shows a grade 3/6 holosystolic murmur at the apex that radiates to the axilla and an extra heart sound during early diastole. Assuming all other parameters remain constant, which of the following is most likely to decrease the volume of retrograde blood flow in this patient?",
+			"disease": "mitral regurgitation",
+			"videoSettings": {
+				"youtubeID": "bPwVlZyBDWo",
+				"start": "334"
+			}
+		},
+		{
+			"varQuestionNumber": 11,
+			"text": "A 62-year-old woman comes to the physician because of a 2-month history of exertional shortness of breath and fatigue. She sometimes wakes up at night coughing and gasping for air. Cardiac examination shows a grade 3/6 holosystolic murmur best heard at the apex. Which of the following physical exam findings would be consistent with an exacerbation of this patient's condition?",
+			"disease": "mitral regurgitation",
+			"videoSettings": {
+				"youtubeID": "Rw0UcddKLT0",
+				"start": "11"
+			}
+		},
+		{
+			"varQuestionNumber": 12,
+			"text": "A 61-year-old man comes to the physician because of a 3-month history of fatigue and progressively worsening shortness of breath that is worse when lying down. Recently, he started using two pillows to avoid waking up short of breath at night. Examination shows a heart murmur. A graph with the results of cardiac catheterization is shown. Given this patient's valvular condition, which of the following murmurs is most likely to be heard on cardiac auscultation?",
+			"disease": "mitral regurgitation",
+			"videoSettings": {
+				"youtubeID": "Rw0UcddKLT0",
+				"start": "73"
+			}
+		},
+		{
+			"varQuestionNumber": 13,
+			"text": "A 25-year old man comes to the physician because of fatigue over the past 6 months. He has been to the emergency room several times over the past 3 years for recurrent shoulder and patella dislocations. Physical examination shows abnormal joint hypermobility and skin hyperextensibility. A high-frequency mid-systolic click is heard on auscultation. Which of the following is most likely to result in an earlier onset of this patient’s auscultation finding?",
+			"disease": "mitral valve prolapse",
+			"videoSettings": {
+				"youtubeID": "Rw0UcddKLT0",
+				"start": "138"
+			}
+		},
+		{
+			"varQuestionNumber": 14,
+			"text": "A 19-year-old woman comes to the physician for a routine health maintenance examination. She appears well. Her vital signs are within normal limits. Cardiac auscultation shows a mid-systolic click and a grade 3/6, late-systolic, crescendo murmur that is best heard at the cardiac apex in the left lateral recumbent position. After the patient stands up suddenly, the click is heard during early systole and the intensity of the murmur increases. Which of the following is the most likely underlying cause of this patient's examination findings?",
+			"disease": "mitral valve prolapse",
+			"videoSettings": {
+				"youtubeID": "Rw0UcddKLT0",
+				"start": "204"
+			}
+		},
+		{
+			"varQuestionNumber": 15,
+			"text": "A 72-year-old man comes to the physician for a 5-month history of hoarseness, exertional dyspnea, and fatigue. He does not smoke or drink alcohol. His pulse is 98/min and irregular. His voice is coarse in quality. Physical examination shows a liver span of 16 cm and a soft diastolic murmur heard best at the apex. Which of the following is the most likely cause of this patient's hoarseness?",
+			"disease": "mitral stenosis",
+			"videoSettings": {
+				"youtubeID": "Rw0UcddKLT0",
+				"start": "265"
+			}
+		},
+		{
+			"varQuestionNumber": 16,
+			"text": "A 30-year-old woman comes to the emergency department because of a 1-day history of sharp chest pain radiating to the left shoulder. The pain worsens when she coughs, breathes deeply, or lies down. She has had a mild fever and a cough for the past 2 days. She takes ibuprofen for hip and knee pain, which started 4 months ago. Examination shows a symmetric, erythematous rash on her nose and cheeks, and erythematous patches with scaling and plugged follicles over her hands. Cardiovascular evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "acute pericarditis",
+			"videoSettings": {
+				"youtubeID": "Wvr8LuoPXD8",
+				"start": "12"
+			}
+		},
+		{
+			"varQuestionNumber": 17,
+			"text": "A 64-year-old man who recently immigrated to the United States from Haiti comes to the physician because of a 3-week history of progressively worsening exertional dyspnea and fatigue. For the past few days, he has also had difficulty lying flat due to trouble breathing. Over the past year, he has had intermittent fever, night sweats, and cough but he has not been seen by a physician for evaluation of these symptoms. His temperature is 37.8°C (100°F). An x-ray of the chest is shown. Further evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "chronic pericarditis",
+			"videoSettings": {
+				"youtubeID": "Wvr8LuoPXD8",
+				"start": "120"
+			}
+		},
+		{
+			"varQuestionNumber": 18,
+			"text": "A 23-year-old man comes to the physician with a 1-week history of sharp, substernal chest pain that is worse with inspiration and relieved with leaning forward. He has also had nausea and myalgias. His father has coronary artery disease. His temperature is 37.3°C (99.1°F), pulse is 110/min, and blood pressure is 130/84 mm Hg. Cardiac examination shows a high-pitched rubbing sound between S1 and S2 that is best heard at the left sternal border. ECG shows depressed PR interval and diffuse ST elevations. Which of the following is the most likely cause of this patient’s symptoms?",
+			"disease": "acute pericarditis",
+			"videoSettings": {
+				"youtubeID": "Wvr8LuoPXD8",
+				"start": "245"
+			}
+		},
+		{
+			"varQuestionNumber": 19,
+			"text": "A 55-year-old man is brought to the emergency department 12 hours after the sudden onset of shortness of breath and substernal chest pain at rest; the pain is increased by inspiration. He has also had a nonproductive cough, fever, and malaise for the past 5 days. He does not smoke or use illicit drugs. His temperature is 38°C (100.4°F), pulse is 125/min, respirations are 32/min, and blood pressure is 85/45 mm Hg. Physical examination shows distended neck veins. Auscultation of the chest discloses bilateral basilar rales and muffled heart sounds. An ECG shows sinus tachycardia, diffuse ST segment elevation, low voltage QRS complexes, and fluctuating R wave amplitude. Which of the following is the most likely diagnosis?",
+			"disease": "acute cardiac tamponade",
+			"videoSettings": {
+				"youtubeID": "Wvr8LuoPXD8",
+				"start": "307"
+			}
+		},
+		{
+			"varQuestionNumber": 20,
+			"text": "A 32-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to the left chest just below the clavicle. On arrival, he is hypotensive with rapid and shallow breathing and appears anxious and agitated. He is intubated and mechanically ventilated. Infusion of 0.9% saline is begun. Five minutes later, his pulse is 137/min and blood pressure is 84/47 mm Hg. Examination shows a 3-cm single stab wound to the left chest at the 4th intercostal space at the midclavicular line without active external bleeding. Cardiovascular examination shows muffled heart sounds and jugular venous distention. Breath sounds are normal bilaterally. Further evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "acute cardiac tamponade",
+			"videoSettings": {
+				"youtubeID": "Wvr8LuoPXD8",
+				"start": "377"
+			}
+		},
+		{
+			"varQuestionNumber": 21,
+			"text": "A 63-year-old man who recently immigrated to the United States from Indonesia comes to the physician because of worsening shortness of breath and swollen extremities for the past 3 months. He has had a 4-kg (8.8-lb) weight loss and intermittent fevers over the last 6 months. Examination shows pitting pedal edema and abdominal distension. Abdominal pressure over the right upper quadrant produces persistent distention of the jugular veins. An x-ray of the chest shows cavernous infiltrates in the left and right-upper lobes and a calcified cardiac silhouette. Cardiovascular examination is most likely to show which of the following?",
+			"disease": "chronic pericarditis",
+			"videoSettings": {
+				"youtubeID": "Wvr8LuoPXD8",
+				"start": "487"
+			}
+		}
+	],
+	"diseaseObject": {
+		"a": "",
+		"b": "",
+		"c": "",
+		"d": "",
+		"e": "",
+		"f": "",
+		"g": ""
+	}
+},
+{
+	"name": "Brown - Trails for congenital heart disease",
+	"ambossID": "",
+	"values": [{
+			"varQuestionNumber": 0,
+			"text": "",
+			"disease": "",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 1,
+			"text": "A 3-year-old girl is brought to the cardiologist because of sweating and respiratory distress while eating. She is at the 30th percentile for height and 15th percentile for weight. Echocardiography shows a defect in the membranous portion of the interventricular septum and a moderately decreased left ventricular ejection fraction. Physical examination is most likely to show which of the following findings?",
+			"disease": "ventricular septal defect",
+			"videoSettings": {
+				"youtubeID": "90cZF-V5_nM",
+				"start": "11"
+			}
+		},
+		{
+			"varQuestionNumber": 2,
+			"text": "A 10-year-old boy is brought to the physician by his father, who is concerned because his son has been less interested in playing soccer with him recently. They used to play every weekend, but his son has started to tire easily and has complained of pain in the lower legs while running around on the soccer field. The boy has no personal or family history of serious illness. Cardiac examination shows a systolic ejection murmur best heard over the left sternal border that radiates to the left paravertebral region. Chest x-rays show erosions of the posterior aspects of the 6th to 8th ribs. If left untreated, this patient is at greatest risk for developing which of the following?",
+			"disease": "coarctation of the aorta",
+			"videoSettings": {
+				"youtubeID": "90cZF-V5_nM",
+				"start": "70"
+			}
+		},
+		{
+			"varQuestionNumber": 3,
+			"text": "A 16-year-old boy is brought to the physician by his parents because of a 6-month history of progressive fatigue and worsening shortness of breath on exertion. The parents report that the boy “has always tired out a bit more easily than other kids.” The family recently immigrated to the United States from rural Bolivia. Pulse oximetry on room air shows an oxygen saturation of 96% on both index fingers. Cardiac examination shows a right parasternal heave on palpation and a pronounced S2 on auscultation. Pulses in the upper and lower extremities are synchronous bilaterally. There is mild bluish discoloration and bulbous enlargement of the distal toes bilaterally. Echocardiography is most likely to show which of the following?",
+			"disease": "patent ductus arteriosus",
+			"videoSettings": {
+				"youtubeID": "90cZF-V5_nM",
+				"start": "190"
+			}
+		},
+		{
+			"varQuestionNumber": 4,
+			"text": "A 3-year-old boy is brought to the physician because of recurrent nosebleeds and fatigue for the past 2 months. He also frequently complains his head hurts. The patient has met all motoric milestones for his age but does not like to run because his legs start to hurt if he does. He is at the 40th percentile for both height and weight. His temperature is 37.0°C (98.6°F), pulse is 125/min, respirations are 32/min, and blood pressure in the right arm is 130/85 mm Hg. A grade 2/6 systolic murmur is heard in the left paravertebral region. Further evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "coarctation of the aorta",
+			"videoSettings": {
+				"youtubeID": "90cZF-V5_nM",
+				"start": "344"
+			}
+		},
+		{
+			"varQuestionNumber": 5,
+			"text": "A previously healthy 35-year-old woman comes to the emergency department because of sudden weakness of her right arm and leg that started 3 hours ago. She returned from a business trip from Europe 3 days ago. She has smoked a pack of cigarettes daily for 10 years. Her only medication is an oral contraceptive. Her temperature is 38.0°C (100.4°F), pulse is 115/min and regular, and blood pressure is 155/85 mm Hg. Examination shows decreased muscle strength on the entire right side. Deep tendon reflexes are 4+ on the right. Babinski sign is present on the right. The left lower leg is swollen, erythematous, and tender to palpation. Further evaluation is most likely to show which of the following?",
+			"disease": "patent foramen ovale",
+			"videoSettings": {
+				"youtubeID": "90cZF-V5_nM",
+				"start": "444"
+			}
+		},
+		{
+			"varQuestionNumber": 6,
+			"text": "An otherwise healthy 15-year-old boy comes to the physician for a routine health maintenance examination. He feels well and is doing well in school. He has no history of serious illness. Vital signs are within normal limits. The lungs are clear to auscultation. Cardiac auscultation shows no murmur, but a wide-split S2 that does not change with respiration. If left untreated, this patient is at increased risk for which of the following complications?",
+			"disease": "atrial septal defect",
+			"videoSettings": {
+				"youtubeID": "jlaZIB25_hg",
+				"start": "11"
+			}
+		},
+		{
+			"varQuestionNumber": 7,
+			"text": "A 2-year-old boy with a history of recurrent respiratory infections is brought to the physician for a follow-up examination. His height and weight are both at the 20th percentile. Crackles are heard in both lower lung fields. Cardiac auscultation shows a grade 3/6 holosystolic murmur over the left lower sternal border and a diastolic rumble heard best at the apex. If left untreated, this patient is most likely to develop which of the following?",
+			"disease": "ventricular septal defect",
+			"videoSettings": {
+				"youtubeID": "jlaZIB25_hg",
+				"start": "77"
+			}
+		},
+		{
+			"varQuestionNumber": 8,
+			"text": "A 2300-g (5.07-lb) male newborn is delivered at term to a 39-year-old woman. Examination shows a sloping forehead, a flat nasal bridge, increased interocular distance, low-set ears, a protruding tongue, a single palmar crease and an increased gap between the first and second toe. There are small white and brown spots in the periphery of both irises. The abdomen is distended. An x-ray of the abdomen shows two large air-filled spaces in the upper quadrant. This patient's condition is most likely associated with which of the following cardiac anomalies?",
+			"disease": "atrioventricular septal defect",
+			"videoSettings": {
+				"youtubeID": "jlaZIB25_hg",
+				"start": "172"
+			}
+		},
+		{
+			"varQuestionNumber": 9,
+			"text": "A 2-week-old newborn is brought to the physician because of worsening feeding difficulty since birth. Examination shows a grade 2/6 harsh holosystolic murmur, heard most clearly at the left lower sternal border, and a soft mid-diastolic rumble over the cardiac apex. Echocardiography shows shunting of blood through the ventricular septum during systole. The patient undergoes surgery for closure of the defect. Which of the following sets of changes are expected after successful repair of this cardiac defect? Left atrial pressure Left ventricular pressure Right ventricular pressure A ↓ ↑ no change B ↓ ↑ ↓ C ↑ ↑ ↑ D ↓ ↓ ↓ E ↑ ↑ ↓",
+			"disease": "ventricular septal defect",
+			"videoSettings": {
+				"youtubeID": "jlaZIB25_hg",
+				"start": "230"
+			}
+		},
+		{
+			"varQuestionNumber": 10,
+			"text": "A 3-year-old boy is brought to the physician for a follow-up examination after having undergone extensive workup of a heart murmur that was detected on routine examination. Results of hemodynamic studies performed during cardiac catheterization show: Oxygen saturation (%) Pressure (mm Hg) Right atrium 74 6 Right ventricle 85 40/10 Truncus pulmonalis 85 35/20 Left atrium 98 10 Left ventricle 98 110/10 Ascending aorta 98 105/65 This patient's murmur is most likely caused by which of the following conditions?",
+			"disease": "ventricular septal defect",
+			"videoSettings": {
+				"youtubeID": "jlaZIB25_hg",
+				"start": "308"
+			}
+		},
+		{
+			"varQuestionNumber": 11,
+			"text": "A 38-year-old woman, gravida 2, para 1, at 24 weeks' gestation comes to the physician for a routine prenatal evaluation. She has no history of major medical illness and takes no medications. Fetal ultrasonography shows a cardiac defect resulting from abnormal development of the endocardial cushions. This defect is most likely to result in which of the following?",
+			"disease": "atrioventricular septal defect",
+			"videoSettings": {
+				"youtubeID": "YPtuWdVaCs4",
+				"start": "10"
+			}
+		},
+		{
+			"varQuestionNumber": 12,
+			"text": "A 30-year-old man with Down syndrome is brought to the physician by his mother for the evaluation of fatigue. Physical examination shows bluish-colored lips and digital clubbing that were not present at his most recent examination. Right heart catheterization shows a right atrial pressure of 32 mmHg. Which of the following is most likely involved in the pathogenesis of this patient's current condition?",
+			"disease": "Eisenmenger syndrome",
+			"videoSettings": {
+				"youtubeID": "YPtuWdVaCs4",
+				"start": "44"
+			}
+		},
+		{
+			"varQuestionNumber": 13,
+			"text": "A 3-month-old boy is brought to the physician for a routine follow-up examination. He was delivered at 32 weeks' gestation to a 35-year-old woman. Cardiac examination is shown. Which of the following is the most likely cause for this patient's findings? Video",
+			"disease": "patent ductus arteriosus",
+			"videoSettings": {
+				"youtubeID": "YPtuWdVaCs4",
+				"start": "128"
+			}
+		},
+		{
+			"varQuestionNumber": 14,
+			"text": "A 2-year-old girl is brought to the physician by her mother for a well-child examination. Cardiac auscultation is shown. When she clenches her fist forcefully for a sustained time, the intensity of the murmur increases. Which of the following is the most likely cause of this patient's auscultation findings? Video",
+			"disease": "ventricular septal defect",
+			"videoSettings": {
+				"youtubeID": "YPtuWdVaCs4",
+				"start": "174"
+			}
+		},
+		{
+			"varQuestionNumber": 15,
+			"text": "A 2-year-old boy is brought to the physician by his father for a well-child examination. He recently emigrated from Mexico with his family and has not seen a physician since birth. Vital signs are within normal limits. Cardiac examination shows a harsh, grade 3/6 holosystolic murmur heard best at the left lower sternal border. During deep inspiration, the second heart sound is split. If left untreated, irreversible changes would most likely be seen in which of the following structures?",
+			"disease": "ventricular septal defect",
+			"videoSettings": {
+				"youtubeID": "YPtuWdVaCs4",
+				"start": "253"
+			}
+		},
+		{
+			"varQuestionNumber": 16,
+			"text": "A 2-week-old male newborn is brought to the physician because his mother has noticed her son has occasional bouts of \"turning blue in the face\" while crying. He also tires easily and sweats while feeding. He weighed 2150 g (4 lb 11 oz) at birth and has gained 200 g (7 oz). The baby appears mildly cyanotic. Examination shows a 3/6 systolic ejection murmur heard over the left upper sternal border. A single S2 is present. An echocardiography confirms the diagnosis. Which of the following factors is the main determinant of the severity of this patient's cyanosis?",
+			"disease": "tetralogy of Fallot",
+			"videoSettings": {
+				"youtubeID": "SW6TdTJZEyI",
+				"start": "11"
+			}
+		},
+		{
+			"varQuestionNumber": 17,
+			"text": "One day after a 4700-g (10-lb 6-oz) male newborn is delivered to a 28-year-old primigravid woman, he has bluish discoloration of his lips and fingernails. Oxygen saturation on room air is 81%. Examination shows central cyanosis. A continuous machine-like murmur is heard over the left upper sternal border. A single S2 heart sound is present. Supplemental oxygen does not improve cyanosis. Echocardiography shows the pulmonary artery arising from the posterior left ventricle and aorta arising from the right ventricle with active blood flow between the right and left ventricles. Further evaluation of the mother is most likely to show which of the following?",
+			"disease": "transposition of the great vessels",
+			"videoSettings": {
+				"youtubeID": "SW6TdTJZEyI",
+				"start": "77"
+			}
+		},
+		{
+			"varQuestionNumber": 18,
+			"text": "A 26-year-old woman comes to the physician for evaluation of nausea and fatigue. Her last menstrual period was 8 weeks ago. She has a history of bipolar disorder controlled by a drug known to sometimes cause hypothyroidism and nephrogenic diabetes insipidus. She does not smoke cigarettes or drink alcohol. A urine pregnancy test is positive. An ultrasound of the pelvis shows a viable intrauterine pregnancy. The fetus is most likely at increased risk for which of the following anomalies?",
+			"disease": "Ebstein anomaly",
+			"videoSettings": {
+				"youtubeID": "SW6TdTJZEyI",
+				"start": "155"
+			}
+		},
+		{
+			"varQuestionNumber": 19,
+			"text": "A 3-month-old boy is brought to the physician by his mother because of poor weight gain. She also reports a dusky blue discoloration to his skin during feedings and when crying. On examination, there is a harsh, systolic murmur heard over the left upper sternal border. An x-ray of the chest is shown below. Which of the following is the most likely cause of his symptoms?",
+			"disease": "tetralogy of Fallot",
+			"videoSettings": {
+				"youtubeID": "SW6TdTJZEyI",
+				"start": "217"
+			}
+		},
+		{
+			"varQuestionNumber": 20,
+			"text": "A previously healthy 2-month-old girl is brought to the emergency department because her lips turned blue while passing stools 30 minutes ago. She is at the 40th percentile for length and below the 35th percentile for weight. Pulse oximetry on room air shows an oxygen saturation of 65%, which increases to 76% on administration of 100% oxygen. Physical examination shows perioral cyanosis and retractions of the lower ribs with respiration. Cardiac examination shows a harsh grade 2/6 systolic crescendo-decrescendo murmur heard best at the left upper sternal border. Which of the following is most likely to improve this patient's symptoms?",
+			"disease": "tetralogy of Fallot",
+			"videoSettings": {
+				"youtubeID": "SW6TdTJZEyI",
+				"start": "275"
+			}
+		},
+		{
+			"varQuestionNumber": 21,
+			"text": "A 6-month-old girl is brought to the emergency department because her lips turned blue for several minutes earlier during feeding. Her father reports that the patient had similar episodes while playing that resolved quickly. During the examination, she sits calmly in her father's lap. When her ears are examined, the patient begins to cry and her lips and fingers begin to turn blue. Further evaluation of this patient is most likely to show which of the following?",
+			"disease": "tetralogy of Fallot",
+			"videoSettings": {
+				"youtubeID": "pcecsRWH-9c",
+				"start": "11"
+			}
+		},
+		{
+			"varQuestionNumber": 22,
+			"text": "A 5-day-old boy is brought to the emergency department by his mother because of a 2-day history of difficulty feeding and multiple episodes of his lips turning blue. He was born at home via spontaneous vaginal delivery and Apgar scores were 7 and 8 at 1 and 5 minutes, respectively. Physical examination shows grunting and moderate intercostal and subcostal retractions. Echocardiography shows a single vessel exiting from the heart. Which of the following is the most likely underlying cause of this patient's condition?",
+			"disease": "truncus arteriosis",
+			"videoSettings": {
+				"youtubeID": "pcecsRWH-9c",
+				"start": "70"
+			}
+		},
+		{
+			"varQuestionNumber": 23,
+			"text": "Shortly after delivery, a female newborn develops bluish discoloration of the lips, fingers, and toes. She was born at term to a 38-year-old primigravid woman. Pregnancy was complicated by maternal diabetes mellitus. Pulse oximetry on room air shows an oxygen saturation of 81%. Echocardiography shows immediate bifurcation of the vessel arising from the left ventricle; the vessel emerging from the right ventricle gives out coronary, head, and neck vessels. An abnormality in which of the following developmental processes most likely accounts for this patient's condition?",
+			"disease": "transposition of the great vessels",
+			"videoSettings": {
+				"youtubeID": "pcecsRWH-9c",
+				"start": "138"
+			}
+		},
+		{
+			"varQuestionNumber": 24,
+			"text": "Several hours after vaginal delivery, a male newborn delivered at full-term develops tachycardia and tachypnea. His blood pressure is within normal limits. Pulse oximetry on room air shows an oxygen saturation of 79% in the right hand and 61% in the left foot. Physical examination shows bluish discoloration of the face and trunk, supraclavicular and intercostal retractions, and a machine-like murmur over the precordium. Bedside echocardiography shows pulmonary and systemic circulation are in parallel rather than in series. What is the most appropriate pharmacotherapy for this patient?",
+			"disease": "transposition of the great vessels and patent ductus arteriosus",
+			"videoSettings": {
+				"youtubeID": "pcecsRWH-9c",
+				"start": "199"
+			}
+		},
+		{
+			"varQuestionNumber": 25,
+			"text": "A 9-year-old boy is brought to the physician because his parents are concerned that he has been unable to keep up with his classmates at school. He is at the 4th percentile for height and at the 15th percentile for weight. Physical examination shows dysmorphic facial features. Psychologic testing shows impaired intellectual and adaptive functions. Genetic analysis shows a deletion of the long arm of chromosome 7. Which of the following is the most likely additional finding in this patient?",
+			"disease": "William syndrome",
+			"videoSettings": {
+				"youtubeID": "pcecsRWH-9c",
+				"start": "304"
+			}
+		}
+	],
+	"diseaseObject": {
+		"a": "",
+		"b": "",
+		"c": "",
+		"d": "",
+		"e": "",
+		"f": "",
+		"g": ""
+	}
+}	
 	]
 
 console.log(myAmbossQuestionsDataArray);
