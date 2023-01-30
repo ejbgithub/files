@@ -1562,7 +1562,301 @@ var myAmbossQuestionsDataArray = [
 		"f": "",
 		"g": ""
 	}
-}	
+},
+	{
+		"name": "Brown - Trails for obstructive and restrictive lung disease",
+		"ambossID": "",
+		"values": [
+{
+		"varQuestionNumber": 0,
+		"text": "",
+		"disease": "",
+		"videoSettings": {
+			"youtubeID": "",
+			"start": ""
+		}
+	},
+	{
+		"varQuestionNumber": 1,
+		"text": "An 8-year-old boy is brought to the emergency department because of shortness of breath and dry cough for 2 days. His symptoms began after he helped his father clean the basement. He is allergic to shellfish. Respirations are 26/min. Physical examination shows diffuse end-expiratory wheezing and decreased inspiratory-to-expiratory ratio. This patient's symptoms are most likely being caused by inflammation of which of the following structures?",
+		"disease": "asthma",
+		"videoSettings": {
+			"youtubeID": "JJyi8HTt1VM",
+			"start": "14"
+		}
+	},
+	{
+		"varQuestionNumber": 2,
+		"text": "A 7-year-old boy with asthma is brought to the emergency department because of a 1-day history of shortness of breath and cough. Current medications are inhaled albuterol and beclomethasone. His temperature is 37°C (98.6°F) and respirations are 24/min. Pulmonary examination shows bilateral expiratory wheezing. Serum studies show increased concentrations of interleukin-5. Which of the following is the most likely effect of the observed laboratory finding in this patient?",
+		"disease": "asthma",
+		"videoSettings": {
+			"youtubeID": "JJyi8HTt1VM",
+			"start": "105"
+		}
+	},
+	{
+		"varQuestionNumber": 3,
+		"text": "A 23-year-old man comes to the physician because of a 1-year history of episodic shortness of breath. Physical examination shows no abnormalities. Laboratory studies show elevated serum IgE levels. Microscopic examination of the sputum shows eosinophilic, hexagonal, double-pointed crystals. A methacholine challenge test is positive. Exposure to which of the following is most likely responsible for this patient's condition?",
+		"disease": "asthma",
+		"videoSettings": {
+			"youtubeID": "JJyi8HTt1VM",
+			"start": "169"
+		}
+	},
+	{
+		"varQuestionNumber": 4,
+		"text": "A 7-year-old girl is brought to the physician by her father because of a dry cough, nasal congestion, and intermittent wheezing during the past 2 months. Since birth, she has had four upper respiratory tract infections that resolved without treatment and one episode of acute otitis media treated with antibiotics. She has a history of eczema. Her temperature is 37.1°C (98.7°F) and respirations are 24/min. Pulse oximetry on room air shows an oxygen saturation of 97%. Physical examination shows a shallow breathing pattern and scattered expiratory wheezing throughout both lung fields. Which of the following is the most appropriate initial step in diagnosing this patient’s condition?",
+		"disease": "asthma",
+		"videoSettings": {
+			"youtubeID": "JJyi8HTt1VM",
+			"start": "241"
+		}
+	},
+	{
+		"varQuestionNumber": 5,
+		"text": "Forty minutes after undergoing nasal polypectomy for refractory rhinitis, a 48-year-old woman develops chest tightness and shortness of breath. The surgical course was uncomplicated and the patient was successfully extubated. She received ketorolac for postoperative pain. She has a history of asthma, hypertension, and aspirin allergy. Her daily medications include metoprolol and lisinopril. Examination shows a flushed face. Chest auscultation reveals wheezes and decreased breath sounds in both lung fields. An ECG shows no abnormalities. Which of the following is the most likely underlying cause of this patient's symptoms?",
+		"disease": "asthma",
+		"videoSettings": {
+			"youtubeID": "JJyi8HTt1VM",
+			"start": "311"
+		}
+	},
+	{
+		"varQuestionNumber": 6,
+		"text": "A 44-year-old man comes to the physician because of a 5-month history of persistent cough productive of thick, yellow sputum and worsening shortness of breath. One year ago, he had similar symptoms that lasted 4 months. He has smoked two packs of cigarettes daily for the past 20 years. Physical examination shows scattered expiratory wheezing and rhonchi throughout both lung fields. Microscopic examination of a lung biopsy specimen is most likely to show which of the following findings?",
+		"disease": "chronic bronchitis",
+		"videoSettings": {
+			"youtubeID": "wAqL1C7fFm0",
+			"start": "13"
+		}
+	},
+	{
+		"varQuestionNumber": 7,
+		"text": "A previously healthy 64-year-old woman comes to the physician because of a dry cough and progressively worsening shortness of breath for the past 2 months. She has not had fever, chills, or night sweats. She has smoked one pack of cigarettes daily for the past 45 years. She appears thin. Examination of the lung shows a prolonged expiratory phase and end-expiratory wheezing. Spirometry shows decreased FEV1:FVC ratio (&lt; 70% predicted), decreased FEV1, and a total lung capacity of 125% of predicted. The diffusion capacity of the lung (DLCO) is decreased. Which of the following is the most likely diagnosis?",
+		"disease": "COPD",
+		"videoSettings": {
+			"youtubeID": "wAqL1C7fFm0",
+			"start": "88"
+		}
+	},
+	{
+		"varQuestionNumber": 8,
+		"text": "A 65-year-old man comes to the physician because of a 10-month history of progressive shortness of breath and a cough productive of a small amount of white phlegm. Bilateral end-expiratory wheezing is heard on auscultation of the chest. Pulmonary function tests show total lung capacity that is 108% of predicted, an FEV1 that is 56% of predicted, and an FEV1:FVC ratio of 62%. Which of the following interventions is most likely to slow the decline in FEV1 in this patient?",
+		"disease": "chronic bronchitis",
+		"videoSettings": {
+			"youtubeID": "wAqL1C7fFm0",
+			"start": "172"
+		}
+	},
+	{
+		"varQuestionNumber": 9,
+		"text": "A 63-year-old woman comes to the physician because of worsening shortness of breath and recurrent pulmonary infections over the past 3 years. She has smoked 2 packs of cigarettes daily for the past 35 years. Pulse oximetry on room air shows an oxygen saturation of 92%. Examination shows scattered expiratory wheezing and rhonchi bilaterally. X-rays of the chest are shown. Pulmonary function testing is most likely to show which of the following sets of findings? FEV1 FEV1/FVC TLC RV A Decreased decreased increased increased B Decreased increased decreased decreased C Normal normal normal normal D Decreased decreased normal increased E Decreased normal decreased normal",
+		"disease": "centrilobular emphysema",
+		"videoSettings": {
+			"youtubeID": "wAqL1C7fFm0",
+			"start": "255"
+		}
+	},
+	{
+		"varQuestionNumber": 10,
+		"text": "A 57-year-old man comes to the physician because of a 2-year history of fatigue, worsening shortness of breath, and a productive cough. He has smoked 1 pack of cigarettes daily for the past 40 years. Examination shows pursed-lip breathing and an increased anteroposterior chest diameter. There is diffuse wheezing bilaterally and breath sounds are distant. Which of the following parameters is most likely to be decreased in this patient?",
+		"disease": "centrilobular emphysema",
+		"videoSettings": {
+			"youtubeID": "wAqL1C7fFm0",
+			"start": "385"
+		}
+	},
+	{
+		"varQuestionNumber": 11,
+		"text": "A 57-year-old man comes to the physician with a 9-month history of cough and progressive dyspnea. The cough is usually worse in the mornings. He has smoked two packs of cigarettes daily for 30 years. Pulmonary examination shows diffuse wheezing during expiration. Spirometry shows a FEV1:FVC ratio of 45%. An x-ray of the chest shows widened intercostal spaces and generalized hyperlucency of the pulmonary parenchyma. Increased activity of which of the following types of cells is most likely responsible for this patient's pulmonary condition?",
+		"disease": "centrilobular emphysema",
+		"videoSettings": {
+			"youtubeID": "aV_-9o75NrY",
+			"start": "12"
+		}
+	},
+	{
+		"varQuestionNumber": 12,
+		"text": "A 48-year-old man comes to the physician because of a 3-month history of worsening shortness of breath and cough productive of frothy, whitish sputum. One year ago, he had a similar episode lasting 6 months. He has smoked a pack of cigarettes daily for 25 years. Physical examination shows bluish discoloration of the tongue and lips. Scattered expiratory wheezing and rhonchi are heard throughout both lung fields. Further evaluation of this patient is most likely to show which of the following findings?",
+		"disease": "chronic bronchitis",
+		"videoSettings": {
+			"youtubeID": "aV_-9o75NrY",
+			"start": "111"
+		}
+	},
+	{
+		"varQuestionNumber": 13,
+		"text": "A 62-year-old woman with hypertension and type 2 diabetes mellitus comes to the physician because of increasing shortness of breath and a dry cough over the past 6 months. She has smoked 1 pack of cigarettes daily for the past 40 years. Chest auscultation shows scattered expiratory wheezes in both lung fields. Spirometry shows an FEV1:FVC ratio of 65% and an FEV1 of 70% of predicted. Her diffusing capacity for carbon monoxide (DLCO) is 42% of predicted. Which of the following is the most likely diagnosis?",
+		"disease": "centrilobular emphysema",
+		"videoSettings": {
+			"youtubeID": "aV_-9o75NrY",
+			"start": "234"
+		}
+	},
+	{
+		"varQuestionNumber": 14,
+		"text": "A 63-year-old woman comes to the physician because of worsening shortness of breath, cough, and a 4-kg (8.8-lb) weight loss over the last year. She has no history of serious illness and takes no medications. She has smoked one pack of cigarettes daily for 35 years. Her temperature is 37°C (98.6°F), pulse is 92/min, respirations are 20/min, blood pressure is 124/78 mm Hg, and pulse oximetry on room air shows an oxygen saturation of 93%. Physical examination shows decreased breath sounds. A flow-volume loop obtained via pulmonary function testing is shown. Which of the following is the most likely cause of this patient's respiratory symptoms?",
+		"disease": "centrilobular emphysema",
+		"videoSettings": {
+			"youtubeID": "aV_-9o75NrY",
+			"start": "328"
+		}
+	},
+	{
+		"varQuestionNumber": 15,
+		"text": "A 19-year-old man comes to the emergency department with acute-onset, sharp, left-sided chest pain and shortness of breath. He has no history of recent trauma. He has smoked one pack of cigarettes daily for 3 years. He is 196 cm (6 feet 5 in) tall and weighs 70 kg (154 lb); BMI is 18 kg/m2. Physical examination shows reduced breath sounds over the left lung field. There is hyperresonance on percussion of the left upper thorax. An x-ray of the chest is shown. Which of the following changes is most likely to immediately result from this patient's current condition?",
+		"disease": "spontaneous pneumothorax",
+		"videoSettings": {
+			"youtubeID": "aV_-9o75NrY",
+			"start": "410"
+		}
+	},
+	{
+		"varQuestionNumber": 16,
+		"text": "A previously healthy 21-year-old man is brought to the emergency department 4 hours after the sudden onset of shortness of breath and pleuritic chest pain. He has smoked 1 pack of cigarettes daily for the past 3 years. He is 188 cm (6.2 ft) tall and weighs 70 kg (154 lb); BMI is 19.8 kg/m2. Physical examination shows decreased tactile fremitus and diminished breath sounds over the left lung. Which of the following is the most likely cause of this patient's symptoms?",
+		"disease": "spontaneous pneumothorax",
+		"videoSettings": {
+			"youtubeID": "jSHi_Wyrvm0",
+			"start": "12"
+		}
+	},
+	{
+		"varQuestionNumber": 17,
+		"text": "A 31-year-old man comes to the physician for evaluation of chronic cough, sinus pain, and nasal discharge. He has a history of frequent upper respiratory infections and recurrent sinusitis since childhood. He is also concerned about fertility, as he and his wife have been trying to conceive for 5 years unsuccessfully. Pulmonary examination shows crackles and wheezing throughout both lung fields. A CT scan of the chest is shown. The most likely cause of this patient's condition is a defect in which of the following molecular structures?",
+		"disease": "Kartagener syndrome",
+		"videoSettings": {
+			"youtubeID": "jSHi_Wyrvm0",
+			"start": "80"
+		}
+	},
+	{
+		"varQuestionNumber": 18,
+		"text": "A 70-year-old man with a history of hypertension and atrial fibrillation comes to the physician for shortness of breath with mild exertion, progressive weakness, and a dry cough that has persisted for 6 months. He has smoked a pack of cigarettes daily for 45 years. His medications include warfarin, enalapril, and amiodarone. His pulse is 85/min and irregularly irregular. Physical examination shows enlarged fingertips and markedly curved nails. A CT scan of the chest shows clustered air spaces and reticular opacities in the basal parts of the lung. Which of the following is the most likely underlying mechanism of this patient's dyspnea?",
+		"disease": "idiopathic pulmonary fibrosis",
+		"videoSettings": {
+			"youtubeID": "jSHi_Wyrvm0",
+			"start": "239"
+		}
+	},
+	{
+		"varQuestionNumber": 19,
+		"text": "A 54-year-old woman comes to the physician for worsening fatigue and dyspnea for several months. She has not been seen by a physician in 10 years. She is also concerned about the appearance of her fingernails. A photograph of her hands is shown. Which of the following is the most likely underlying cause for the patient's nail findings?",
+		"disease": "idiopathic pulmonary fibrosis",
+		"videoSettings": {
+			"youtubeID": "jSHi_Wyrvm0",
+			"start": "346"
+		}
+	},
+	{
+		"varQuestionNumber": 20,
+		"text": "A 52-year-old man comes to the physician because of a 6-month history of shortness of breath and nonproductive cough. He has smoked 1 pack of cigarettes daily for 15 years. Cardiopulmonary examination shows fine inspiratory crackles bilaterally. There is clubbing present in the fingers bilaterally. Pulmonary function tests (PFTs) show an FVC of 78% of expected and an FEV1/FVC ratio of 92%. A CT scan of the chest is shown. Which of the following is the most likely underlying diagnosis?",
+		"disease": "idiopathic pulmonary fibrosis",
+		"videoSettings": {
+			"youtubeID": "jSHi_Wyrvm0",
+			"start": "403"
+		}
+	},
+	{
+		"varQuestionNumber": 21,
+		"text": "A 48-year-old man comes to the physician for the evaluation of dyspnea and cough. He was diagnosed with esophageal cancer 10 months ago, for which he received radiochemotherapy. He has a history of atopic dermatitis and has smoked one pack of cigarettes daily for 30 years. Auscultation of the lungs shows decreased breath sounds bilaterally. Spirometry shows an FVC of 78% and an FEV1/FVC ratio of 95%. Which of the following is the most likely underlying condition?",
+		"disease": "idiopathic pulmonary fibrosis",
+		"videoSettings": {
+			"youtubeID": "JEUknV0_9CU",
+			"start": "15"
+		}
+	},
+	{
+		"varQuestionNumber": 22,
+		"text": "A 49-year-old woman comes to the physician because of a 4-month history of a dry cough and shortness of breath on exertion. She also reports recurrent episodes of pain, stiffness, and swelling in her wrist and her left knee over the past 6 months. She had two miscarriages at age 24 and 28. Physical examination shows pallor, ulcerations on the palate, and annular hyperpigmented plaques on the arms and neck. Fine inspiratory crackles are heard over bilateral lower lung fields on auscultation. Which of the following additional findings is most likely in this patient?",
+		"disease": "idiopathic pulmonary fibrosis",
+		"videoSettings": {
+			"youtubeID": "JEUknV0_9CU",
+			"start": "107"
+		}
+	},
+	{
+		"varQuestionNumber": 23,
+		"text": "A 33-year-old woman comes to the physician because of a 4-month history of progressive fatigue, shortness of breath, constipation, and a nonproductive cough. Six months ago, she returned from a trip to Nigeria from where she emigrated as a child. Physical examination shows no abnormalities. Serum calcium concentration is 11.7 mg/dL. An x-ray of the chest shows bilateral hilar lymphadenopathy with coarse, nodular opacities in both lower lobes. A photomicrograph of a biopsy specimen of the affected area of the lungs is shown. Which of the following is most likely responsible for the formation of this patient's histopathological findings?",
+		"disease": "sarcoidosis",
+		"videoSettings": {
+			"youtubeID": "JEUknV0_9CU",
+			"start": "230"
+		}
+	},
+	{
+		"varQuestionNumber": 24,
+		"text": "A previously healthy 30-year-old woman comes to the physician because of a 3-month history of progressive shortness of breath and nonproductive cough. She has also had constipation and fatigue during the same period. She has not traveled recently or been exposed to any sick contacts. Physical examination shows injected conjunctivae and tender, erythematous nodules on both shins. The lungs are clear to auscultation. An x-ray of the chest is shown. Which of the following additional findings is most likely in this patient?",
+		"disease": "sarcoidosis",
+		"videoSettings": {
+			"youtubeID": "JEUknV0_9CU",
+			"start": "357"
+		}
+	},
+	{
+		"varQuestionNumber": 25,
+		"text": "A 29-year-old African-American woman comes to the physician because of a 4-month history of fever, progressive shortness of breath, and a dry cough. During this time, she has also had a 5-kg (11-lb) weight loss. Two months ago, she was in Kenya for several weeks to visit her family. Physical examination shows fine crackles and wheezing over both lung fields. Her serum calcium concentration is 11.8 mg/dL. An x-ray of the chest shows reticular opacities in both lungs and bilateral hilar lymphadenopathy. Which of the following is the most likely underlying mechanism of this condition?",
+		"disease": "sarcoidosis",
+		"videoSettings": {
+			"youtubeID": "JEUknV0_9CU",
+			"start": "467"
+		}
+	},
+	{
+		"varQuestionNumber": 26,
+		"text": "A 35-year-old woman comes to the physician because of a 3-month history of progressive fatigue, shortness of breath, and pain in her knees and ankles. Her temperature is 37.6°C (99.7°F). Physical examination shows mild hepatomegaly and tender, red nodules on her shins. There are purple, indurated lesions on her nose, nasolabial fold, and cheeks. A biopsy of the liver shows scattered aggregations of multinucleated giant cells with cytoplasmic inclusions and eosinophilic, needle-shaped structures arranged in a star-like pattern. Which of the following is the most likely cause of this patient's symptoms?",
+		"disease": "sarcoidosis",
+		"videoSettings": {
+			"youtubeID": "GV_WbBxNydk",
+			"start": "13"
+		}
+	},
+	{
+		"varQuestionNumber": 27,
+		"text": "A 44-year-old woman comes to the physician because of a 6-month history of fatigue, intermittent fever, a 4.0-kg (9-lb) weight loss, and a progressive, nonproductive cough. She does not smoke. Physical examination shows mild wheezing over bilateral lung fields and enlarged supraclavicular and cervical lymph nodes. A CT scan of the chest is shown. A biopsy specimen of a cervical lymph node shows organized epithelioid histiocytes and multinucleated giant cells without focal necrosis. The initial treatment of this patient's condition should include which of the following drugs?",
+		"disease": "sarcoidosis",
+		"videoSettings": {
+			"youtubeID": "GV_WbBxNydk",
+			"start": "122"
+		}
+	},
+	{
+		"varQuestionNumber": 28,
+		"text": "A 47-year-old woman comes to the physician because of a 3-week history of a dry cough. She does not smoke or use illicit drugs. Physical examination shows mild conjunctival hyperemia. Chest auscultation shows fine crackles in both lung fields. Laboratory studies show a total calcium concentration of 10.8 mg/dL. The results of spirometry are shown (dashed loop shows normal for comparison). Further evaluation of this patient is most likely to show an increase in which of the following?",
+		"disease": "sarcoidosis",
+		"videoSettings": {
+			"youtubeID": "GV_WbBxNydk",
+			"start": "209"
+		}
+	},
+	{
+		"varQuestionNumber": 29,
+		"text": "An otherwise healthy 28-year-old woman comes to the physician because of a 14-day history of painful red nodules on her legs associated with malaise and mild joint pains. She reports that the nodules were initially smaller and distinct but some have fused together over the past 3–4 days and now appear like bruises. There is no preceding history of fever, trauma, or insect bites. Her vital signs are within normal limits. A photograph of the tender lesions on her shins is shown. The remainder of the examination shows no abnormalities. Complete blood count and antistreptolysin O (ASO) titers are within the reference range. Erythrocyte sedimentation rate is 30 mm/h. Which of the following is the most appropriate next step in management?",
+		"disease": "sarcoidosis",
+		"videoSettings": {
+			"youtubeID": "GV_WbBxNydk",
+			"start": "281"
+		}
+	},
+	{
+		"varQuestionNumber": 30,
+		"text": "A 57-year-old man with chronic obstructive pulmonary disease comes to the emergency department because of leg swelling for 2 weeks. He has smoked 2 packs of cigarettes daily for the past 20 years. His vital signs are within normal limits. Physical examination shows jugular venous distention, hepatomegaly, and pitting edema of both lower extremities. Cardiac examination shows a regular heart rate and normal heart sounds. Auscultation of the lungs shows scattered wheezing without crackles. Left ventricular ejection fraction is 60%. Which of the following is the most likely underlying cause of this patient's condition?",
+		"disease": "chronic bronchitis",
+		"videoSettings": {
+			"youtubeID": "GV_WbBxNydk",
+			"start": "374"
+		}
+	}
+			],
+		"diseaseObject": {
+			"a": "",
+			"b": "",
+			"c": "",
+			"d": "",
+			"e": "",
+			"f": "",
+			"g": ""
+		}
+	}	
 	]
 
 console.log(myAmbossQuestionsDataArray);
