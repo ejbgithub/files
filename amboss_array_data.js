@@ -1893,7 +1893,7 @@ var myAmbossQuestionsDataArray = [
 			"disease": "apoptosis",
 			"videoSettings": {
 				"youtubeID": "YTQC6DwrpY0",
-				"start": "123"
+				"start": "144"
 			}
 		},
 		{
