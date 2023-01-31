@@ -1929,7 +1929,7 @@ var myAmbossQuestionsDataArray = [
 			"disease": "Chediak-Higashi syndrome",
 			"videoSettings": {
 				"youtubeID": "S5KdROEZ6Nk",
-				"start": "120"
+				"start": "140"
 			}
 		},
 		{
