@@ -1856,7 +1856,243 @@ var myAmbossQuestionsDataArray = [
 			"f": "",
 			"g": ""
 		}
-	}	
+	},	
+{
+	"name": "Brown - pathology final part 1 (general pathology)",
+	"ambossID": "",
+	"values": [{
+			"varQuestionNumber": 0,
+			"text": "",
+			"disease": "",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 1,
+			"text": "A 64-year-old woman is brought to the emergency department 30 minutes after the onset of right-sided weakness and impaired speech. On admission, she is diagnosed with thrombotic stroke and treatment with alteplase is begun. Neurologic examination four weeks later shows residual right hemiparesis. A CT scan of the head shows hypoattenuation in the territory of the left middle cerebral artery. Which of the following processes best explains this finding?",
+			"disease": "liquefactive necrosis",
+			"videoSettings": {
+				"youtubeID": "YTQC6DwrpY0",
+				"start": "13"
+			}
+		},
+		{
+			"varQuestionNumber": 2,
+			"text": "A 77-year-old man with hypertension, type 2 diabetes mellitus, and atrial fibrillation is admitted to the hospital because of a 3-hour history of nausea and flank pain. Two days after admission, he suddenly develops aphasia and left-sided paralysis. Despite appropriate life-saving measures, he dies. A photograph of a section of the spleen obtained at autopsy is shown. Microscopic examination of the pale region in the photograph shows preserved cellular architecture with eosinophilic cytoplasm and no visible nuclei. Which of the following pathological changes is most likely responsible for the splenic findings on autopsy?",
+			"disease": "coagulative necrosis",
+			"videoSettings": {
+				"youtubeID": "YTQC6DwrpY0",
+				"start": "58"
+			}
+		},
+		{
+			"varQuestionNumber": 3,
+			"text": "A 38-year-old man is admitted to the hospital because of fever, yellowing of the skin, and nausea for 1 day. He recently returned from a backpacking trip to Brazil and Paraguay, during which he had a 3-day episode of high fever that resolved spontaneously. Physical examination shows jaundice, epigastric tenderness, and petechiae over his trunk. Five hours after admission, he develops dark brown emesis and anuria. Despite appropriate lifesaving measures, he dies. Postmortem liver biopsy shows eosinophilic degeneration of hepatocytes with condensed nuclear chromatin. This patient’s hepatocytes were most likely undergoing which of the following processes?",
+			"disease": "apoptosis",
+			"videoSettings": {
+				"youtubeID": "YTQC6DwrpY0",
+				"start": "123"
+			}
+		},
+		{
+			"varQuestionNumber": 4,
+			"text": "A 21-year-old woman comes to the physician because of a 1-day history of right leg pain. The pain is worse while walking and improves when resting. Eight months ago, she was diagnosed with a pulmonary embolism and was started on warfarin. Anticoagulant therapy was discontinued two months ago. Her mother had systemic lupus erythematosus. On examination, her right calf is diffusely erythematous, swollen, and tender. Cardiopulmonary examination shows no abnormalities. On duplex ultrasonography, the right popliteal vein is not compressible. Laboratory studies show an elevated serum level of D-dimer and insensitivity to activated protein C. Further evaluation of this patient is most likely to show which of the following?",
+			"disease": "Leiden mutation",
+			"videoSettings": {
+				"youtubeID": "YTQC6DwrpY0",
+				"start": "211"
+			}
+		},
+		{
+			"varQuestionNumber": 5,
+			"text": "A 33-year-old woman comes to the physician because of left leg pain and swelling for 1 day. She has had two miscarriages but otherwise has no history of serious illness. Physical examination shows stiff, swollen finger joints. The left calf circumference is larger than the right and there is a palpable cord in the left popliteal fossa. Laboratory studies show a prothrombin time of 12 seconds and an activated partial thromboplastin time of 51 seconds. Which of the following is most likely to confirm the diagnosis?",
+			"disease": "anti-phospholipid syndrome",
+			"videoSettings": {
+				"youtubeID": "YTQC6DwrpY0",
+				"start": "303"
+			}
+		},
+		{
+			"varQuestionNumber": 6,
+			"text": "A 28-year-old woman, gravida 3, para 2, at 34 weeks' gestation comes to the physician because of a 1-day history of shortness of breath, dry cough, and chest pain. Pulse is 112/min, respirations are 24/min, and blood pressure is 108/78 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 90%. Examination shows jugular venous distention and bilateral pitting edema below the knees that is worse on the right side. There is dullness to percussion over the right lung base. Which of the following is the most likely diagnosis?",
+			"disease": "pulmonary embolism",
+			"videoSettings": {
+				"youtubeID": "S5KdROEZ6Nk",
+				"start": "10"
+			}
+		},
+		{
+			"varQuestionNumber": 7,
+			"text": "A 2-year-old boy is brought to the physician by his mother for evaluation of recurrent infections and easy bruising. He has been hospitalized 3 times for severe skin and respiratory infections, which responded to treatment with antibiotics. Examination shows sparse silvery hair. The skin is hypopigmented and there are diffuse petechiae. Laboratory studies show a hemoglobin concentration of 8 g/dL, leukocyte count of 3000/mm3, and platelet count of 45,000/mm3. A peripheral blood smear shows giant cytoplasmic granules in granulocytes and platelets. Which of the following is the most likely underlying cause of this patient's symptoms?",
+			"disease": "Chediak-Higashi syndrome",
+			"videoSettings": {
+				"youtubeID": "S5KdROEZ6Nk",
+				"start": "120"
+			}
+		},
+		{
+			"varQuestionNumber": 8,
+			"text": "A 3-year-old boy is brought to the physician for the evaluation of recurrent skin lesions. The lesions first appeared at the age of 3 months. He has also had several episodes of respiratory tract infections, enlarged lymph nodes, and recurrent fevers since birth. The boy attends daycare. His immunizations are up-to-date. He is at the 5th percentile for height and 10th percentile for weight. He appears ill. Temperature is 38.0°C (100.4°F). Examination shows several raised, erythematous lesions of different sizes over the face, neck, groin, and extremities; some are purulent. Bilateral cervical and axillary lymphadenopathy are present. Which of the following is the most likely underlying mechanism of this patient's symptoms?",
+			"disease": "chronic granulomatous disease",
+			"videoSettings": {
+				"youtubeID": "S5KdROEZ6Nk",
+				"start": "152"
+			}
+		},
+		{
+			"varQuestionNumber": 9,
+			"text": "A 3-month-old boy is brought to the physician by his parents because of a 2-day history of poor feeding and lethargy. He was born at term and has had three episodes of bilateral otitis media since birth. Umbilical cord separation occurred at the age of 8 weeks. He is at the 30th percentile for height and 20th percentile for weight. His temperature is 39.0°C (102.2°F) and blood pressure is 58/36 mm Hg. Physical examination shows white oral patches and confluent scaly erythematous skin lesions in the groin. Laboratory studies show a leukocyte count of 41,300/mm3 (92% segmented neutrophils and 8% lymphocytes) and a platelet count of 224,000/mm3. Blood cultures at 20°C (68°F) grow catalase-positive yeast cells. Which of the following is the most likely underlying cause of this patient's symptoms?",
+			"disease": "leukocyte adhesion deficiency type 1",
+			"videoSettings": {
+				"youtubeID": "S5KdROEZ6Nk",
+				"start": "265"
+			}
+		},
+		{
+			"varQuestionNumber": 10,
+			"text": "A 23-year-old woman comes to the physician for evaluation of two masses on her right auricle for several months. The masses appeared a few weeks after she had her ear pierced and have increased in size since then. A photograph of her right ear is shown. Which of the following is the most likely cause of these findings?",
+			"disease": "keloid",
+			"videoSettings": {
+				"youtubeID": "S5KdROEZ6Nk",
+				"start": "327"
+			}
+		},
+		{
+			"varQuestionNumber": 11,
+			"text": "A 38-year-old man comes to the physician because of fever, malaise, cough, and shortness of breath for 2 months. He has had a 4-kg (9-lb) weight loss during the same period. He works at a flour mill and does not smoke cigarettes. His temperature is 38.1°C (100.6°F) and pulse oximetry shows 95% on room air. Diffuse fine crackles are heard over both lung fields. A chest x-ray shows patchy reticulonodular infiltrates in the mid and apical lung fields bilaterally. A photomicrograph of a lung biopsy specimen is shown. Which of the following cytokines have the greatest involvement in the pathogenesis of the lesion indicated by the arrow?",
+			"disease": "hypersensitivity pneumonitis",
+			"videoSettings": {
+				"youtubeID": "nR1MZ-ur08w",
+				"start": "12"
+			}
+		},
+		{
+			"varQuestionNumber": 12,
+			"text": "A previously healthy 41-year-old man comes to the physician for evaluation of a 1-month history of painless, intermittent bleeding on defecation, which he discovered while wiping. His younger sister was recently diagnosed with endometrial cancer, and his mother was diagnosed with gastric cancer at 58 years of age. Physical examination shows no abnormalities. Test of the stool for occult blood is positive. Colonoscopy shows a tumor in the ascending colon. Histopathologic examination of the tumor shows a mucinous, poorly-differentiated adenocarcinoma. A mutation of which of the following genes is most likely responsible for this patient's condition?",
+			"disease": "Lynch syndrome",
+			"videoSettings": {
+				"youtubeID": "nR1MZ-ur08w",
+				"start": "130"
+			}
+		},
+		{
+			"varQuestionNumber": 13,
+			"text": "A 33-year-old woman comes to the physician 1 week after noticing a lump in her right breast. Fifteen years ago, she was diagnosed with osteosarcoma of her left distal femur. Her father died of an adrenocortical carcinoma at the age of 41 years. Examination shows a 2-cm, firm, immobile mass in the lower outer quadrant of the right breast. A core needle biopsy of the mass shows adenocarcinoma. Genetic analysis in this patient is most likely to show a defect in which of the following genes?",
+			"disease": "Li-Fraumeni syndrome",
+			"videoSettings": {
+				"youtubeID": "nR1MZ-ur08w",
+				"start": "210"
+			}
+		},
+		{
+			"varQuestionNumber": 14,
+			"text": "A 5-year-old girl is brought to the physician by her mother because of a 1-month history of a painful ulcer on her face. She has developed painful sunburns in the past with minimal UV exposure. Examination of the skin shows a 2-cm ulcerated nodule on the left cheek. There are scaly, hyperpigmented papules and plaques over the skin of the entire body. Ophthalmologic examination shows decreased visual acuity, clouded corneas, and limbal injection. Examination of a biopsy specimen from the facial lesion shows poorly-differentiated squamous cell carcinoma. Impairment of which of the following proteins is the most likely cause of this patient's condition?",
+			"disease": "xeroderma pigmentosa",
+			"videoSettings": {
+				"youtubeID": "nR1MZ-ur08w",
+				"start": "292"
+			}
+		},
+		{
+			"varQuestionNumber": 15,
+			"text": "A 2-year-old girl is brought to the physician by her parents because of clumsiness and difficulty walking. She began to walk at 12 months and continues to have difficulty standing still without support. She also appears to have difficulty grabbing objects in front of her. Over the past year, she has had 5 episodes of sinusitis requiring antibiotic treatment and was hospitalized twice for bacterial pneumonia. Physical examination shows an unstable, narrow-based gait and several hyperpigmented skin patches. Serum studies show decreased levels of IgA and IgG and an increased level of alpha-fetoprotein. Over the next 5 years, which of the following complications is this patient most likely to develop?",
+			"disease": "ataxia-telangiectasia",
+			"videoSettings": {
+				"youtubeID": "nR1MZ-ur08w",
+				"start": "341"
+			}
+		},
+		{
+			"varQuestionNumber": 16,
+			"text": "A 43-year-old man comes to the physician because of weight loss and swelling on the left side of his neck. Physical examination shows a firm, enlarged left upper cervical lymph node that is immobile. Immunohistochemical testing performed on a biopsy specimen from the lymph node stains positive for cytokeratin. Which of the following is the most likely site of the primary neoplasm in this patient?",
+			"disease": "squamous cell carcinoma",
+			"videoSettings": {
+				"youtubeID": "svuSBA-b0A4",
+				"start": "13"
+			}
+		},
+		{
+			"varQuestionNumber": 17,
+			"text": "A 34-year-old woman comes to the physician a week after noticing a lump in her left breast. Three months ago, she was discharged from the hospital after treatment of multiple injuries sustained in a motor vehicle collision. Her only medication is an oral contraceptive. Her mother died of ovarian cancer. Examination shows a 2.5-cm, nontender mass in the upper outer quadrant of the left breast. Mammography shows a circumscribed radiolucent lesion with a rim of peripheral calcification. A photomicrograph of tissue from a biopsy of the mass is shown. Which of the following is the most likely cause of the breast swelling?",
+			"disease": "fat necrosis",
+			"videoSettings": {
+				"youtubeID": "svuSBA-b0A4",
+				"start": "93"
+			}
+		},
+		{
+			"varQuestionNumber": 18,
+			"text": "An investigator is studying the cell morphologies of the respiratory tract. He obtains a biopsy from the mainstem bronchus of a patient. On microscopic examination, the biopsy sample shows uniform squamous cells in layers. Which of the following best describes the histologic finding seen in this patient?",
+			"disease": "metaplasia",
+			"videoSettings": {
+				"youtubeID": "svuSBA-b0A4",
+				"start": "175"
+			}
+		},
+		{
+			"varQuestionNumber": 19,
+			"text": "Two days after undergoing internal fixation of a displaced right femoral fracture sustained during a motor vehicle accident, a 34-year-old woman develops sudden shortness of breath. On examination, she is oriented only to person. Her temperature is 38.3°C (100.9°F), pulse is 122/min, respiratory rate is 31/min, and blood pressure is 152/90 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 83%. There are several scattered petechiae on the anterior chest wall. Her hemoglobin concentration is 10.3 g/dL, leukocyte count is 9,500/mm3, and platelet count is 140,000/mm3. Which of the following is the most likely cause of her current condition?",
+			"disease": "fat embolism",
+			"videoSettings": {
+				"youtubeID": "svuSBA-b0A4",
+				"start": "210"
+			}
+		},
+		{
+			"varQuestionNumber": 20,
+			"text": "A 14-year-old boy is brought to the emergency department because of severe lower abdominal pain, pain in the right groin, nausea, and vomiting for 2 hours. The patient had been playing soccer with friends and started experiencing pain while walking home. He has never experienced similar symptoms before. He has no other history of serious illness and does not take any medications. He appears ill. His temperature is 36°C (96.8°F), pulse is 90/min, respirations are 18/min, and blood pressure is 140/80 mm Hg. Abdominal examination shows no abnormalities. The right scrotum appears mildly swollen. There is severe tenderness on palpation of the scrotum that persists with elevation of the testes. Stroking the inner side of the right thigh fails to elicit elevation of the scrotum. Which of the following is the most likely diagnosis?",
+			"disease": "testicular torsion",
+			"videoSettings": {
+				"youtubeID": "svuSBA-b0A4",
+				"start": "258"
+			}
+		}
+	],
+	"diseaseObject": {
+		"a": "",
+		"b": "",
+		"c": "",
+		"d": "",
+		"e": "",
+		"f": "",
+		"g": ""
+	}
+},
+{
+		"name": "Brown - miscellaneous questions",
+		"ambossID": "",
+		"values": [
+			{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 30-year-old African American woman comes to the physician because of a 3-month history of increasing shortness of breath, cough, and intermittent fever. She works in a local factory that manufactures components for airplanes. She drinks 2–3 glasses of wine daily and has smoked one-half pack of cigarettes daily for the past 5 years. Physical examination shows a purple rash on her cheeks and nose. An x-ray of the chest shows bilateral hilar adenopathy and a calcified nodule in the left lower lobe. A bronchoalveolar lavage shows a CD4:CD8 T-lymphocyte ratio of 10:1 (N = 2:1). A biopsy of the nodule shows a noncaseating granuloma. Which of the following is the strongest predisposing factor for the development of this patient's condition?",
+				"disease": "sarcoidosis",
+				"videoSettings": {
+					"youtubeID": "DhgnRLGPFis",
+					"start": "20"
+				}
+			}
+			],
+		"diseaseObject": {
+			"a": "",
+			"b": "",
+			"c": "",
+			"d": "",
+			"e": "",
+			"f": "",
+			"g": ""
+		}
+	}		
 	]
 
 console.log(myAmbossQuestionsDataArray);
