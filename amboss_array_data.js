@@ -2092,7 +2092,237 @@ var myAmbossQuestionsDataArray = [
 			"f": "",
 			"g": ""
 		}
-	}		
+	},
+	{
+		"name": "Brown - Trails for pulmonary infections",
+		"ambossID": "",
+		"values": [{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 51-year-old man comes to the physician because of a 4-day history of fever and cough productive of foul-smelling, dark red, gelatinous sputum. He has smoked 1 pack of cigarettes daily for 30 years and drinks two 12-oz bottles of beer daily. An x-ray of the chest shows a cavity with air-fluid levels in the right lower lobe. Sputum culture grows gram-negative rods. Which of the following virulence factors is most likely involved in the pathogenesis of this patient's condition?",
+				"disease": "Klebsiella pneumoniae",
+				"videoSettings": {
+					"youtubeID": "Opvuiy6rPBo",
+					"start": "11"
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "A 65-year-old man is brought to the emergency department because of a 3-day history of increasing shortness of breath and chest pain. He has had a productive cough with foul-smelling sputum for 1 week. He has gastritis as well as advanced Parkinson disease and currently lives in an assisted-living community. He smoked one pack of cigarettes daily for 40 years but quit 5 years ago. He has a 30-year history of alcohol abuse but has not consumed any alcohol in the past 5 years. His temperature is 39.3°C (102.7°F), he is tachycardic and tachypneic and his oxygen saturation is 77% on room air. Auscultation of the lung shows rales and decreased breath sounds over the right upper lung field. Examination shows a resting tremor. Laboratory studies show: Hematocrit 38% Leukocyte count 17,000/mm3 Platelet count 210,000/mm3 Lactic acid 4.1 mmol/L (N = 0.5–1.5) An x-ray of the chest shows infiltrates in the right upper lobe. Which of the following is the most significant predisposing factor for this patient's respiratory symptoms?",
+				"disease": "aspiration pneumonia",
+				"videoSettings": {
+					"youtubeID": "Opvuiy6rPBo",
+					"start": "73"
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "A 57-year-old man with HIV and GERD comes to the emergency department because of productive cough with malodorous phlegm and night sweats for the past week. He has smoked 1 pack of cigarettes daily for 30 years and he drinks 8–10 beers daily. His temperature is 38.9°C (102.0°F). Physical examination shows coarse crackles and dullness to percussion at the right lung base. Scattered expiratory wheezing is heard throughout both lung fields. The CD4+ T-lymphocyte count is 280/mm3. An x-ray of the chest is shown. Which of the following is the most likely cause of this patient's symptoms?",
+				"disease": "aspiration pneumonia",
+				"videoSettings": {
+					"youtubeID": "Opvuiy6rPBo",
+					"start": "151"
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "A 73-year-old man is brought to the emergency department because of fever, malaise, dyspnea, and a productive cough with purulent sputum for the past day. His temperature is 39.2°C (102.6°F). Pulmonary examination shows crackles over the right upper lung field. Sputum Gram stain shows gram-positive cocci. Despite the appropriate treatment, the patient dies 5 days later. At autopsy, gross examination shows that the right lung has a pale, grayish-brown appearance and a firm consistency. Microscopic examination of the tissue is most likely to show which of the following?",
+				"disease": "lobar pneumonia",
+				"videoSettings": {
+					"youtubeID": "Opvuiy6rPBo",
+					"start": "250"
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "A previously healthy 52-year-old woman comes to the physician because of a 1-week history of productive cough, fevers, and malaise. She has smoked one pack of cigarettes daily for 35 years. Her temperature is 39.0°C (102.2°F). Diffuse inspiratory crackles are heard bilaterally. Her leukocyte count is 14,300/mm3. Sputum analysis shows numerous polymorphonuclear leukocytes and a few squamous epithelial cells. An x-ray of the chest shows bilateral patchy consolidations. Which of the following findings on sputum culture is most consistent with this patient's respiratory symptoms?",
+				"disease": "lobular pneumonia caused by Haemophilus influenza",
+				"videoSettings": {
+					"youtubeID": "Opvuiy6rPBo",
+					"start": "336"
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "A 23-year-old male comes to the physician because of a 2-week history of fatigue, muscle aches, and a dry cough. He has also had episodes of painful, bluish discoloration of the tips of his fingers, nose, and earlobes during this period. Three months ago, he joined the military and attended basic training in southern California. He does not smoke or use illicit drugs. His temperature is 37.8°C (100°F). Physical examination shows mildly pale conjunctivae and annular erythematous lesions with a dusky central area on the extensor surfaces of the lower extremities. Which of the following is the most likely causal organism?",
+				"disease": "Mycoplasma pneumoniae",
+				"videoSettings": {
+					"youtubeID": "r8weJi2gg0U",
+					"start": "12"
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A 52-year-old man is brought to the emergency department by a friend because of a 5-day history of fever and cough productive of purulent sputum. One week ago, he was woken up by an episode of heavy coughing while lying on his back. He drinks large amounts of alcohol daily and has spent most of his time in bed since his wife passed away 2 months ago. His temperature is 38.0°C (100.4°F), pulse is 96/min, respirations are 24/min, and blood pressure is 110/84 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 87%. Physical examination shows poor dentition and swollen gums. A CT scan of the chest is most likely to show a pulmonary infiltrate in which of the following locations?",
+				"disease": "aspiration pneumonia",
+				"videoSettings": {
+					"youtubeID": "r8weJi2gg0U",
+					"start": "100"
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A 53-year-old man comes to the physician because of a 1-day history of fever and chills, severe malaise, and cough with yellow-green sputum. He works as a commercial fisherman on Lake Superior. Current medications include metoprolol and warfarin. His temperature is 38.5°C (101.3°F), pulse is 96/min, respirations are 26/min, and blood pressure is 98/62 mm Hg. Examination shows increased fremitus and bronchial breath sounds over the right middle lung field. An x-ray of the chest shows consolidation of the right upper lobe. Which of the following is the most likely causal pathogen?",
+				"disease": "community acquired pneumonia caused by Streptococcus pneumoniae",
+				"videoSettings": {
+					"youtubeID": "r8weJi2gg0U",
+					"start": "176"
+				}
+			},
+			{
+				"varQuestionNumber": 9,
+				"text": "A 69-year-old man is brought to the emergency department by his wife because of fever, cough, diarrhea, and confusion for 2 days. He recently returned from a cruise to the Caribbean. He has a history of chronic obstructive pulmonary disease. He has smoked one pack of cigarettes daily for 40 years. His temperature is 39.1°C (102.4°F), pulse is 83/min, and blood pressure is 111/65 mm Hg. He is confused and oriented only to person. Physical examination shows coarse crackles throughout both lung fields. His serum sodium concentration is 125 mEq/L. Culture of the most likely causal organism would require which of the following mediums?",
+				"disease": "Legionella pneumophila",
+				"videoSettings": {
+					"youtubeID": "r8weJi2gg0U",
+					"start": "228"
+				}
+			},
+			{
+				"varQuestionNumber": 10,
+				"text": "Ten days after undergoing left hip replacement, a 73-year-old hospitalized man develops a fever, dyspnea, cough productive of yellow sputum, confusion, nausea, and diarrhea. Several patients in the hospital report similar symptoms. Physical examination shows decreased breath sounds on the left side and inspiratory crackles over the left lung. An x-ray of the chest shows opacities in the lower lobe of the left lung. Treatment with ampicillin does not improve his symptoms. Subsequent evaluation of the patient's urine detects a pathogen-specific antigen, confirming the diagnosis. Which of the following sources of infection is most likely responsible for this local disease outbreak?",
+				"disease": "Legionella pneumophila",
+				"videoSettings": {
+					"youtubeID": "r8weJi2gg0U",
+					"start": "296"
+				}
+			},
+			{
+				"varQuestionNumber": 11,
+				"text": "A previously healthy 46-year-old woman comes to the physician with a one-week history of productive cough and fatigue. Two weeks ago, she had fever, nasal congestion, rhinorrhea, and myalgias that resolved with supportive care. She has not traveled out of the United States. Pulmonary examination shows dullness to percussion and increased fremitus at the right middle lobe. An x-ray of the chest is shown. A sputum sample is most likely to show which of the following findings?",
+				"disease": "lung abscess caused by Staphylococcus aureus",
+				"videoSettings": {
+					"youtubeID": "Qs6Yh9JXT8w",
+					"start": "12"
+				}
+			},
+			{
+				"varQuestionNumber": 12,
+				"text": "A 34-year-old woman with a seizure disorder comes to the physician because of fever, fatigue, and a productive cough with foul-smelling sputum for 2 weeks. Her temperature is 38.3°C (100.9°F). Physical examination shows dullness to percussion over the right lung fields. An x-ray of the chest shows a cavitary infiltrate with an air-fluid level in the right lower lobe of the lung. Cultures of an aspirate of the infiltrate grow Peptostreptococcus and Prevotella species. Which of the following is the most likely predisposing factor for this patient's condition?",
+				"disease": "lung abscess",
+				"videoSettings": {
+					"youtubeID": "Qs6Yh9JXT8w",
+					"start": "72"
+				}
+			},
+			{
+				"varQuestionNumber": 13,
+				"text": "A 54-year-old woman comes to the physician because of lower back pain, night sweats, and a 5-kg (11-lb) weight loss during the past 4 weeks. She has rheumatoid arthritis treated with adalimumab. Her temperature is 38°C (100.4°F). Physical examination shows tenderness over the T10 and L1 spinous processes. Passive extension of the right hip causes pain in the right lower quadrant. The patient's symptoms are most likely caused by an organism with which of the following virulence factors?",
+				"disease": "Mycobacterium tuberculosis",
+				"videoSettings": {
+					"youtubeID": "Qs6Yh9JXT8w",
+					"start": "139"
+				}
+			},
+			{
+				"varQuestionNumber": 14,
+				"text": "A 28-year-old man comes to the physician for a pre-employment examination. He has no history of serious illness and takes no medications. A screening blood test is performed in which peptides are added to the sample to stimulate in vitro production of interferon-gamma, which is then measured using an enzyme-linked immunosorbent assay. This test is most likely to be helpful in diagnosing infection with which of the following pathogens?",
+				"disease": "Mycobacterium tuberculosis",
+				"videoSettings": {
+					"youtubeID": "Qs6Yh9JXT8w",
+					"start": "220"
+				}
+			},
+			{
+				"varQuestionNumber": 15,
+				"text": "A 65-year-old man comes to the physician for a routine health maintenance examination. He feels well. His most recent examination 2 years ago included purified protein derivative (PPD) skin testing and showed no abnormalities. He is a retired physician and recently came back from rural China where he completed a voluntary service at a local healthcare center. A PPD skin test is performed. Three days later, an induration of 12 mm is noted. An x-ray of the chest shows no abnormalities. He is started on a drug that inhibits the synthesis of mycolic acid. This patient is at greatest risk of developing which of the following adverse effects?",
+				"disease": "Mycobacterium tuberculosis",
+				"videoSettings": {
+					"youtubeID": "Qs6Yh9JXT8w",
+					"start": "251"
+				}
+			},
+			{
+				"varQuestionNumber": 16,
+				"text": "A 48-year-old man who emigrated from Sri Lanka 2 years ago comes to the physician because of a 1-month history of fever, cough, and a 6-kg (13-lb) weight loss. He appears ill. An x-ray of the chest shows patchy infiltrates in the upper lung fields with a cavernous lesion at the right apex. A CT-guided biopsy of the lesion is obtained. A photomicrograph of the biopsy specimen is shown. Which of the following surface antigens is most likely to be found on the cells indicated by the arrowhead?",
+				"disease": "Mycobacterium tuberculosis",
+				"videoSettings": {
+					"youtubeID": "zRyNJ2mZWds",
+					"start": "16"
+				}
+			},
+			{
+				"varQuestionNumber": 17,
+				"text": "A 32-year-old man who recently emigrated from Somalia comes to the physician because of a 4-week history of fever, cough, and chest pain. He has had a 5-kg (11-lb) weight loss over the last 3 months despite no changes in appetite. His temperature is 38.1°C (100.6°F). Physical examination shows enlarged cervical lymph nodes. The lungs are clear to auscultation. The results of an interferon-γ release assay are positive. An x-ray of the chest shows bilateral mediastinal lymphadenopathy. A transbronchial needle aspiration biopsy of a mediastinal lymph node is performed; a photomicrograph of the specimen is shown. The structure indicated by the arrowhead is most likely comprised of which of the following types of cells?",
+				"disease": "Mycobacterium tuberculosis",
+				"videoSettings": {
+					"youtubeID": "zRyNJ2mZWds",
+					"start": "95"
+				}
+			},
+			{
+				"varQuestionNumber": 18,
+				"text": "A 55-year-old woman comes to the physician because of fevers for 2 weeks. She works as a nurse and recently returned from a charity work trip to India, where she worked in a medically-underserved rural community. A tuberculin skin test 3 months ago prior to her trip showed an induration of 3 mm. Physical examination is unremarkable. An x-ray of the chest shows right-sided hilar lymphadenopathy. A sputum culture shows acid-fast bacilli. Which of the following immunologic processes most likely occurred first?",
+				"disease": "Mycobacterium tuberculosis",
+				"videoSettings": {
+					"youtubeID": "zRyNJ2mZWds",
+					"start": "204"
+				}
+			},
+			{
+				"varQuestionNumber": 19,
+				"text": "A 32-year-old man comes to the physician for a 1-month history of fever, chest pain with deep breathing, and a 4-kg (9 lb) weight loss. His temperature is 38°C (100.4°F). An x-ray of the chest shows a subpleural nodule in the right lower lobe with right hilar lymphadenopathy. Microscopic examination of a right hilar lymph node biopsy specimen shows several granulomas with acellular cores. Which of the following is the most likely diagnosis?",
+				"disease": "primary tuberculosis",
+				"videoSettings": {
+					"youtubeID": "zRyNJ2mZWds",
+					"start": "294"
+				}
+			},
+			{
+				"varQuestionNumber": 20,
+				"text": "A 35-year-old man comes to the physician with a 2-month history of fever, night sweats, and a cough productive of white sputum. He lives in New York and is currently homeless. He uses intravenous heroin several times a week. Three months ago he was admitted to the hospital for aspiration pneumonia. His dad passed away at the age of 54 because of “a bad heart condition.” His temperature is 38°C (100.4°F) and respirations are 22/min. Physical examination shows coarse crackles in the left upper posterior lung field. An x-ray of the chest shows a cavitary lesion with calcification in the left upper lobe. Which of the following is the most likely source of his pulmonary findings?",
+				"disease": "Mycobacterium tuberculosis",
+				"videoSettings": {
+					"youtubeID": "zRyNJ2mZWds",
+					"start": "364"
+				}
+			},
+			{
+				"varQuestionNumber": 21,
+				"text": "A 34-year-old woman comes to the physician because of a 6-week history of fever and productive cough with blood-tinged sputum. She has also had a 4-kg (8.8-lb) weight loss during the same time period. Examination shows enlarged cervical lymph nodes. An x-ray of the chest shows a 2.5-cm pulmonary nodule in the right upper lobe. A biopsy specimen of the lung nodule shows caseating granulomas with surrounding multinucleated giant cells. Which of the following is the most likely underlying cause of this patient's pulmonary nodule?",
+				"disease": "Mycobacterium tuberculosis",
+				"videoSettings": {
+					"youtubeID": "zRyNJ2mZWds",
+					"start": "441"
+				}
+			},
+			{
+				"varQuestionNumber": 22,
+				"text": "An investigator studying immune response administers a 0.5 mL intradermal injection of an autoclaved microorganism to a study volunteer. Four weeks later, there is a 12-mm, indurated, hypopigmented patch over the site of injection. Which of the following is the most likely explanation for the observed skin finding?",
+				"disease": "tuberculoid leprosy",
+				"videoSettings": {
+					"youtubeID": "zRyNJ2mZWds",
+					"start": "521"
+				}
+			},
+			{
+				"varQuestionNumber": 23,
+				"text": "A 48-year-old man comes to the physician because of a hypopigmented skin lesion on his finger. He first noticed it 4 weeks ago after cutting his finger with a knife while preparing food. He did not feel the cut. For the past week, he has also had fever, fatigue, and malaise. He has not traveled outside the country since he immigrated from India to join his family in the United States 2 years ago. His temperature is 38.7°C (101.7°F). Physical examination shows a small, healing laceration on the dorsal aspect of the left index finger and an overlying well-defined, hypopigmented macule with raised borders. Sensation to pinprick and light touch is decreased over this area. Which of the following is the most likely causal pathogen of this patient's condition?",
+				"disease": "Mycobacterium leprae",
+				"videoSettings": {
+					"youtubeID": "zRyNJ2mZWds",
+					"start": "625"
+				}
+			}
+		],
+		"diseaseObject": {
+			"a": "",
+			"b": "",
+			"c": "",
+			"d": "",
+			"e": "",
+			"f": "",
+			"g": ""
+		}
+	}	
 	]
 
 console.log(myAmbossQuestionsDataArray);
