@@ -2322,7 +2322,260 @@ var myAmbossQuestionsDataArray = [
 			"f": "",
 			"g": ""
 		}
-	}	
+	},
+{
+	"name": "Brown - Trails for lung tumors",
+	"ambossID": "",
+	"values": [{
+			"varQuestionNumber": 0,
+			"text": "",
+			"disease": "",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 1,
+			"text": "A 51-year-old woman comes to the physician because of a persistent cough and a 5-kg (11-lb) weight loss over the past 2 months. Yesterday, she coughed up bloody sputum. She does not smoke. Pulmonary examination shows decreased breath sounds over the right upper lobe. A CT scan of the chest shows a mass in the periphery of the right upper lobe. Histopathologic examination of a specimen obtained on CT-guided biopsy shows glandular cells with papillary components and signet ring cells that stain positive for mucin. An activating mutation of which of the following genes is most likely to have occurred in this patient?",
+			"disease": "adenocarcinoma",
+			"videoSettings": {
+				"youtubeID": "B75x4k8-KKw",
+				"start": "12"
+			}
+		},
+		{
+			"varQuestionNumber": 2,
+			"text": "A 54-year-old man comes to the emergency department because of a 3-week history of intermittent swelling of his left arm and feeling of fullness in his head that is exacerbated by lying down and bending over to tie his shoes. Physical examination shows left-sided facial edema and distention of superficial veins in the neck and left chest wall. Which of the following is the most likely cause of this patient's symptoms?",
+			"disease": "Pancoast tumor",
+			"videoSettings": {
+				"youtubeID": "B75x4k8-KKw",
+				"start": "76"
+			}
+		},
+		{
+			"varQuestionNumber": 3,
+			"text": "A 58-year-old man is brought to the emergency department after a witnessed tonic-clonic seizure. His wife says he has had a persistent dry cough for 6 months. During this time period, he has also had fatigue and a 4.5-kg (10-lb) weight loss. The patient has no history of serious illness and does not take any medications. He has smoked one pack of cigarettes daily for 35 years. He is confused and oriented only to person. Laboratory studies show a serum sodium concentration of 119 mEq/L and glucose concentration of 102 mg/dL. An x-ray of the chest shows an irregular, poorly demarcated mass at the right hilum. Microscopic examination of this mass is most likely to confirm which of the following diagnoses?",
+			"disease": "small cell carcinoma",
+			"videoSettings": {
+				"youtubeID": "B75x4k8-KKw",
+				"start": "159"
+			}
+		},
+		{
+			"varQuestionNumber": 4,
+			"text": "A 71-year-old woman comes to the physician because of a 4-month history of worsening cough and a 4.5-kg (10-lb) weight loss. She has smoked one pack of cigarettes daily for 35 years. Physical examination shows wheezing over the right lung fields. Laboratory studies show a serum calcium concentration of 12.5 mg/dL. X-rays of the chest are shown. Which of the following is the most likely diagnosis?",
+			"disease": "squamous cell carcinoma",
+			"videoSettings": {
+				"youtubeID": "B75x4k8-KKw",
+				"start": "234"
+			}
+		},
+		{
+			"varQuestionNumber": 5,
+			"text": "A 70-year-old man is brought to the emergency department by his wife because of progressive confusion for the past 2 weeks. He has also had a 4.5-kg (10-lb) weight loss and fatigue during the last 6 months. Physical examination shows enlarged lymph nodes in the right axilla and faint expiratory wheezing in the right middle lung field. He is only oriented to person. Serum studies show a sodium concentration of 125 mEq/L and increased antidiuretic hormone concentration. An x-ray of the chest shows a right-sided hilar mass with mediastinal fullness. A biopsy of the hilar mass is most likely to show cells that stain positive for which of the following?",
+			"disease": "small cell carcinoma",
+			"videoSettings": {
+				"youtubeID": "B75x4k8-KKw",
+				"start": "288"
+			}
+		},
+		{
+			"varQuestionNumber": 6,
+			"text": "A 60-year-old man comes to the physician because his wife has noticed that his left eye looks smaller than his right. He has had worsening left shoulder and arm pain for 3 months. He has smoked two packs of cigarettes daily for 35 years. Examination shows left-sided ptosis. The pupils are unequal but reactive to light; when measured in dim light, the left pupil is 3 mm and the right pupil is 5 mm. Which of the following is the most likely cause of this patient's ophthalmologic symptoms?",
+			"disease": "Pancoast tumor",
+			"videoSettings": {
+				"youtubeID": "t30TuDm4PMw",
+				"start": "12"
+			}
+		},
+		{
+			"varQuestionNumber": 7,
+			"text": "A 42-year-old woman comes to the physician because of an episode of coughing with bloody sputum. Over the past 5 months, she has had a persistent nonproductive cough, excessive fatigue, and a 5.6-kg (12.3-lb) weight loss. She does not smoke. Physical examination shows no abnormalities. An x-ray of the chest shows a 2.0-cm nodule with irregular borders at the upper lobe of the left lung. A CT-guided biopsy of the lung nodule is performed. Pathologic examination of the biopsy specimen is most likely to show which of the following?",
+			"disease": "adenocarcinoma",
+			"videoSettings": {
+				"youtubeID": "t30TuDm4PMw",
+				"start": "82"
+			}
+		},
+		{
+			"varQuestionNumber": 8,
+			"text": "A 61-year-old man comes to the physician because of a 2-month history of a cough productive of clear mucoid sputum. He has smoked one pack of cigarettes daily for 33 years. Physical examination shows no abnormalities. Chest x-ray shows a 2-cm solid nodule in the periphery of the lower left lobe. A bronchial biopsy of the mass shows numerous mucin-filled epithelial cells lining the alveolar basement membrane. The cells have prominent nucleoli, coarse chromatin, and some cells have multiple nuclei. Which of the following is the most likely diagnosis?",
+			"disease": "adenocarcinoma in situ",
+			"videoSettings": {
+				"youtubeID": "t30TuDm4PMw",
+				"start": "135"
+			}
+		},
+		{
+			"varQuestionNumber": 9,
+			"text": "A 56-year-old man comes to the physician for a follow-up examination one week after a chest x-ray showed a solitary pulmonary nodule. He has no history of major medical illness. He has smoked 1 pack of cigarettes daily for the past 30 years. Physical examination shows no abnormalities. A tuberculin skin test is negative. A CT scan of the chest shows a 2.1-cm well-circumscribed, calcified nodule in the periphery of the right lower lung field. A CT-guided biopsy of the lesion is performed. Histological examination of the biopsy specimen shows regions of disorganized hyaline cartilage interspersed with myxoid regions and clefts of ciliated epithelium. Which of the following is the most likely diagnosis?",
+			"disease": "hamartoma",
+			"videoSettings": {
+				"youtubeID": "t30TuDm4PMw",
+				"start": "213"
+			}
+		},
+		{
+			"varQuestionNumber": 10,
+			"text": "A 65-year-old man comes to the physician because of progressive shortness of breath and a worsening cough for the past month. He also reports occasional bloody sputum. He has lost about 7 kg (15.4 lb) of weight over the past 6 months despite having no change in appetite. He has smoked 2 packs of cigarettes daily for 15 years but stopped smoking at the age of 55. Physical examination shows reduced breath sounds throughout both lungs. An x-ray of the chest is shown. Which of the following is the most likely cause of the patient's symptoms?",
+			"disease": "metastases",
+			"videoSettings": {
+				"youtubeID": "t30TuDm4PMw",
+				"start": "258"
+			}
+		},
+		{
+			"varQuestionNumber": 11,
+			"text": "A 71-year-old man is admitted to the hospital for evaluation of a 2-day history of difficulty breathing. He has had worsening cough and dyspnea for the past month but refused to see a physician. Two days after admission, he develops respiratory insufficiency. Despite appropriate care, he dies a few days later. The gross appearance of the lung at autopsy is shown. The patient's pulmonary findings are most likely caused by which of the following?",
+			"disease": "squamous cell carcinoma",
+			"videoSettings": {
+				"youtubeID": "ZnxO7o1QAmQ",
+				"start": "12"
+			}
+		},
+		{
+			"varQuestionNumber": 12,
+			"text": "A 52-year-old man comes to the physician for a follow-up examination. Six weeks ago, he was admitted to the hospital for a pulmonary abscess in the periphery of the left lower lobe of the lung and underwent transthoracic tube drainage. He does not smoke or use illicit drugs. A chest x-ray shows an opacification in the periphery of the left lower lobe as a result of residual scar tissue. The patient is concerned about possible long term complications from the lung scar. This patient is at greatest risk for developing a pulmonary malignancy comprised of which of the following types of cells?",
+			"disease": "adenocarcinoma",
+			"videoSettings": {
+				"youtubeID": "ZnxO7o1QAmQ",
+				"start": "94"
+			}
+		},
+		{
+			"varQuestionNumber": 13,
+			"text": "A 56-year-old woman comes to the physician because of a 1-month history of increasing pain, swelling, and stiffness in both ankles. The pain and stiffness worsen with movement. She has no history of serious illnesses and takes no medications. She does not smoke or drink alcohol. Her temperature is 36.8ºC (98.2ºF). Physical examination shows digital clubbing. The ankle joints are swollen and tender to palpation; range of motion is limited by pain. An x-ray of the lower extremities shows periosteal thickening of the distal tibial diaphysis in both extremities. Which of the following is the most likely underlying cause of this patient's symptoms?",
+			"disease": "adenocarcinoma",
+			"videoSettings": {
+				"youtubeID": "ZnxO7o1QAmQ",
+				"start": "166"
+			}
+		},
+		{
+			"varQuestionNumber": 14,
+			"text": "A 53-year-old man comes to the physician because of a 3-month history of cough and progressively worsening difficulty walking up the stairs in his apartment. He has noticed that it is easier for him to climb the stairs after he has exercised. He has also had a 4.6-kg (10-lb) weight loss over the past 6 months. He has smoked one pack of cigarettes daily for 35 years. Examination shows dry mucous membranes. The pupils are equal and react sluggishly to light. Muscle strength in the proximal lower extremity is initially 3/5 but increases to 5/5 after repeated muscle tapping. His Achilles reflex is 1+. Which of the following is the most likely diagnosis?",
+			"disease": "small cell carcinoma",
+			"videoSettings": {
+				"youtubeID": "ZnxO7o1QAmQ",
+				"start": "258"
+			}
+		}
+	],
+	"diseaseObject": {
+		"a": "",
+		"b": "",
+		"c": "",
+		"d": "",
+		"e": "",
+		"f": "",
+		"g": ""
+	}
+},
+{
+	"name": "Brown - miscellaneous lung disorders",
+	"ambossID": "",
+	"values": [{
+			"varQuestionNumber": 0,
+			"text": "",
+			"disease": "",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 1,
+			"text": "Eight hours after undergoing successful cholecystectomy, a 65-year-old man with scoliosis complains of shortness of breath. Respirations are 28/min and pulse oximetry on room air shows an oxygen saturation of 85%. Physical examination shows kyphotic deformation of the thorax. Cardiopulmonary examination shows intercostal retractions and diminished breath sounds on the left side. There is trace pedal edema bilaterally. An x-ray of the chest shows bilateral fluffy infiltrates, and the cardiac silhouette is shifted slightly to the left side. Which of the following is the most likely explanation for this patient's hypoxia?",
+			"disease": "atelectasis",
+			"videoSettings": {
+				"youtubeID": "3Bfqal3o28M",
+				"start": "15"
+			}
+		},
+		{
+			"varQuestionNumber": 2,
+			"text": "A 94-year-old woman is brought to the emergency department after she was found unresponsive and febrile at her home. Her son reports that she had an acute episode of coughing while having breakfast the day before. Six days after admission, the patient develops progressive tachypnea and a gradual decrease in oxygen saturation, despite ventilation with supplemental oxygen. Physical examination shows coarse bilateral breath sounds. An x-ray of the chest shows opacities in all lung fields. Despite appropriate care, the patient dies two days later. A photomicrograph of a specimen of the lung obtained at autopsy is shown. This patient's pulmonary condition is most likely associated with which of the following pathophysiologic changes?",
+			"disease": "acute respiratory distress syndrome",
+			"videoSettings": {
+				"youtubeID": "3Bfqal3o28M",
+				"start": "90"
+			}
+		},
+		{
+			"varQuestionNumber": 3,
+			"text": "A male newborn born at 27 weeks' gestation is evaluated for rapid breathing and hypoxia shortly after birth. His mother had no prenatal care. Cardiopulmonary examination shows normal heart sounds, intercostal retractions, and nasal flaring. An x-ray of the chest shows low lung volumes, air bronchograms, and diffuse ground-glass opacities. He is started on nasal continuous positive airway pressure. Further evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "hyaline membrane disease",
+			"videoSettings": {
+				"youtubeID": "3Bfqal3o28M",
+				"start": "221"
+			}
+		},
+		{
+			"varQuestionNumber": 4,
+			"text": "A 61-year-old farmer comes to the physician because of a 3-month history of progressively worsening cough and shortness of breath. He has had a 7.5-kg (16.5-lb) weight loss during this period. He smokes occasionally and does not drink alcohol. Physical examination shows clubbing of the fingers. End-inspiratory crackles are heard in both lower lung fields. An x-ray of the chest shows bilateral reticulonodular densities with interstitial fibrosis. Microscopic examination of a lung biopsy specimen shows noncaseating granulomas in the interstitium. Which of the following is the most likely underlying mechanism of this patient's condition?",
+			"disease": "hypersensitivity pneumonitis",
+			"videoSettings": {
+				"youtubeID": "3Bfqal3o28M",
+				"start": "282"
+			}
+		},
+		{
+			"varQuestionNumber": 5,
+			"text": "A previously healthy 61-year-old man comes to the physician because of a 6-month history of morning headaches. He also has fatigue and trouble concentrating on his daily tasks at work. He sleeps for 8 hours every night; his wife reports that he sometimes stops breathing for a few seconds while sleeping. His pulse is 71/min and blood pressure is 158/96 mm Hg. He is 178 cm (5 ft 10 in) tall and weighs 100 kg (220 lb); BMI is 32 kg/m2 . Which of the following is the most likely cause of this patient's hypertension?",
+			"disease": "obstructive sleep apnea",
+			"videoSettings": {
+				"youtubeID": "3Bfqal3o28M",
+				"start": "379"
+			}
+		},
+		{
+			"varQuestionNumber": 6,
+			"text": "A 59-year-old man comes to the physician because of a 1-year history of progressive shortness of breath and nonproductive cough. Pulmonary examination shows bibasilar inspiratory crackles. An x-ray of the chest shows multiple nodular opacities in the upper lobes and calcified hilar nodules. Pulmonary functions tests show an FEV1:FVC ratio of 80% and a severely decreased diffusing capacity for carbon monoxide. A biopsy specimen of a lung nodule shows weakly birefringent needles surrounded by concentric layers of hyalinized collagen. The patient has most likely been exposed to which of the following?",
+			"disease": "silicosis",
+			"videoSettings": {
+				"youtubeID": "vwy2WUnhr90",
+				"start": "11"
+			}
+		},
+		{
+			"varQuestionNumber": 7,
+			"text": "A 61-year-old man comes to the physician because of a 9-month history of progressive shortness of breath on exertion. Pulmonary examinations shows fine bibasilar end-inspiratory crackles. There is digital clubbing. Pulmonary functions tests show an FEV1:FVC ratio of 97% and a total lung capacity of 70%. An x-ray of the chest shows small bilateral reticular opacities, predominantly in the lower lobes. A photomicrograph of a specimen obtained on lung biopsy is shown. The patient most likely works in which of the following fields?",
+			"disease": "asbestosis",
+			"videoSettings": {
+				"youtubeID": "vwy2WUnhr90",
+				"start": "110"
+			}
+		},
+		{
+			"varQuestionNumber": 8,
+			"text": "A 54-year-old woman comes to the emergency department because of sharp chest pain and shortness of breath for 1 day. She has been coughing intermittently, which worsens the pain. She has osteoporosis, for which she takes raloxifene. Arterial blood gas analysis on room air shows: pH 7.52 PCO2 25 mm Hg PO2 65 mm Hg O2 saturation 92% Physical examination is most likely to show which of the following findings?",
+			"disease": "pulmonary embolus",
+			"videoSettings": {
+				"youtubeID": "vwy2WUnhr90",
+				"start": "179"
+			}
+		},
+		{
+			"varQuestionNumber": 9,
+			"text": "A 33-year-old woman comes to the physician because of a 3-week history of fatigue and worsening shortness of breath on exertion. There is no family history of serious illness. She does not smoke. She takes diethylpropion to control her appetite and, as a result, has had a 4.5-kg (10-lb) weight loss during the past 5 months. She is 163 cm (5 ft 4 in) tall and weighs 115 kg (254 lb); BMI is 44 kg/m2. Her pulse is 83/min, and blood pressure is 125/85 mm Hg. Cardiac examination shows a loud pulmonary component of the S2. Abdominal examination shows no abnormalities. Which of the following is the most likely cause of this patient's shortness of breath?",
+			"disease": "pulmonary hypertension",
+			"videoSettings": {
+				"youtubeID": "vwy2WUnhr90",
+				"start": "254"
+			}
+		}
+	],
+	"diseaseObject": {
+		"a": "",
+		"b": "",
+		"c": "",
+		"d": "",
+		"e": "",
+		"f": "",
+		"g": ""
+	}
+}	
 	]
 
 console.log(myAmbossQuestionsDataArray);
