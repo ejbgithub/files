@@ -2575,7 +2575,618 @@ var myAmbossQuestionsDataArray = [
 		"f": "",
 		"g": ""
 	}
-}	
+},
+	{
+		"name": "Brown - Trails for congenital and cystic kidney disease and more",
+		"ambossID": "",
+		"values": [{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 2600-g (5-lb 8-oz) male newborn is delivered at 34 weeks' gestation to a 22-year-old woman. The mother did not have prenatal care. Upon examination in the delivery room, the newborn's skin appears blue. He is gasping and breathing irregularly. The ears are low-set with broad auricles, and the nasal tip is flattened. The lower jaw is small and displaced backward. The right foot is clubbed. Which of the following is the most likely underlying cause of this patient's condition?",
+				"disease": "Potter sequence",
+				"videoSettings": {
+					"youtubeID": "g5Ryf9h8jQk",
+					"start": "13"
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "A 2500-g (5-lb 8-oz) female newborn delivered at 37 weeks' gestation develops rapid breathing, grunting, and subcostal retractions shortly after birth. Despite appropriate lifesaving measures, the newborn dies 2 hours later. Autopsy shows bilateral renal agenesis. Which of the following is the most likely underlying cause of this newborn's respiratory distress?",
+				"disease": "Potter sequence",
+				"videoSettings": {
+					"youtubeID": "g5Ryf9h8jQk",
+					"start": "89"
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "A 68-year-old woman comes to the emergency department because of abdominal pain for 3 days. Physical examination shows guarding and tenderness to palpation over the left lower abdomen. Test of the stool for occult blood is positive. A CT scan of the abdomen is shown. Which of the following mechanisms best explains the patient's imaging findings?",
+				"disease": "horseshoe kidney",
+				"videoSettings": {
+					"youtubeID": "g5Ryf9h8jQk",
+					"start": "143"
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "A previously healthy 24-year-old woman comes to the physician because of a 1-day history of nausea and weakness. She is sexually active with 2 male partners and uses an oral contraceptive; she uses condoms inconsistently. Her last menstrual period was 4 days ago. Her temperature is 38.4°C (101°F). Physical examination shows right costovertebral angle tenderness. Pelvic examination is normal. Which of the following is the most likely cause of this patient's condition?",
+				"disease": "acute pyelonephritis",
+				"videoSettings": {
+					"youtubeID": "g5Ryf9h8jQk",
+					"start": "198"
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "A 62-year-old woman with type 2 diabetes mellitus is brought to the emergency room because of a 3-day history of fever and shaking chills. Her temperature is 39.4°C (103°F). Examination of the back shows right costovertebral angle tenderness. Analysis of the urine shows WBCs, WBC casts, and gram-negative rods. Ultrasound examination of the kidneys shows no signs of obstruction. Biopsy of the patient's kidney is most likely to show which of the following?",
+				"disease": "acute pyelonephritis",
+				"videoSettings": {
+					"youtubeID": "g5Ryf9h8jQk",
+					"start": "283"
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "A 48-year-old man comes to the physician because of a 2-day history of fever, flank pain, and hematuria. He has chronic back pain, for which he has been taking meloxicam for the past 2 weeks. His temperature is 38.9°C (102°F). Physical examination shows a diffuse maculopapular rash over his trunk and extremities. Urinalysis shows 10–15 RBC/hpf, 20 WBC/hpf, and numerous eosinophils. Microscopic examination of a kidney biopsy specimen is most likely to show which of the following findings?",
+				"disease": "allergic interstitial nephritis",
+				"videoSettings": {
+					"youtubeID": "MmaMDlgZ1gE",
+					"start": "21"
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A 60-year-old man comes to the physician because of flank pain, rash, and blood-tinged urine for 1 day. Two months ago, he was started on hydrochlorothiazide for hypertension. He takes acetaminophen for back pain. Examination shows a generalized, diffuse maculopapular rash. Serum studies show a creatinine concentration of 3.0 mg/dL. Renal ultrasonography shows no abnormalities. Which of the following findings is most likely to be observed in this patient?",
+				"disease": "allergic interstitial nephritis",
+				"videoSettings": {
+					"youtubeID": "MmaMDlgZ1gE",
+					"start": "192"
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A 58-year-old female comes to the physician because of generalized fatigue and malaise for 3 months. Four months ago, she was treated for a urinary tract infection with trimethoprim-sulfamethoxazole. She has hypertension, asthma, chronic lower back pain, and chronic headaches. Current medications include hydrochlorothiazide, an albuterol inhaler, naproxen, and an aspirin-caffeine combination. Examination shows conjunctival pallor. Laboratory studies show: Hemoglobin 8.9 g/dL Serum Urea nitrogen 46 mg/dL Creatinine 2.4 mg/dL Calcium 9.8 mg/dL Urine Protein 1+ Blood 1+ RBCs none WBCs 9-10/hpf Urine cultures are negative. Ultrasound shows shrunken kidneys with irregular contours and papillary calcifications. Which of the following is the most likely underlying mechanism of this patient's renal failure?",
+				"disease": "NSAID toxicity",
+				"videoSettings": {
+					"youtubeID": "MmaMDlgZ1gE",
+					"start": "291"
+				}
+			},
+			{
+				"varQuestionNumber": 9,
+				"text": "A 48-year-old woman with chronic tension headaches comes to the physician because of several episodes of bilateral flank pain and reddish urine within the past month. Current medications include aspirin, which she takes almost daily for headaches. Her temperature is 37.4°C (99.3°F) and her blood pressure is 150/90 mm Hg. Physical examination shows costovertebral tenderness to percussion bilaterally. Laboratory studies show a hemoglobin concentration of 10.2 g/dL and serum creatinine concentration of 2.4 mg/dL. Urine studies show: Urine Protein 3+ RBC &gt; 16/hpf WBC 2/hpf There are no casts or dysmorphic RBCs visualized on microscopic analysis of the urine. Which of the following is the most likely underlying cause of this patient's hematuria?",
+				"disease": "NSAID toxicity and renal papillary necrosis",
+				"videoSettings": {
+					"youtubeID": "MmaMDlgZ1gE",
+					"start": "433"
+				}
+			},
+			{
+				"varQuestionNumber": 10,
+				"text": "A 45-year-old man comes to the emergency department because of hematuria and bilateral flank pain. He has passed urinary stones twice before and has a history of recurrent urinary tract infections. He reports no recent trauma. His father had a history of kidney failure and underwent a kidney transplant. His temperature is 38.0°C (100.4°F), pulse is 110/min, and blood pressure is 155/98 mm Hg. Abdominal examination shows palpable, bilateral flank masses. Results of a complete blood count are within the reference range. His serum creatinine concentration is 2.9 mg/dL. Which of the following findings is most likely to be associated with this patient's condition?",
+				"disease": "AD polycystic kidney disease",
+				"videoSettings": {
+					"youtubeID": "MmaMDlgZ1gE",
+					"start": "550"
+				}
+			},
+			{
+				"varQuestionNumber": 11,
+				"text": "A 31-year-old woman comes to the physician because of a 5-month history of intermittent flank pain. Over the past 2 years, she has had five urinary tract infections. Her blood pressure is 150/88 mm Hg. Physical examination shows bilateral, nontender upper abdominal masses. Serum studies show a urea nitrogen concentration of 29 mg/dL and a creatinine concentration of 1.4 mg/dL. Renal ultrasonography shows bilaterally enlarged kidneys with multiple parenchymal anechoic masses. Which of the following is the most likely diagnosis?",
+				"disease": "AD polycystic kidney disease",
+				"videoSettings": {
+					"youtubeID": "FckI6ZErv8w",
+					"start": "12"
+				}
+			},
+			{
+				"varQuestionNumber": 12,
+				"text": "A 44-year-old woman with recurrent urinary tract infections is brought to the emergency department by ambulance after sudden onset of severe headache 30 minutes ago. She has a history of occasional, mild headaches in the morning. There is no other history of serious illness. Both her father and her paternal grandmother died of chronic kidney disease. Her temperature is 37.2°C (99.1°F) and blood pressure is 145/90 mm Hg. Physical examination shows neck stiffness. When her hip is flexed, she is unable to fully extend her knee because of pain. Lumbar puncture performed 12 hours after headache onset yields 10 mL of yellow-colored fluid with no leukocytes. Which of the following is the most likely predisposing factor for this patient's current condition?",
+				"disease": "AD polycystic kidney disease",
+				"videoSettings": {
+					"youtubeID": "FckI6ZErv8w",
+					"start": "76"
+				}
+			},
+			{
+				"varQuestionNumber": 13,
+				"text": "A 3000-g (6-lb 10-oz) male newborn delivered at 38 weeks' gestation develops respiratory distress shortly after birth. Physical examination shows low-set ears, retrognathia, a flattened nose, and club feet. Within a few hours, the newborn dies. Examination of the liver at autopsy shows periportal fibrosis and dilatation of the peripheral intrahepatic ducts. This patient's condition is most likely associated with which of the following?",
+				"disease": "AR polycystic kidney disease",
+				"videoSettings": {
+					"youtubeID": "FckI6ZErv8w",
+					"start": "142"
+				}
+			},
+			{
+				"varQuestionNumber": 14,
+				"text": "A 32-year-old man comes to the physician because of a 3-month history of intermittent flank pain and reddish discoloration of urine. His blood pressure is 150/92 mm Hg. His serum creatinine concentration is 1.4 mg/dL. An abdominal CT scan is shown. This patient's condition is most likely caused by a genetic defect in which of the following locations?",
+				"disease": "AD polycystic kidney disease",
+				"videoSettings": {
+					"youtubeID": "FckI6ZErv8w",
+					"start": "263"
+				}
+			},
+			{
+				"varQuestionNumber": 15,
+				"text": "A 75-year-old man comes to the physician because of abdominal pain and nausea over the past 2 weeks and a 1-month history of pain in his knees and hips. He has smoked one pack of cigarettes daily for 30 years. Physical examination shows decreased muscle strength. Laboratory studies show: Hemoglobin 11.0 mg/dL Serum Creatinine 1.5 mg/dL Calcium 12.2 mg/dL Parathyroid hormone 5 pg/mL Parathyroid hormone-related peptide elevated Urine Blood 2+ Ultrasonography of his abdomen shows a 6-cm mass in his right kidney. Nephrectomy is performed. A photograph of the resected specimen is shown. The patient's tumor most likely originated from which of the following locations?",
+				"disease": "renal cell carcinoma",
+				"videoSettings": {
+					"youtubeID": "FckI6ZErv8w",
+					"start": "325"
+				}
+			},
+			{
+				"varQuestionNumber": 16,
+				"text": "A 69-year-old man comes to the physician because of a 1-week history of blood in the urine and fatigue. He also has had a 5.0-kg (11-lb) weight loss during the past month. Physical examination shows pallor and cachexia. A nontender right flank mass is palpated. A CT scan of the chest, abdomen, and pelvis shows a 5-cm right upper pole renal mass and several pulmonary lesions. A biopsy specimen of an affected area of the lung is obtained. A photomicrograph of the biopsy specimen is shown. Molecular evaluation of the specimen is most likely to show which of the following genetic changes?",
+				"disease": "renal cell carcinoma",
+				"videoSettings": {
+					"youtubeID": "4DK8RHKJ3_0",
+					"start": "13"
+				}
+			},
+			{
+				"varQuestionNumber": 17,
+				"text": "A 57-year-old man comes to the physician with a 3-month history of right flank pain. Urinalysis shows 60 RBC/hpf. Renal ultrasound shows a 3 cm, well-defined mass in the upper pole of the right kidney. A photomicrograph of a section of the resected mass is shown. Which of the following is the most likely diagnosis?",
+				"disease": "oncocytoma",
+				"videoSettings": {
+					"youtubeID": "4DK8RHKJ3_0",
+					"start": "85"
+				}
+			},
+			{
+				"varQuestionNumber": 18,
+				"text": "A 70-year-old man with right-sided renal cell carcinoma comes to the physician because of shortness of breath for 1 month. Yesterday he had an episode of hemoptysis. He appears cachectic and chronically ill. There is dullness to percussion and decreased breath sounds throughout both lung fields. A CT scan of the chest and abdomen shows multiple pulmonary nodules. A CT scan of the abdomen is shown. This patient's tumor most likely spread via which of the following labeled structures?",
+				"disease": "renal cell carcinoma",
+				"videoSettings": {
+					"youtubeID": "4DK8RHKJ3_0",
+					"start": "163"
+				}
+			},
+			{
+				"varQuestionNumber": 19,
+				"text": "A 1-year-old boy is brought to the physician for the evaluation of swelling around the eyelids. He was born at term after an uncomplicated pregnancy. He is at the 95th percentile for weight and 60th percentile for length. His blood pressure is 130/86 mm Hg. Physical examination shows an empty scrotal sac and a left-sided abdominal mass. Ophthalmologic examination shows no abnormalities. Urinalysis shows proteinuria of 3+ and fatty casts. Abdominal ultrasound shows a hypervascular mass at the upper pole of the left kidney. Which of the following best describes the pathogenesis of this patient's disease?",
+				"disease": "Denys-Drash syndrome",
+				"videoSettings": {
+					"youtubeID": "4DK8RHKJ3_0",
+					"start": "226"
+				}
+			},
+			{
+				"varQuestionNumber": 20,
+				"text": "A 72-year-old man comes to the physician because of several episodes of dark urine over the past 2 months. He has had a 6 kg (13.2-lb) weight loss over the past 3 months despite no changes in appetite. He has smoked a pack of cigarettes daily for 30 years. A CT scan shows a heterogeneous enhancing mass arising from the left renal pelvis. Pathologic examination of the lesion is most likely to show which of the following findings?",
+				"disease": "urothelial carcinoma",
+				"videoSettings": {
+					"youtubeID": "4DK8RHKJ3_0",
+					"start": "334"
+				}
+			}
+
+		],
+		"diseaseObject": {
+			"a": "",
+			"b": "",
+			"c": "",
+			"d": "",
+			"e": "",
+			"f": "",
+			"g": ""
+		}
+	},
+	{
+		"name": "Brown - Trails for kidney glomerular disorders",
+		"ambossID": "",
+		"values": [{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 43-year-old man comes to the physician for a 1-week history of swelling around his eyes and decreased urination. His pulse is 87/min, and blood pressure is 152/95 mm Hg. Physical examination shows 1+ periorbital and pretibial edema. Serum studies show a urea nitrogen concentration of 21 mg/dL and a creatinine concentration of 1.4 mg/dL. Urinalysis shows 3+ blood and 1+ protein. Further evaluation of this patient is most likely to show which of the following?",
+				"disease": "nephritic syndrome",
+				"videoSettings": {
+					"youtubeID": "2XLo-m9mEYc",
+					"start": "22"
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "A 48-year-old man comes to the emergency department because of sudden right flank pain that began 3 hours ago. He also noticed blood in his urine. Over the past two weeks, he has developed progressive lower extremity swelling and a 4-kg (9-lb) weight gain. Examination shows bilateral 2+ pitting edema of the lower extremities. Urinalysis with dipstick shows 4+ protein, positive glucose, and multiple red cell and fatty casts. Abdominal CT shows a large right kidney with abundant collateral vessels and a filling defect in the right renal vein. Which of the following is the most likely underlying cause of this patient's symptoms?",
+				"disease": "nephrotic syndrome",
+				"videoSettings": {
+					"youtubeID": "2XLo-m9mEYc",
+					"start": "89"
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "A 44-year-old man comes to the physician because of a 2-week history of lower extremity swelling and frothy urine. He has a history of chronic hepatitis C infection. Physical examination shows 3+ pitting edema of the lower legs and ankles. Further evaluation of this patient is most likely to show which of the following?",
+				"disease": "nephrotic syndrome",
+				"videoSettings": {
+					"youtubeID": "2XLo-m9mEYc",
+					"start": "230"
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "A 4-year-old girl is brought to the physician because of increasing swelling around her eyes and over both her feet for the past 4 days. During this period, she has had frothy light yellow urine. Her vital signs are within normal limits. Physical examination shows periorbital edema and 2+ pitting edema of the lower legs and ankles. A urinalysis of this patient is most likely to show which of the following findings?",
+				"disease": "nephrotic syndrome",
+				"videoSettings": {
+					"youtubeID": "2XLo-m9mEYc",
+					"start": "299"
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "A 22-year-old man comes to the emergency department because of several episodes of blood in his urine and decreased urine output for 5 days. His blood pressure is 158/94 mm Hg. Examination shows bilateral lower extremity edema. Urinalysis shows 3+ protein and red blood cell casts. Mass spectrometry analysis of the urinary protein detects albumin, transferrin, and IgG. Which of the following best describes this type of proteinuria?",
+				"disease": "nephritic syndrome",
+				"videoSettings": {
+					"youtubeID": "2XLo-m9mEYc",
+					"start": "348"
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "A 62-year-old woman with type 2 diabetes mellitus comes to the physician because of a 3-month history of fatigue and weakness. Her hemoglobin A1c concentration was 13.5% 12 weeks ago. Her blood pressure is 152/92 mm Hg. Examination shows lower extremity edema. Serum studies show: K+ 5.1 mEq/L Phosphorus 5.0 mg/dL Ca2+ 7.8 mg/dL Urea nitrogen 60 mg/dL Creatinine 2.2 mg/dL Which of the following is the most appropriate parameter for early detection of this patient’s renal condition?",
+				"disease": "diabetic nephropathy",
+				"videoSettings": {
+					"youtubeID": "NpOUSMbQx8s",
+					"start": "11"
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A 47-year-old woman comes to the physician because of a 2-week history of gradually worsening facial and lower extremity swelling. She has had a 4-kg (8.8-lb) weight gain during this time. Her blood pressure is 150/88 mm Hg. Examination shows periorbital edema and 2+ pretibial edema bilaterally. A 24-hour collection of urine shows 4.0 g of proteinuria. Microscopic examination of a kidney biopsy specimen shows thickening of the glomerular basement membrane. Electron microscopy shows dense subepithelial deposits. Further evaluation is most likely to show which of the following?",
+				"disease": "membranous nephropathy",
+				"videoSettings": {
+					"youtubeID": "NpOUSMbQx8s",
+					"start": "65"
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A 69-year-old white man comes to the physician because of a 15-day history of fatigue and lower leg swelling. Over the past 8 months, he has had a 3.8-kg (8.3-lb) weight loss. He has smoked one pack of cigarettes daily for 48 years. Vital signs are within normal limits. He appears thin. Examination shows 2+ pretibial edema bilaterally. An x-ray of the chest shows a right upper lobe density. Laboratory studies show: Hemoglobin 11.3 g/dL Leukocyte count 8600/mm3 Platelet count 140,000/mm3 Serum Urea nitrogen 25 mg/dL Glucose (fasting) 79 mg/dL Creatinine 1.7 mg/dL Albumin 1.6 g/dL Total cholesterol 479 mg/dL Urine Blood negative Glucose negative Protein 4+ WBC 0–1/hpf Fatty casts numerous Light microscopic examination of a kidney biopsy shows thickening of glomerular capillary loops and the basal membrane. Which of the following is the most likely diagnosis?",
+				"disease": "membranous nephropathy",
+				"videoSettings": {
+					"youtubeID": "NpOUSMbQx8s",
+					"start": "129"
+				}
+			},
+			{
+				"varQuestionNumber": 9,
+				"text": "A 7-year-old boy is brought to the physician by his mother for evaluation of progressively worsening swelling around the eyes. He has no history of major medical illness. He had a sore throat and cough 2 weeks ago that resolved spontaneously. Physical examination shows moderate periorbital edema and 2+ pitting edema of the lower extremities bilaterally. A kidney biopsy specimen shows effacement of the podocytes on electron microscopy. Which of the following is most likely to be found on urinalysis?",
+				"disease": "minimal change disease",
+				"videoSettings": {
+					"youtubeID": "NpOUSMbQx8s",
+					"start": "200"
+				}
+			},
+			{
+				"varQuestionNumber": 10,
+				"text": "A 6-year-old girl is brought to the physician because of increasing swelling around her eyes for the past 3 days. Her vital signs are within normal limits. Physical examination shows periorbital edema and abdominal distention with shifting dullness. Laboratory studies show a serum albumin of 2 g/dL and a serum cholesterol concentration of 290 mg/dL. Urinalysis shows 4+ proteinuria and fatty casts. Histological examination of a kidney biopsy specimen is most likely to show which of the following findings?",
+				"disease": "minimal change disease",
+				"videoSettings": {
+					"youtubeID": "NpOUSMbQx8s",
+					"start": "264"
+				}
+			},
+			{
+				"varQuestionNumber": 11,
+				"text": "A 36-year-old man comes to the physician for a 4-week history of swollen legs. He has difficulty putting on socks because of the swelling. Two years ago, he was diagnosed with sleep apnea. He takes no medications. He emigrated from Guatemala with his family when he was a child. He is 171 cm (5 ft 6 in) tall and weighs 115 kg (253 lb); BMI is 39 kg/m2. His pulse is 91/min and blood pressure is 135/82 mm Hg. Examination shows periorbital and bilateral lower extremity edema. Serum Albumin 3.1 g/dL Total cholesterol 312 mg/dL Urine Blood negative Protein +4 RBC 1-2/hpf RBC cast negative Fatty casts numerous A renal biopsy is obtained. Which of the following is most likely to be seen under light microscopy of the patient's renal biopsy specimen?",
+				"disease": "focal segmental glomeruloscleosis",
+				"videoSettings": {
+					"youtubeID": "t3E3g7SoXDE",
+					"start": "13"
+				}
+			},
+			{
+				"varQuestionNumber": 12,
+				"text": "A 38-year-old woman comes to the physician because of a 5-week history of abdominal distension and swelling of the face and lower extremities. The patient notes that during this period her urine became frothy and the overall output has decreased. She was diagnosed with Crohn disease at the age of 22 years and has had multiple flares treated with systemic corticosteroids. One year ago, she underwent carpal tunnel release surgery for median nerve compression. Current medications are azathioprine and loperamide. She has smoked half a pack of cigarettes daily for the past 20 years. She does not drink alcohol or use illicit drugs. Her blood pressure is 142/83 mmHg. She is 162 cm (5 ft 3 in) tall and weighs 55 kg (121 lb); BMI is 21 kg/m2. Physical examination shows generalized pitting edema, moderate ascites, hepatomegaly, and splenomegaly. Serum studies show an albumin concentration of 2.9 g/dL, a total cholesterol concentration of 270 mg/dL, and a total bilirubin concentration of 0.2 mg/dL. A urine dipstick test shows 4+ proteinuria. A renal biopsy in this patient is most likely to show which of the following findings?",
+				"disease": "amyloid",
+				"videoSettings": {
+					"youtubeID": "t3E3g7SoXDE",
+					"start": "135"
+				}
+			},
+			{
+				"varQuestionNumber": 13,
+				"text": "A 20-year-old man comes to the physician because of dark urine and decreased urine output for 2 days. He had a skin infection that required antibiotic treatment 3 weeks ago but stopped the antibiotics early because the infection had resolved. His blood pressure is 140/90 mm Hg. Physical examination shows periorbital edema bilaterally. A photomicrograph of a renal biopsy specimen is shown. Further evaluation of this patient is most likely to show which of the following findings?",
+				"disease": "post-streptococcal glomerulonephritis",
+				"videoSettings": {
+					"youtubeID": "t3E3g7SoXDE",
+					"start": "372"
+				}
+			},
+			{
+				"varQuestionNumber": 14,
+				"text": "An 11-year-old girl comes to the physician with her mother because of a 2-day history of passing “cola-colored“ urine. During the past week, her mother noticed episodes of facial swelling. The patient had a rash on her face about 4 weeks ago. A renal biopsy after immunofluorescence is shown. Which of the following is the most likely diagnosis?",
+				"disease": "post-streptococcal glomerulonephritis",
+				"videoSettings": {
+					"youtubeID": "t3E3g7SoXDE",
+					"start": "444"
+				}
+			},
+			{
+				"varQuestionNumber": 15,
+				"text": "A 13-year-old boy is brought to the physician because of swelling around his eyes for the past 2 days. His mother also notes that his urine became gradually darker during this time. Three weeks ago, he was treated for bacterial tonsillitis. His temperature is 37.6°C (99.7°F), pulse is 79/min, and blood pressure is 158/87 mm Hg. Examination shows periorbital swelling. Laboratory studies show: Serum Urea nitrogen 9 mg/dL Creatinine 1.7 mg/dL Urine Protein 2+ RBC 12/hpf RBC casts numerous A renal biopsy would most likely show which of the following findings?",
+				"disease": "post-streptococcal glomerulonephritis",
+				"videoSettings": {
+					"youtubeID": "t3E3g7SoXDE",
+					"start": "524"
+				}
+			},
+			{
+				"varQuestionNumber": 16,
+				"text": "A 17-year-old boy is brought to the physician because of a sore throat, nonproductive cough, and bloody urine for 3 days. He has had 2 similar episodes involving a sore throat and bloody urine over the past year. His sister has systemic lupus erythematosus. His temperature is 38.1°C (100.6°F). Serum studies show a urea nitrogen concentration of 8 mg/dL and a creatinine concentration of 1.4 mg/dL. Urinalysis shows acanthocytes and red blood cell casts. Renal ultrasonography shows no abnormalities. A renal biopsy is most likely to show which of the following findings?",
+				"disease": "IgA nephropathy",
+				"videoSettings": {
+					"youtubeID": "6_pY-1gZODE",
+					"start": "13"
+				}
+			},
+			{
+				"varQuestionNumber": 17,
+				"text": "A 10-year-old boy comes to the physician because of a 4-month history of intermittent red urine. During the past 2 years, he has had recurrent episodes of swelling of his face and feet. Five years ago, he was diagnosed with mild bilateral sensorineural hearing loss. His uncle died of kidney disease in his twenties. His blood pressure is 145/85 mm Hg. Laboratory studies show a hemoglobin concentration of 12.5 g/dL, urea nitrogen concentration of 40 mg/dL, and creatinine concentration of 2.4 mg/dL. Urinalysis shows 5–7 RBC/hpf. Which of the following is the most likely underlying cause of this patient's symptoms?",
+				"disease": "Alport syndrome",
+				"videoSettings": {
+					"youtubeID": "6_pY-1gZODE",
+					"start": "120"
+				}
+			},
+			{
+				"varQuestionNumber": 18,
+				"text": "A 24-year-old previously healthy man comes to his physician because of dyspnea and hemoptysis for the past week. Examination shows inspiratory crackles at both lung bases. The remainder of the examination shows no abnormalities. His hemoglobin concentration is 14.2 g/dL, leukocyte count is 10,300/mm3, and platelet count is 205,000/mm3. Urine dipstick shows 2+ proteins. Urinalysis shows 80 RBC/hpf and 1–2 WBC/hpf. An x-ray of the chest shows pulmonary infiltrates. Further evaluation is most likely to show increased serum titers of which of the following?",
+				"disease": "Goodpasture disease",
+				"videoSettings": {
+					"youtubeID": "6_pY-1gZODE",
+					"start": "189"
+				}
+			},
+			{
+				"varQuestionNumber": 19,
+				"text": "A 42-year-old man comes to the physician because of fatigue and decreased urination for the past 3 days. His creatinine is 2.5 mg/dL. A photomicrograph of a biopsy specimen of the right kidney is shown. Which of the following mechanisms most likely contributed to this patient's biopsy findings?",
+				"disease": "rapidly progressive glomerulonephritis",
+				"videoSettings": {
+					"youtubeID": "6_pY-1gZODE",
+					"start": "311"
+				}
+			},
+			{
+				"varQuestionNumber": 20,
+				"text": "A 22-year-old man comes to the physician because of a 2-week history of cough and decreased urination. The cough was initially nonproductive, but in the last few days he has coughed up small amounts of blood-tinged sputum with clots. He has not had any fevers, chills, or weight loss. He has smoked one pack of cigarettes daily for 5 years. Pulse is 115/min and blood pressure is 125/66 mm Hg. Physical examination shows dried blood around the lips. Serum studies show a creatinine of 2.9 mg/dL. Results of a serum antineutrophil cytoplasm antibody test are negative. A biopsy specimen of the kidney is most likely to show which of the following light microscopy findings?",
+				"disease": "rapidly progressive glomerulonephritis",
+				"videoSettings": {
+					"youtubeID": "6_pY-1gZODE",
+					"start": "348"
+				}
+			},
+			{
+				"varQuestionNumber": 21,
+				"text": "A 70-year-old woman comes to the physician because of a 4-month history of fatigue, worsening swelling of her ankles, and a 5-kg (11-lb) weight gain. Neurologic examination shows diminished two-point discrimination in her fingers. Laboratory studies show a hemoglobin A1c concentration of 9.2% and a creatinine concentration of 1.3 mg/dL. Urine dipstick shows heavy proteinuria. A biopsy specimen of this patient's kidney is most likely to show which of the following?",
+				"disease": "nodular glomerulosclerosis",
+				"videoSettings": {
+					"youtubeID": "6_pY-1gZODE",
+					"start": "439"
+				}
+			}
+
+		],
+		"diseaseObject": {
+			"a": "",
+			"b": "",
+			"c": "",
+			"d": "",
+			"e": "",
+			"f": "",
+			"g": ""
+		}
+	},
+	{
+		"name": "Brown - Trails for ureters, bladder, and urethra disorders",
+		"ambossID": "",
+		"values": [{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A male newborn is born at 37 weeks' gestation after spontaneous vaginal delivery. The mother had no prenatal care. Physical examination shows a urethral opening on the dorsal aspect of the penis, 4 mm proximal to the glans. There is a 3-cm defect in the midline abdominal wall superior to the pubic symphysis with exposure of moist, erythematous mucosa. Which of the following is the most likely underlying cause of this patient's findings?",
+				"disease": "bladder exstrophy",
+				"videoSettings": {
+					"youtubeID": "oS7U2jliCJY",
+					"start": "14"
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "A male newborn is delivered at term to a 30-year-old woman. Pregnancy and delivery were uncomplicated. At birth, the umbilical cord is noted to be large. When the newborn cries, straw-colored fluid leaks from the umbilicus. The external genitalia appear normal. Which of the following is the most likely cause of this newborn's symptoms?",
+				"disease": "urachus abnormality",
+				"videoSettings": {
+					"youtubeID": "oS7U2jliCJY",
+					"start": "86"
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "An 84-year-old woman with an indwelling urinary catheter and a history of recurrent nephrolithiasis is brought to the emergency department from her nursing home because of increasing confusion over the past day. On arrival, she is oriented only to person. Her temperature is 38.3°C (100.9°F). Examination shows dry mucous membranes. Urine studies show: pH 8.5 WBC 40/hpf Bacteria moderate Nitrites positive The urine has an ammonia odor. Which of the following is most likely to be present on this patient's urine culture?",
+				"disease": "acute bacterial cystitis",
+				"videoSettings": {
+					"youtubeID": "oS7U2jliCJY",
+					"start": "168"
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "A 25-year-old woman comes to the physician because of a 2-day history of a burning sensation when urinating and increased urinary frequency. She is concerned about having contracted a sexually transmitted disease. Physical examination shows suprapubic tenderness. Urinalysis shows a negative nitrite test and positive leukocyte esterases. Urine culture grows organisms that show resistance to novobiocin on susceptibility testing. Which of the following is the most likely causal organism of this patient's symptoms?",
+				"disease": "acute bacterial cystitis",
+				"videoSettings": {
+					"youtubeID": "oS7U2jliCJY",
+					"start": "237"
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "A 68-year-old man comes to the physician with a 1-week history of painless hematuria. A CT scan of the urinary tract shows areas of bladder wall thickening. Cystoscopy shows several sessile masses with central necrosis arising from the bladder wall. A biopsy specimen of the bladder masses shows moderately differentiated urothelial cells with abundant mitotic figures and nuclear atypia. The patient most likely has a history of exposure to which of the following?",
+				"disease": "papillary urothelial carcinoma",
+				"videoSettings": {
+					"youtubeID": "oS7U2jliCJY",
+					"start": "296"
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "A 67-year-old man comes to the physician because of urinary frequency, dysuria, and blood in his urine. He has also had a 4.5-kg (10-lb) weight loss over the past 3 months and has been feeling more fatigued than usual. He smoked one pack of cigarettes daily for 40 years but quit 2 years ago. A urinalysis shows 3+ blood. Cystoscopy shows an irregular mass on the bladder wall; a biopsy is taken. Which of the following histologic findings would indicate the worst survival prognosis?",
+				"disease": "papillary urothelial carcinoma",
+				"videoSettings": {
+					"youtubeID": "shZUarAvgQY",
+					"start": "13"
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A 60-year-old man comes to the physician because of a 1-week history of lower back pain. He has had several episodes of painless hematuria over the past 2 months. Physical examination shows localized tenderness over the lumbar spine. A CT scan shows multiple osteolytic lesions in the body of the lumbar vertebrae. Cystoscopy shows a 4-cm mass in the right lateral wall of the bladder. A photomicrograph of a biopsy specimen is shown. Which of the following is the strongest risk factor for this patient's condition?",
+				"disease": "papillary urothelial carcinoma",
+				"videoSettings": {
+					"youtubeID": "shZUarAvgQY",
+					"start": "100"
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A 32-year-old woman comes to the physician because of a 3-week history of intermittent loose stools and a 1.2-kg (2.6-lb) weight loss. She immigrated to the US from Uganda 6 weeks ago. Abdominal examination shows diffuse tenderness with no guarding or rebound. The liver is firm and palpable 3 cm below the right costal margin, and the spleen is palpable just below the left costal margin. Her leukocyte count is 12,800/mm3 (12% eosinophils). A photomicrograph of a stool sample is shown. Microscopic examination of a liver biopsy specimen shows granulomatous inflammation with periportal fibrosis. Exposure to which of the following is most likely to have played a role in the development of this patient's symptoms?",
+				"disease": "squamous cell carcinoma",
+				"videoSettings": {
+					"youtubeID": "shZUarAvgQY",
+					"start": "179"
+				}
+			},
+			{
+				"varQuestionNumber": 9,
+				"text": "A 48-year-old man comes to the emergency department because of a 2-hour history of severe left-sided colicky flank pain that radiates towards his groin. He has vomited twice. Last year, he was treated with ibuprofen for swelling and pain of his left toe. He drinks 4-5 beers most days of the week. Examination shows left costovertebral angle tenderness. An upright x-ray of the abdomen shows no abnormalities. A CT scan of the abdomen and pelvis shows an 9-mm stone in the proximal ureter on the left. Which of the following is most likely to be seen on urinalysis?",
+				"disease": "urate nephropathy",
+				"videoSettings": {
+					"youtubeID": "shZUarAvgQY",
+					"start": "277"
+				}
+			},
+			{
+				"varQuestionNumber": 10,
+				"text": "A 33-year-old woman comes to the physician because of a 14-hour history of left flank pain associated with dark urine. Her temperature is 37.2°C (99°F). The abdomen is soft with normal bowel sounds. There is guarding on the left lateral side and tenderness to palpation over the left costophrenic angle. An x-ray of the abdomen shows an 8-mm kidney stone. In addition to adequate hydration, which of the following changes in diet should be advised for this patient?",
+				"disease": "nephrolithiasis",
+				"videoSettings": {
+					"youtubeID": "shZUarAvgQY",
+					"start": "383"
+				}
+			},
+			{
+				"varQuestionNumber": 11,
+				"text": "A previously healthy 38-year-old man comes to the emergency department for evaluation of several hours of severe, right-sided, colicky flank pain that radiates to the groin. He drinks 2–3 energy drinks daily. An x-ray of the abdomen shows a 4-mm radiopaque mass in the right ureter. Microscopic examination of the urine shows biconcave, dumbbell-shaped crystals. Which of the following is most likely to prevent future episodes of flank pain?",
+				"disease": "nephrolithiasis",
+				"videoSettings": {
+					"youtubeID": "1lGlhHNwXiM",
+					"start": "12"
+				}
+			},
+			{
+				"varQuestionNumber": 12,
+				"text": "A 35-year-old woman comes to the emergency department because of right flank pain that radiates to the groin. She has no history of major medical illness. Her temperature is 36°C (96.8°F), pulse is 100/min, and blood pressure is 110/60 mm Hg. A urine dipstick is positive for blood. Further evaluation is most likely to show which of the following sets of laboratory findings? Serum Ca2+ Serum uric acid Urine Ca2+ Urine pH Urine cystine A Normal normal increased decreased normal B Normal normal normal normal normal C Normal normal normal increased normal D Normal increased normal decreased normal E Increased normal increased increased normal F Normal normal normal decreased increased",
+				"disease": "calcium oxalate",
+				"videoSettings": {
+					"youtubeID": "1lGlhHNwXiM",
+					"start": "65"
+				}
+			},
+			{
+				"varQuestionNumber": 13,
+				"text": "A 46-year-old man comes to the emergency department because of sharp pain in his left flank that began suddenly 30 minutes ago. Physical examination shows costovertebral angle tenderness on the left side. A photomicrograph of the urine is shown. The patient is most likely to benefit from an increase of which of the following components in the urine?",
+				"disease": "calcium oxalate",
+				"videoSettings": {
+					"youtubeID": "1lGlhHNwXiM",
+					"start": "134"
+				}
+			},
+			{
+				"varQuestionNumber": 14,
+				"text": "A 4-year-old girl is brought to the emergency department because of colicky abdominal pain for 1 day. She has had two similar episodes in the past. Urinalysis shows red blood cells and hexagonal-shaped crystals. Urine sodium cyanide nitroprusside test is positive. Further evaluation of this patient is most likely to show which of the following findings?",
+				"disease": "cysteine stone",
+				"videoSettings": {
+					"youtubeID": "1lGlhHNwXiM",
+					"start": "202"
+				}
+			},
+			{
+				"varQuestionNumber": 15,
+				"text": "A 32-year-old man with hypertension and gout comes to the physician with left flank pain and bloody urine for two days. He does not smoke cigarettes but drinks two beers daily. Home medications include hydrochlorothiazide and ibuprofen as needed for pain. Physical examination shows left costovertebral angle tenderness. Urine dipstick is strongly positive for blood. Microscopic analysis of a stone found in the urine reveals a composition of magnesium ammonium phosphate. Which of the following is the strongest predisposing factor for this patient's condition?",
+				"disease": "struvite stone",
+				"videoSettings": {
+					"youtubeID": "1lGlhHNwXiM",
+					"start": "256"
+				}
+			},
+			{
+				"varQuestionNumber": 16,
+				"text": "A 21-year-old woman is brought to the emergency department because of the sudden onset of left-sided back pain with radiation to the groin that began 2 hours ago. She has had similar episodes in the past. Her pulse is 103/min. Examination shows a soft and non-tender abdomen. Left costovertebral angle tenderness is present. Leukocyte count is 11,000/mm3. Urine dipstick is positive for blood and a urinary cyanide nitroprusside test is positive. An x-ray of the abdomen shows no abnormalities. Further evaluation of this patient's urine is most likely to show which of the following?",
+				"disease": "cysteine stone",
+				"videoSettings": {
+					"youtubeID": "tRXmCG2rzME",
+					"start": "12"
+				}
+			},
+			{
+				"varQuestionNumber": 17,
+				"text": "A 52-year-old woman comes to the emergency department because of a 3-hour history of right flank pain and nausea. Her only medication is a multivitamin. Her vital signs are within normal limits. Physical examination shows tenderness in the right costovertebral angle. Urinalysis shows a pH of 5.1, 50–60 RBC/hpf, and dumbbell-shaped crystals. Which of the following best describes the composition of the crystals seen on urinalysis?",
+				"disease": "calcium oxalate",
+				"videoSettings": {
+					"youtubeID": "tRXmCG2rzME",
+					"start": "88"
+				}
+			},
+			{
+				"varQuestionNumber": 18,
+				"text": "A 32-year-old woman comes to the physician because of a 1-week history of left flank pain and dysuria. She has had 2 episodes of urinary tract infection over the past 2 years. Her temperature is 37°C (98.6°F) and pulse is 82/min. An ultrasound of the kidneys shows left-sided hydronephrosis and echogenic foci with acoustic shadowing. A photomicrograph of the urine is shown. The crystals observed are most likely composed of which of the following?",
+				"disease": "struvite stone",
+				"videoSettings": {
+					"youtubeID": "tRXmCG2rzME",
+					"start": "149"
+				}
+			},
+			{
+				"varQuestionNumber": 19,
+				"text": "A 30-year-old man comes to the emergency department because of worsening lower abdominal pain and nausea for the past 2 hours. He reports that the pain projects into his right groin and testis. One month ago, he woke up during the night because of similar pain in his right side. The pain became excruciating after 30 minutes and resolved spontaneously after 6 hours. He goes to the gym at least 6 days each week and started a new diet 3 months ago in an effort to build up muscle mass. His temperature is 37.6°C (99.7°F), pulse is 91/min, and blood pressure is 133/82 mm Hg. Abdominal examination shows tenderness to palpation of the right side and reduced frequency of bowel sounds; guarding and rebound tenderness are absent. There is no swelling or erythema of the groin and scrotum. Which of the following is the most likely cause of this patient's symptoms?",
+				"disease": "nephrolithiasis",
+				"videoSettings": {
+					"youtubeID": "tRXmCG2rzME",
+					"start": "217"
+				}
+			}
+		],
+		"diseaseObject": {
+			"a": "",
+			"b": "",
+			"c": "",
+			"d": "",
+			"e": "",
+			"f": "",
+			"g": ""
+		}
+	}	
 	]
 
 console.log(myAmbossQuestionsDataArray);
