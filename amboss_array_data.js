@@ -3186,6 +3186,899 @@ var myAmbossQuestionsDataArray = [
 			"f": "",
 			"g": ""
 		}
+	},
+	{
+		"name": "Brown - Trails for esophagus and stomach",
+		"ambossID": "",
+		"values": [{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 45-year-old woman comes to the physician because of progressive difficulty swallowing solids and liquids over the past 4 months. She has lost 4 kg (9 lb) during this period. There is no history of serious illness. She emigrated to the US from Panama 7 years ago. She does not smoke cigarettes or drink alcohol. Cardiopulmonary examination shows a systolic murmur and an S3 gallop. A barium radiograph of the chest is shown. Endoscopic biopsy of the distal esophagus is most likely to show which of the following?",
+				"disease": "Chagas disease",
+				"videoSettings": {
+					"youtubeID": "-oS5Pp3vdfo",
+					"start": "13"
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "A previously healthy 49-year-old woman comes to the emergency department because of chest pain that radiates to her back. The pain started 45 minutes ago while she was having lunch. Over the past 3 months, she has frequently had the feeling of food, both liquid and solid, getting “stuck” in her chest while she is eating. The patient's vital signs are within normal limits. An ECG shows a normal sinus rhythm with no ST-segment abnormalities. An esophagogram is shown. Further evaluation is most likely to show which of the following?",
+				"disease": "diffuse esophageal spasm",
+				"videoSettings": {
+					"youtubeID": "-oS5Pp3vdfo",
+					"start": "114"
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "A previously healthy 25-year-old woman comes to the physician because of a 3-week history of fever, recurrent headaches, and anorexia. One month ago, she returned from a camping trip in Chile. Her temperature is 39.3°C (102.8°F). Examination shows a swelling in the left periorbital region and axillary, cervical, and inguinal lymphadenopathy. A blood sample is obtained. Processing of the sample with which of the following methods is most likely to confirm the diagnosis?",
+				"disease": "Chagas disease",
+				"videoSettings": {
+					"youtubeID": "-oS5Pp3vdfo",
+					"start": "181"
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "A 23-year-old woman comes to the physician because of a 1-week history of headache, loss of appetite, diarrhea, and swelling of her jaw. She recently returned from a 5-week hiking and camping trip in Mexico. She appears unwell. Her temperature is 38.7°C (101.6°F), pulse is 72/min, and blood pressure is 119/70 mm Hg. Examination shows a painful swelling and erythema of the skin in the left mandibular area. A photomicrograph of her peripheral blood smear is shown. Which of the following is the most appropriate pharmacotherapy?",
+				"disease": "Chagas disease",
+				"videoSettings": {
+					"youtubeID": "-oS5Pp3vdfo",
+					"start": "253"
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "A 64-year-old woman is brought to the emergency department because of a 2-hour history of nausea, vomiting, and retrosternal pain that radiates to the back. Abdominal examination shows tenderness to palpation in the epigastric area. A CT scan of the patient's chest is shown. Which of the following is the most likely diagnosis?",
+				"disease": "Boerhaave syndrome",
+				"videoSettings": {
+					"youtubeID": "-oS5Pp3vdfo",
+					"start": "324"
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "A 68-year-old man comes to the physician because of a 6-month history of difficulty swallowing pieces of meat and choking frequently during meal times. He also sometimes regurgitates foul-smelling, undigested food particles. Examination shows no abnormalities. A barium swallow shows an accumulation of contrast in an outpouching of the posterior pharyngeal wall at the C5 level. Which of the following is the most likely underlying cause of this patient's condition?",
+				"disease": "Zenker diverticula",
+				"videoSettings": {
+					"youtubeID": "ez00OlOJAKg",
+					"start": "11"
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A 42-year-old woman comes to the physician because of a 4-week history of progressive difficulty swallowing solid foods. The patient reports feeling like food gets stuck in her throat, and that she has to drink a lot of water to swallow her meals. Over the past 3 months, she has had progressive fatigue and occasional dyspnea while performing her daily activities. Her pulse is 104/min, respirations are 19/min, and blood pressure is 110/70 mm Hg. Physical examination shows conjunctival pallor, erythema around the corners of the mouth, and dry, scaly lips. Her fingernails appear spoon-shaped and brittle. Auscultation of the heart shows a grade 1/6 systolic murmur best heard at the second left intercostal space. Esophagogastroduodenoscopy shows thin membranes that are protruding into the upper third of the esophagus. Further evaluation of the patient is most likely to show which of the following?",
+				"disease": "Plummer-Vinson syndrome",
+				"videoSettings": {
+					"youtubeID": "ez00OlOJAKg",
+					"start": "61"
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A 69-year-old man comes to the physician because of progressive difficulty swallowing and a 5-kg (11-lb) weight loss over the past 3 months. He first had trouble swallowing solid foods and then also developed difficulty swallowing liquids over the past week. Endoscopy shows a large mass 3 cm proximal to the esophagogastric junction. Biopsy of the mass shows significant distortion of glandular architecture. Which of the following is the strongest predisposing factor for this patient's condition?",
+				"disease": "adenocarcinoma",
+				"videoSettings": {
+					"youtubeID": "ez00OlOJAKg",
+					"start": "159"
+				}
+			},
+			{
+				"varQuestionNumber": 9,
+				"text": "A 68-year-old man comes to the physician because of a 4-month history of bad breath and progressive difficulty swallowing solid food. Physical examination shows no abnormalities. An upper endoscopy is performed and a photomicrograph of a biopsy specimen obtained from the mid-esophagus is shown. Which of the following is the most likely explanation for the biopsy findings?",
+				"disease": "squamous cell carcinoma",
+				"videoSettings": {
+					"youtubeID": "ez00OlOJAKg",
+					"start": "214"
+				}
+			},
+			{
+				"varQuestionNumber": 10,
+				"text": "A 36-year-old woman comes to the physician for difficulty swallowing and a burning sensation in her chest for the past 2 years. She has increased her fluid consumption to help with swallowing when eating. She reports having used both over-the-counter antacids and pantoprazole for 2 months without any relief of symptoms. She uses a daily low-dose inhaled corticosteroid and an albuterol inhaler as needed for allergic asthma. She is 170 cm (5 ft 6 in) tall and weighs 75 kg (165 lbs); her BMI is 26 kg/m2. Her vital signs are within normal limits. Physical examination shows no abnormalities. Findings of an upper endoscopy are shown. Which of the following is the most likely diagnosis?",
+				"disease": "eosinophilic esophagitis",
+				"videoSettings": {
+					"youtubeID": "ez00OlOJAKg",
+					"start": "262"
+				}
+			},
+			{
+				"varQuestionNumber": 11,
+				"text": "A 56-year-old man comes to the physician because of intermittent retrosternal chest pain. Physical examination shows no abnormalities. Endoscopy shows salmon pink mucosa extending 5 cm proximal to the gastroesophageal junction. Biopsy specimens from the distal esophagus show nonciliated columnar epithelium with numerous goblet cells. Which of the following is the most likely cause of this patient's condition?",
+				"disease": "Barrett esophagus",
+				"videoSettings": {
+					"youtubeID": "yaEu_XPa_D8",
+					"start": "10"
+				}
+			},
+			{
+				"varQuestionNumber": 12,
+				"text": "A 45-year-old woman comes to the physician because of a 5-month history of recurrent retrosternal chest pain that often wakes her up at night. Physical examination shows no abnormalities. Upper endoscopy shows hyperemia in the distal third of the esophagus. A biopsy specimen from this area shows nonkeratinized stratified squamous epithelium with hyperplasia of the basal cell layer and neutrophilic inflammatory infiltrates. Which of the following is the most likely underlying cause of this patient's findings?",
+				"disease": "gastroesophageal reflux disease",
+				"videoSettings": {
+					"youtubeID": "yaEu_XPa_D8",
+					"start": "70"
+				}
+			},
+			{
+				"varQuestionNumber": 13,
+				"text": "A 47-year-old man with gastroesophageal reflux disease comes to the physician because of severe burning chest pain and belching after meals. He has limited his caffeine intake and has been avoiding food close to bedtime. Esophagogastroduodenoscopy shows erythema and erosions in the distal esophagus. Which of the following is the mechanism of action of the most appropriate drug for this patient?",
+				"disease": "gastroesophageal reflux disease",
+				"videoSettings": {
+					"youtubeID": "yaEu_XPa_D8",
+					"start": "123"
+				}
+			},
+			{
+				"varQuestionNumber": 14,
+				"text": "A 16-year-old girl is brought to the physician because of a 1-month history of fever, headaches, and profound fatigue. Her temperature is 38.2°C (100.8°F). Examination shows splenomegaly. Laboratory studies show: Leukocyte count 13,000/mm3 (15% atypical lymphocytes) Serum Alanine aminotransferase (ALT) 90 U/L Aspartate aminotransferase (AST) 60 U/L Heterophile antibody assay negative EBV viral capsid antigen (VCA) antibodies negative HIV antibody negative In an immunocompromised host, the causal organism of this patient's symptoms would most likely cause which of the following conditions?",
+				"disease": "viral esophagitis",
+				"videoSettings": {
+					"youtubeID": "yaEu_XPa_D8",
+					"start": "179"
+				}
+			},
+			{
+				"varQuestionNumber": 15,
+				"text": "A 30-year-old man is brought to the emergency department because of a 5-day history of severe shortness of breath, fever, and cough. He says he has smoked one pack of cigarettes daily for 12 years and occasionally uses cocaine on weekends. After intubation in the emergency department for worsening tachypnea and hypoxia, he is admitted to the intensive care unit for management of pneumococcal sepsis. One week later, the patient develops hematemesis. Abdominal examination shows epigastric tenderness; there is no guarding or rebound tenderness. Urgent endoscopy shows multiple shallow hemorrhagic lesions, predominantly in the gastric fundus and greater curvature. Biopsies show patchy epithelial defects that do not extend beyond the muscularis mucosa. Which of the following is the most likely diagnosis?",
+				"disease": "acute gastritis",
+				"videoSettings": {
+					"youtubeID": "yaEu_XPa_D8",
+					"start": "245"
+				}
+			},
+			{
+				"varQuestionNumber": 16,
+				"text": "A 46-year-old woman from Ecuador is admitted to the hospital because of tarry-black stools and epigastric pain for 2 weeks. The epigastric pain is relieved after meals, but worsens after 1–2 hours. She has no history of serious illness and takes no medications. Physical examination shows no abnormalities. Fecal occult blood test is positive. Esophagogastroduodenoscopy shows a bleeding duodenal ulcer. Microscopic examination of a duodenal biopsy specimen is most likely to show which of the following?",
+				"disease": "Helicobacter",
+				"videoSettings": {
+					"youtubeID": "9pCDWt-SGMs",
+					"start": "10"
+				}
+			},
+			{
+				"varQuestionNumber": 17,
+				"text": "A 45-year-old man comes to the emergency department because of a 1-day history of black, tarry stools. He has also had upper abdominal pain that occurs immediately after eating and a 4.4-kg (9.7-lb) weight loss in the past 6 months. He has no history of major medical illness but drinks 3 beers daily. His only medication is acetaminophen. He is a financial consultant and travels often for work. Physical examination shows pallor and mild epigastric pain. Esophagogastroduodenoscopy shows a bleeding 15-mm ulcer in the antrum of the stomach. Which of the following is the strongest predisposing factor for this patient's condition?",
+				"disease": "Helicobacter",
+				"videoSettings": {
+					"youtubeID": "9pCDWt-SGMs",
+					"start": "107"
+				}
+			},
+			{
+				"varQuestionNumber": 18,
+				"text": "A 62-year-old man with gastroesophageal reflux disease and osteoarthritis is brought to the emergency department because of a 1-hour history of severe, stabbing epigastric pain. For the last 6 months, he has had progressively worsening right knee pain, for which he takes ibuprofen several times a day. He has smoked half a pack of cigarettes daily for 25 years. The lungs are clear to auscultation. An ECG shows sinus tachycardia without ST-segment elevations or depressions. This patient is most likely to have referred pain in which of the following locations?",
+				"disease": "gastric peptic ulcer",
+				"videoSettings": {
+					"youtubeID": "9pCDWt-SGMs",
+					"start": "206"
+				}
+			},
+			{
+				"varQuestionNumber": 19,
+				"text": "A 55-year-old man comes to the physician because of a 3-week history of intermittent burning epigastric pain. His pain improves with antacid use and eating but returns approximately 2 hours following meals. He has a history of chronic osteoarthritis and takes ibuprofen daily. Upper endoscopy shows a deep ulcer located on the posterior wall of the duodenal bulb. This ulcer is most likely to erode into which of the following structures?",
+				"disease": "duodenal ulcer",
+				"videoSettings": {
+					"youtubeID": "9pCDWt-SGMs",
+					"start": "298"
+				}
+			},
+			{
+				"varQuestionNumber": 20,
+				"text": "A 57-year-old woman comes to the physician because of a 2-week history of worsening epigastric pain that improves with meals. She has had similar pain of lesser intensity for the past 4 years. Physical examination shows no abnormalities. Upper endoscopy shows a 0.5-cm mucosal breach in the anterior duodenal bulb that extends into the submucosa. A biopsy specimen of the lesion shows hypertrophy of the Brunner glands. This patient is at the greatest risk for which of the following complications?",
+				"disease": "duodenal ulcer",
+				"videoSettings": {
+					"youtubeID": "9pCDWt-SGMs",
+					"start": "360"
+				}
+			},
+			{
+				"varQuestionNumber": 21,
+				"text": "A previously healthy 52-year-old woman is brought to the emergency department after sustaining burns over 45% of her body in a house fire. On arrival, she is in acute distress but is fully oriented. Aggressive intravenous fluid resuscitation is begun and the patient is transferred to the intensive care unit of a burn center. 20 hours later, she has several large, tarry black stools and develops hypotension and tachycardia. Despite appropriate lifesaving measures, she dies. Which of the following is the most likely underlying cause of the patient's tarry black stools?",
+				"disease": "Curling ulcer",
+				"videoSettings": {
+					"youtubeID": "X3XARhf_PlI",
+					"start": "11"
+				}
+			},
+			{
+				"varQuestionNumber": 22,
+				"text": "A 54-year-old woman comes to the emergency department because of a 5-hour history of diffuse, severe abdominal pain, nausea, and vomiting. She reports that there is no blood or bile in the vomitus. Two weeks ago, she started having mild aching epigastric pain, which improved with eating. Since then, she has gained 1.4 kg (3 lb). She has a 2-year history of osteoarthritis of both knees, for which she takes ibuprofen. She drinks 1–2 glasses of wine daily. She is lying supine with her knees drawn up and avoids any movement. Her temperature is 38.5°C (101.3°F), pulse is 112/min, respirations are 20/min, and blood pressure is 115/70 mm Hg. Physical examination shows abdominal tenderness and guarding; bowel sounds are decreased. An x-ray of the chest is shown. Which of the following is the most likely cause of this patient's current symptoms?",
+				"disease": "duodenal ulcer",
+				"videoSettings": {
+					"youtubeID": "X3XARhf_PlI",
+					"start": "131"
+				}
+			},
+			{
+				"varQuestionNumber": 23,
+				"text": "An otherwise healthy 56-year-old man comes to the physician for a 2-year history of recurrent upper abdominal pain and fullness that worsens after meals. Urea breath test is positive. An endoscopy shows diffuse mucosal atrophy and patchy erythema, but no ulcer. A biopsy from which of the following areas is most likely to yield an accurate diagnosis?",
+				"disease": "Helicobacter",
+				"videoSettings": {
+					"youtubeID": "X3XARhf_PlI",
+					"start": "218"
+				}
+			},
+			{
+				"varQuestionNumber": 24,
+				"text": "A 59-year-old woman comes to the physician because of a 1-year history of nausea and chronic abdominal pain that is worse after eating. She has Hashimoto thyroiditis. She does not smoke or drink alcohol. A biopsy specimen of the corpus of the stomach shows destruction of the upper glandular layer of the gastric mucosa and G-cell hyperplasia. This patient is at greatest risk for which of the following conditions?",
+				"disease": "autoimmune gastritis",
+				"videoSettings": {
+					"youtubeID": "X3XARhf_PlI",
+					"start": "316"
+				}
+			},
+			{
+				"varQuestionNumber": 25,
+				"text": "A 45-year-old woman with hypothyroidism comes to the physician because of progressive fatigue, lethargy, and epigastric pain after eating. Physical examination shows pale conjunctivae. Laboratory studies show decreased serum hemoglobin levels and increased serum gastrin levels. Esophagogastroduodenoscopy shows inflammation of the gastric body and fundus. A photomicrograph of a biopsy specimen taken from the gastric antrum is shown. Which of the following is the most likely cause of this patient's symptoms?",
+				"disease": "autoimmune gastritis",
+				"videoSettings": {
+					"youtubeID": "X3XARhf_PlI",
+					"start": "404"
+				}
+			},
+			{
+				"varQuestionNumber": 26,
+				"text": "A 75-year-old man comes to the physician because of a 3-month history of upper abdominal pain, nausea, and sensation of early satiety. He has also had a 9.4-kg (21-lb) weight loss over the past 4 months. Medical history is remarkable for osteoarthritis. His only medication is ibuprofen. He immigrated to the USA from Taiwan 10 years ago. His brother has a history of ulcerative colitis. He drinks one to two beers every night with dinner. He rarely cooks and eats all his meals at the local diner. He is 183 cm (6 ft 0 in) tall and weighs 61 kg (134 lb); BMI is 18 kg/m2. Vital signs are within normal limits. Esophagogastroduodenoscopy shows an ulcerated mass with raised irregular edges in the body of the stomach at the lesser curvature. A biopsy specimen of the mass obtained during endoscopy shows tubular structures with intraluminal mucus and debris and no lymphocytic infiltration. Which of the following is the strongest predisposing factor for this patient's condition?",
+				"disease": "adenocarcinoma",
+				"videoSettings": {
+					"youtubeID": "ffFBrE6J2ow",
+					"start": "14"
+				}
+			},
+			{
+				"varQuestionNumber": 27,
+				"text": "A 61-year-old man comes to the physician because of a 6-month history of epigastric pain and a 9-kg (20-lb) weight loss. He feels full and bloated even after eating small portions of food. His hemoglobin concentration is 9.5 g/dL with a mean corpuscular volume of 78 μm3. Test of the stool for occult blood is positive. Esophagogastroduodenoscopy shows a 2-cm raised lesion with central ulceration on the lesser curvature of the stomach. Histologic examination of a gastric biopsy specimen from the lesion is most likely to show which of the following?",
+				"disease": "adenocarcinoma",
+				"videoSettings": {
+					"youtubeID": "ffFBrE6J2ow",
+					"start": "141"
+				}
+			},
+			{
+				"varQuestionNumber": 28,
+				"text": "A 42-year-old woman comes to the physician for the evaluation of a 1-month history of dull lower abdominal pain, decreased appetite, and a 5-kg (11-lb) weight loss. Physical examination shows no abnormalities. Pelvic ultrasonography shows bilateral ovarian enlargement and free fluid in the rectouterine pouch. Biopsy specimens from the ovaries show multiple, round, mucin-filled cells with flat, peripheral nuclei. Further evaluation of this patient is most likely to show which of the following findings?",
+				"disease": "signet cell carcinoma",
+				"videoSettings": {
+					"youtubeID": "ffFBrE6J2ow",
+					"start": "202"
+				}
+			},
+			{
+				"varQuestionNumber": 29,
+				"text": "A 50-year-old man comes to the physician because of a 6-month history of increasingly frequent episodes of upper abdominal pain, nausea, vomiting, and diarrhea. He has had a 3.2-kg (7-lb) weight loss during this time. Medical history is otherwise unremarkable. Physical examination shows bilateral pitting pedal edema. An endoscopy shows prominent rugae in the gastric fundus. Biopsy shows parietal cell atrophy. Which of the following is the most likely underlying cause of this patient's condition?",
+				"disease": "Menetrier disease",
+				"videoSettings": {
+					"youtubeID": "ffFBrE6J2ow",
+					"start": "291"
+				}
+			},
+			{
+				"varQuestionNumber": 30,
+				"text": "A 68-year-old man comes to the physician because of a 4-month history of fatigue. During this time, he also has had a 10-kg (22-lb) weight loss, which he attributes to poor appetite. He has not noticed any changes in his bowel movements or urination. He has hypertension well controlled with lisinopril. A colonoscopy 3 years ago and a CT scan of the chest 6 months ago showed no abnormalities. He has smoked half a pack of cigarettes daily for 42 years. He is 174 cm (5 ft 8 in) tall and weighs 75 kg (165 lb); BMI is 25 kg/m2. Vital signs are within normal limits. Examination shows pale conjunctivae. There are firm palpable nodules in his left supraclavicular and periumbilical areas. Chest auscultation discloses no abnormalities. The abdomen is soft and nontender. Bowel sounds are normal. Which of the following studies is most likely to establish a diagnosis?",
+				"disease": "signet cell carcinoma",
+				"videoSettings": {
+					"youtubeID": "ffFBrE6J2ow",
+					"start": "421"
+				}
+			}
+		],
+		"diseaseObject": {
+			"a": "",
+			"b": "",
+			"c": "",
+			"d": "",
+			"e": "",
+			"f": "",
+			"g": ""
+		}
+	},
+{
+	"name": "Brown - Trails for intestines tumors and syndromes",
+	"ambossID": "",
+	"values": [{
+			"varQuestionNumber": 0,
+			"text": "",
+			"disease": "",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 1,
+			"text": "A 38-year-old woman comes to the physician because of a 4-month history of crampy abdominal pain, recurrent watery diarrhea, and a 2.5-kg (5.5-lb) weight loss. Her husband has noticed that after meals, her face and neck sometimes become red, and she develops shortness of breath and starts wheezing. Examination shows a grade 3/6 systolic murmur heard best at the left lower sternal border. The abdomen is soft, and there is mild tenderness to palpation with no guarding or rebound. Without treatment, this patient is at greatest risk of developing which of the following conditions?",
+			"disease": "carcinoid",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 2,
+			"text": "A 45-year-old woman comes to the physician because of fatigue, abdominal cramps, watery diarrhea, and a weight loss of 4 kg (8.8 lb) over the last 4 months. She has recently avoided drinking alcohol and eating spicy food because it worsens her diarrhea and causes episodes of heart palpitations and reddening of the face and neck. She takes lisinopril for hypertension. Her temperature is 36.5°C (97.7°F), pulse is 98/min, and blood pressure is 149/90 mm Hg. The abdomen is soft and there is mild tenderness to palpation with no guarding or rebound. Laboratory studies show an increased urine 5-hydroxyindoleacetic acid concentration. Further evaluation of this patient will most likely show which of the following?",
+			"disease": "carcinoid",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 3,
+			"text": "A previously healthy 67-year-old man comes to the physician because of a history of recurrent right lower abdominal pain for the past 2 years. A CT scan shows a 1.2-cm (0.47-in) mass located in the terminal ileum. He undergoes surgical removal of the mass. A photomicrograph of the resected specimen is shown. Cells from this tissue are most likely to stain positive for which of the following?",
+			"disease": "carcinoid",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 4,
+			"text": "A 38-year-old woman comes to the physician because of a 10-month history of nonbloody diarrhea and recurrent episodes of flushing and wheezing. She does not take any medications. Physical examination shows a hyperpigmented rash around the base of her neck. Cardiac examination shows a grade 3/6, holosystolic murmur at the left lower sternal border. Echocardiography shows right-sided endocardial and valvular fibrosis with moderate tricuspid regurgitation; there are no septal defects or left-sided valvular defects. Urinalysis shows increased 5-hydroxyindoleacetic acid concentration. Which of the following is the most likely explanation for this patient's symptoms?",
+			"disease": "carcinoid",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 5,
+			"text": "A previously healthy 42-year-old man comes to the emergency room with constipation and diffuse, worsening abdominal pain for 2 days. He has no history of major medical illness. His father died in a car accident at the age of 32 years, and his mother has type 2 diabetes mellitus but is otherwise healthy. A diagnosis of bowel obstruction is suspected and he is taken to the operating room for exploratory laparotomy. A partial resection of the colon is performed. The gross appearance of the patient's colonic tissue is shown. Microscopic examination shows tubular, tubulovillous, and villous adenomas. Assuming the patient's partner is not a carrier of the condition, which of the following is the likelihood that this patient’s children will develop this condition?",
+			"disease": "familial adenomatous polyposis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 6,
+			"text": "A 62-year-old man comes to the physician because of progressive fatigue and dyspnea on exertion for 3 months. During this time, he has also had increased straining during defecation and a 10-kg (22-lb) weight loss. He has no personal or family history of serious medical illness. Physical examination shows conjunctival pallor. Laboratory studies show microcytic anemia. Test of the stool for occult blood is positive. Colonoscopy shows an exophytic mass in the ascending colon. Pathologic examination of the mass shows a well-differentiated adenocarcinoma. A gain-of-function mutation in which of the following genes is most likely involved in the pathogenesis of this patient's condition?",
+			"disease": "colon cancer",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 7,
+			"text": "A 65-year-old man comes to the physician for a routine health maintenance examination. He has a strong family history of colon cancer. A screening colonoscopy shows a 4 mm polyp in the upper sigmoid colon. Which of the following findings on biopsy is associated with the lowest potential for malignant transformation into colorectal carcinoma?",
+			"disease": "hyperplastic polyp",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 8,
+			"text": "A 67-year-old woman comes to the physician because of a 9-month history of progressive fatigue. Examination shows pallor. Her hemoglobin concentration is 8.9 g/dL, mean corpuscular volume is 75 μm3, and serum ferritin is 6 ng/mL. Test of the stool for occult blood is positive. Colonoscopy shows an irregular, bleeding 3-cm exophytic ulcer in the right colon. Which of the following lesions is the strongest risk factor for this patient's condition?",
+			"disease": "villous adenoma",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 9,
+			"text": "A 39-year-old woman comes to the physician for a follow-up examination after a colonoscopy showed 42 hamartomatous polyps. The physical examination findings are shown in the photograph. Which of the following conditions is most likely to develop in this patient?",
+			"disease": "Peutz-Jeghers syndrome",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 10,
+			"text": "A previously healthy 35-year-old woman comes to the physician for a 3-week history of alternating constipation and diarrhea with blood in her stool. She has not had any fevers or weight loss. Her father died of gastric cancer at 50 years of age. Physical examination shows blue-gray macules on the lips and palms of both hands. Colonoscopy shows multiple polyps throughout the small bowel and colon with one ulcerated polyp at the level of the sigmoid colon. Multiple biopsy specimens are collected. These polyps are most likely to be characterized as which of the following histological subtypes?",
+			"disease": "Peutz-Jeghers syndrome",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 11,
+			"text": "A previously healthy 41-year-old man comes to the physician for evaluation of a 1-month history of painless, intermittent bleeding on defecation, which he discovered while wiping. His younger sister was recently diagnosed with endometrial cancer, and his mother was diagnosed with gastric cancer at 58 years of age. Physical examination shows no abnormalities. Test of the stool for occult blood is positive. Colonoscopy shows a tumor in the ascending colon. Histopathologic examination of the tumor shows a mucinous, poorly-differentiated adenocarcinoma. A mutation of which of the following genes is most likely responsible for this patient's condition?",
+			"disease": "Lynch syndrome",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 12,
+			"text": "A 53-year-old man comes to the physician because of a 2-month history of multiple episodes of small amounts of blood in his stools. Examination shows pale conjunctivae. His hemoglobin concentration is 8.3 g/dL and mean corpuscular volume is 72μm3. Colonoscopy shows a 2.3-cm polypoid mass in the ascending colon. A photomicrograph of a biopsy specimen of the lesion is shown. Which of the following processes is most likely to be involved in the pathogenesis of this patient's condition?",
+			"disease": "villous adenoma",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 13,
+			"text": "A 44-year-old man comes to the physician because of fatigue and increased straining during defecation for 3 months. During this time, he has lost 5 kg (11 lb) despite no change in appetite. He has a family history of colon cancer in his maternal uncle and maternal grandfather. His mother died of ovarian cancer at the age of 46 years. Physical examination shows conjunctival pallor. His hemoglobin concentration is 11.2 g/dL, hematocrit is 34%, and mean corpuscular volume is 76 μm3. Colonoscopy shows an exophytic mass in the ascending colon. Pathologic examination of the resected mass shows a poorly differentiated adenocarcinoma. Genetic analysis shows a mutation in the MSH2 gene. Which of the following is the most likely diagnosis?",
+			"disease": "Lynch syndrome",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 14,
+			"text": "A 35-year-old woman, gravida 2, para 2, comes to the physician with intermenstrual bleeding and heavy menses for the past 4 months. She does not take any medications. Her father died of colon cancer at the age of 42 years. A curettage sample shows dysplastic tall, columnar, cells in the endometrium without intervening stroma. Germline sequencing shows a mutation in the MLH1 gene. Which of the following is the most likely underlying cause of neoplasia in this patient?",
+			"disease": "Lynch syndrome",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 15,
+			"text": "A 65-year-old man comes to the physician because of a 2-week history of dizziness, fatigue, and shortness of breath. He has noticed increased straining with bowel movements and decreased caliber of his stools over the past 3 months. He has no history of medical illness and takes no medications. He appears pale. Physical examination shows mild tachycardia and conjunctival pallor. Test of the stool for occult blood is positive. His hemoglobin concentration is 6.4 g/dL and mean corpuscular volume is 74 μm3. A double-contrast barium enema study in this patient is most likely to show which of the following?",
+			"disease": "colon cancer",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 16,
+			"text": "A 42-year-old man comes to the physician because of a 6-week history of intermittent fever, abdominal pain, bloody diarrhea, and sensation of incomplete rectal emptying. He also has had a 4.5-kg (10-lb) weight loss over the past 3 months. Abdominal examination shows diffuse tenderness. Colonoscopy shows circumferential erythematous lesions that extend without interruption from the anal verge to the cecum. A biopsy specimen taken from the rectum shows mucosal and submucosal inflammation with crypt abscesses. This patient is most likely at risk of developing colon cancer with which of the following characteristics?",
+			"disease": "colon cancer",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 17,
+			"text": "A 50-year-old woman comes to the physician for a routine health maintenance examination. She has no personal or family history of serious illness. She smoked one pack of cigarettes daily for 5 years during her twenties. She does not drink alcohol or use illicit drugs. She is 178 cm (5 ft 10 in) tall and weighs 62 kg (137 lb); BMI is 20 kg/m2. Her pulse is 70/min, respirations are 14/min, and blood pressure is 120/78 mm Hg. Physical examination shows no abnormalities. Serum lipid studies and glucose concentration are within the reference ranges. Which of the following health maintenance recommendations is most appropriate at this time?",
+			"disease": "colon cancer",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		}
+	],
+	"diseaseObject": {
+		"a": "",
+		"b": "",
+		"c": "",
+		"d": "",
+		"e": "",
+		"f": "",
+		"g": ""
+	}
+},
+{
+	"name": "Brown - Trails for intestines non-tumors",
+	"ambossID": "",
+	"values": [{
+			"varQuestionNumber": 0,
+			"text": "",
+			"disease": "",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 1,
+			"text": "A 34-year-old man comes to the physician because of foul-smelling diarrhea, fatigue, and bloating for 6 months. During this time, he has had a 5-kg (11-lb) weight loss without a change in diet. He has type 1 diabetes mellitus that is well-controlled with insulin. Examination shows conjunctival pallor and inflammation of the corners of the mouth. The abdomen is soft, and there is diffuse tenderness to palpation with no guarding or rebound. His hemoglobin concentration is 10.4 g/dL. The patient undergoes upper endoscopy. A photomicrograph of tissue from an intestinal biopsy is shown. Which of the following is most likely to improve this patient's symptoms?",
+			"disease": "celiac disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 2,
+			"text": "A 23-year-old woman comes to the physician because of a 2-month history of diarrhea, flatulence, and fatigue. She reports having 3–5 episodes of loose stools daily that have an oily appearance. The symptoms are worse after eating. She also complains of an itchy rash on her elbows and knees. A photograph of the rash is shown. Further evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "celiac disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 3,
+			"text": "A 15-year-old girl is brought to the physician because of a 8-month history of fatigue, intermittent postprandial abdominal bloating and discomfort, foul-smelling, watery diarrhea, and a 7-kg (15-lb) weight loss. She developed a pruritic rash on her knees 3 days ago. Physical examination shows several tense, excoriated vesicles on the knees bilaterally. The abdomen is soft and nontender. Her hemoglobin concentration is 8.2 g/dL and mean corpuscular volume is 76 μm3. Further evaluation of this patient is most likely to show which of the following findings?",
+			"disease": "celiac disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 4,
+			"text": "A 21-year-old woman comes to the physician because of a 2-month history of fatigue, intermittent abdominal pain, and bulky, foul-smelling diarrhea. She has had a 4-kg (8-lb 12-oz) weight loss during this period despite no changes in appetite. Examination of the abdomen shows no abnormalities. Staining of the stool with Sudan III stain shows a large number of red droplets. Which of the following is the most likely underlying cause of this patient’s symptoms?",
+			"disease": "celiac disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 5,
+			"text": "A 30-year-old woman comes to the physician because of a 1-month history of intermittent abdominal pain, flatulence, and watery diarrhea. The episodes typically occur 2–3 hours after meals, particularly following ingestion of ice cream, cheese, and pizza. She is administered 50 g of lactose orally. Which of the following changes is most likely to be observed in this patient?",
+			"disease": "lactase deficiency",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 6,
+			"text": "An otherwise healthy 45-year-old woman comes to the physician because of a 1-year history of episodic abdominal cramps, bloating, and flatulence. The symptoms worsen when she has pizza or ice cream and have become more frequent over the past 4 months. Lactose intolerance is suspected. Which of the following findings would most strongly support the diagnosis of lactose intolerance?",
+			"disease": "lactase deficiency",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 7,
+			"text": "A 43-year-old man comes to the physician because of a 2-week history of nonbloody diarrhea, abdominal discomfort, and bloating. When the symptoms began, several of his coworkers had similar symptoms but only for about 3 days. Abdominal examination shows diffuse tenderness with no guarding or rebound. Stool sampling reveals a decreased stool pH. Which of the following is the most likely underlying cause of this patient's prolonged symptoms?",
+			"disease": "lactase deficiency",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 8,
+			"text": "A 34-year-old man comes to the physician because of a 3-week history of colicky abdominal pain and diarrhea. He has bowel movements 10–12 times daily; the stool contains blood and mucus. He constantly has the urge to defecate. His vital signs are within normal limits. Examination of the abdomen shows diffuse tenderness to palpation. Serum concentration of C-reactive protein is 20 mg/L (N &lt; 10). Colonoscopy shows a bleeding, ulcerated rectal mucosa with several pseudopolyps. This patient's condition puts him at greatest risk of developing which of the following?",
+			"disease": "ulcerative colitis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 9,
+			"text": "A previously healthy, 24-year-old man comes to the physician because of a 6-week history of loose, nonbloody stools. He also reports abdominal pain, intermittent nausea, and fever. He has not had vomiting, tenesmus, or rectal pain. His vital signs are within normal limits. Abdominal examination reveals tenderness of the right lower abdomen without rebound tenderness. Rectal exam is unremarkable. Laboratory studies show a leukocyte count of 14,800/mm3 and an erythrocyte sedimentation rate of 51 mm/h. Test of the stool for occult blood and stool studies for infection are negative. A CT scan of the abdomen shows transmural thickening and surrounding fat stranding of discrete regions of the terminal ileum and transverse colon. A colonoscopy is performed and biopsy specimens of the affected areas of the colon are taken. Which of the following findings is most specific for this patient's condition?",
+			"disease": "Crohn disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 10,
+			"text": "A 21-year-old man comes to the physician because of a 6-month history of severe abdominal pain, bloating, and episodic diarrhea. He has also had a 5-kg (11-lb) weight loss during this time. Physical examination shows a mildly distended abdomen, hyperactive bowel sounds, and diffuse abdominal tenderness. A biopsy specimen of the colonic mucosa shows scattered areas of inflammation with fibrosis and noncaseating granulomas. Which of the following is most likely involved in the pathogenesis of this patient's condition?",
+			"disease": "Crohn disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 11,
+			"text": "A 32-year-old woman comes to the emergency department because a 5-week history of abdominal pain and bloody diarrhea that has worsened in the past 24 hours. She was diagnosed with ulcerative colitis 1 year ago but has had difficulty adhering to her drug regimen. Her temperature is 38.2°C (100.8°F), pulse is 120/min, and blood pressure is 92/56 mm Hg. Examination shows a distended, rigid abdomen and hypoactive bowel sounds. Fluid resuscitation is initiated. Which of the following is the most appropriate next step in the diagnosis of this patient's current condition?",
+			"disease": "ulcerative colitis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 12,
+			"text": "A 28-year-old man comes to the physician because of a 6-month history of progressive fatigue and intermittent diarrhea. During this time, he has had a 6-kg (13-lb) weight loss. Physical examination shows pale conjunctivae. Abdominal examination shows tenderness to palpation in the lower quadrants. A photograph from a colonoscopy of the descending colon is shown. Similar findings are seen in the sigmoid colon and rectum. Further evaluation is most likely to show which of the following findings?",
+			"disease": "ulcerative colitis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 13,
+			"text": "A 63-year-old man comes to the physician with a 4-week history of fatigue, crampy abdominal pain, watery diarrhea, and pain in his mouth and gums. He returned from a 2-week trip to the Dominican Republic 2 months ago. He has smoked one pack of cigarettes daily for 45 years. Examination shows three 1.5-cm, painful ulcers in the mouth. Abdominal examination shows mild tenderness to palpation in the right lower quadrant without guarding or rebound. His hemoglobin concentration is 11.2 g/dL, mean corpuscular volume is 75 fL, and leukocyte count is 11,900 mm3. Colonoscopy shows a cobblestone mucosa. A photomicrograph of a biopsy specimen is shown. Which of the following is the most likely diagnosis?",
+			"disease": "Crohn disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 14,
+			"text": "A 19-year-old woman comes to the physician because of a 1-year history of severe abdominal pain, bloating, and episodic diarrhea. She has also had a 10-kg (22-lb) weight loss over the past 10 months. Physical examination shows a mildly distended abdomen, diffuse abdominal tenderness, and multiple erythematous, tender nodules on the anterior aspect of both legs. There is a small draining lesion in the perianal region. Further evaluation of this patient's gastrointestinal tract is most likely to show which of the following findings?",
+			"disease": "Crohn disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 15,
+			"text": "A 26-year-old woman, gravida 2, para 2, comes to the physician because of diffuse abdominal pain and intermittent constipation over the past year. She has also had several episodes of nonbloody diarrhea that last up to a week then spontaneously resolve. Symptoms only occur during the day and usually improve after bowel movements. Upon questioning, she reports high levels of stress from taking care of her two toddlers while her husband travels for work. Menses occur at regular 28-day intervals with moderate flow that last for 4 to 5 days and are associated with severe pain. She does not smoke or drink alcohol. She takes naproxen for menstrual pain and an oral contraceptive. Her temperature is 37.6°C (99.7°F), pulse is 94/min, and blood pressure is 115/70 mm Hg. Physical examination shows no abnormalities. Her hemoglobin concentration is 12.8 g/dL, leukocyte count is 5300/mm3, and erythrocyte sedimentation rate is 17 mm/h. IgA antitissue transglutaminase antibodies are negative. Which of the following is the most likely diagnosis?",
+			"disease": "irritable bowel syndrome",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 16,
+			"text": "A 66-year-old woman with hypertension comes to the physician because of crampy, dull abdominal pain and weight loss for 1 month. The pain is located in the epigastric region and typically occurs within the first hour after eating. She has had a 7-kg (15.4-lb) weight loss in the past month. She has smoked 1 pack of cigarettes daily for 20 years. Physical examination shows a scaphoid abdomen and diffuse tenderness to palpation. Laboratory studies including carbohydrate antigen 19-9 (CA 19-9), carcinoembryonic antigen (CEA), and lipase concentrations are within the reference range. Which of the following is the most likely cause of this patient's symptoms?",
+			"disease": "chronic mesenteric ischemia",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 17,
+			"text": "A 75-year-old with hypertension and atrial fibrillation comes to the emergency department because of a 2-hour history of severe abdominal pain and nausea. He has smoked 1 pack of cigarettes daily for the past 45 years. The patient undergoes emergency laparotomy and is found to have dusky discoloration of the hepatic colonic flexure and an adjacent segment of the transverse colon. The most likely cause of his condition is occlusion of a branch of which of the following arteries?",
+			"disease": "intestinal infarction",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 18,
+			"text": "A 79-year-old man with aortic stenosis comes to the emergency room because of worsening fatigue for 5 months. During this time, he has also had intermittent bright red blood mixed in with his stool. He has not had any abdominal pain or weight loss. Physical examination shows pale conjunctivae and a crescendo-decrescendo systolic murmur best heard at the second right intercostal space. The abdomen is soft and non-tender. Laboratory studies show a hemoglobin of 8 g/dL and a mean corpuscular volume of 71 μm3. Colonoscopy shows no abnormalities. Which of the following is the most likely underlying mechanism of this patient's bleeding?",
+			"disease": "angiodysplasia",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 19,
+			"text": "A 55-year-old man comes to the physician because of a 2-day history of severe perianal pain and bright red blood in his stool. Examination shows a bulging, red nodule at the rim of the anal opening. Which of the following arteries is the most likely source of blood to the mass found during examination?",
+			"disease": "external hemorrhoid",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 20,
+			"text": "A 3-year-old girl is brought to the emergency department because of abdominal pain and watery diarrhea for the past 2 days. This morning, her stool had a red tint. She and her parents visited a circus 1 week ago. The patient attends day care. Her immunizations are up-to-date. Her temperature is 38°C (100.4°F), pulse is 140/min, and blood pressure is 80/45 mm Hg. Abdominal examination shows a soft abdomen that is tender to palpation in the right lower quadrant with rebound. A stool culture grows Yersinia enterocolitica. Consumption of which of the following is most likely to cause the infection seen in this patient?",
+			"disease": "appendicitis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 21,
+			"text": "A 65-year-old man comes to the physician because of abdominal pain and bloody, mucoid diarrhea for 3 days. He has been taking over-the-counter supplements for constipation over the past 6 months. He was diagnosed with type 2 diabetes mellitus 15 years ago. He has smoked one pack of cigarettes daily for 35 years. His current medications include metformin. His temperature is 38.4°C (101.1°F), pulse is 92/min, and blood pressure is 134/82 mm Hg. Examination of the abdomen shows no masses. Palpation of the left lower abdomen elicits tenderness. A CT scan of the abdomen is shown. Which of the following is the most likely underlying cause of the patient's condition?",
+			"disease": "diverticulosis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 22,
+			"text": "A 15-year-old girl is brought to the physician by her mother for a 2-day history of abdominal pain, nausea, vomiting, diarrhea, and decreased appetite. Her last menstrual period was 3 weeks ago. Her temperature is 38.1°C (100.6°F). Abdominal examination shows tenderness to palpation with guarding in the right lower quadrant. Laboratory studies show a leukocyte count of 12,600/mm3. Which of the following is the most likely underlying cause of this patient's condition?",
+			"disease": "appendicitis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 23,
+			"text": "A 50-year-old man comes to the physician because of an 8-month history of intermittent watery diarrhea and abdominal pain. He has had a 12-kg (26-lb) weight loss during this period. He has also had episodic pain of the ankle, wrist, and knee joints during the past 5 years. An endoscopy with small bowel biopsy is performed. Histopathologic examination of a tissue specimen shows foamy macrophages in the lamina propria with periodic acid-Schiff (PAS)-positive inclusions. Further evaluation is most likely to show which of the following?",
+			"disease": "Whipple disease",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 24,
+			"text": "A 47-year-old man comes to the physician because of abdominal pain and foul-smelling, watery diarrhea for several days. He has not had nausea, vomiting, or bloody stools. He has a history of alcohol use disorder and recently completed a 7-day course of clindamycin for pneumonia. He has not traveled out of the United States. Which of the following toxins is most likely to be involved in the pathogenesis of this patient's symptoms?",
+			"disease": "pseudomembranous colitis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 25,
+			"text": "Four days after admission to the hospital for pneumonia, a 68-year-old woman develops abdominal pain and watery, foul-smelling diarrhea. Current medications include intravenous ceftriaxone and oral azithromycin. Stool cultures grow gram-positive, anaerobic rods. She is moved to an isolated hospital room. Sterilization with which of the following agents is most likely to prevent transmission of this pathogen to the next patient who will occupy her room?",
+			"disease": "pseudomembranous colitis",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		},
+		{
+			"varQuestionNumber": 26,
+			"text": "A 6-year-old boy is brought to the emergency department for acute intermittent umbilical abdominal pain and several episodes of nonbilious vomiting for 4 hours. The pain radiates to his right lower abdomen and occurs every 15–30 minutes. During these episodes of pain, the boy draws up his knees to the chest. He had two similar episodes within the past 6 months. Abdominal examination shows periumbilical tenderness with no masses palpated. Transverse abdominal ultrasound shows concentric rings of bowel. His hemoglobin concentration is 10.2 g/dL. Which of the following is the most common underlying cause of this patient's condition?",
+			"disease": "intussusception",
+			"videoSettings": {
+				"youtubeID": "",
+				"start": ""
+			}
+		}
+	],
+	"diseaseObject": {
+		"a": "",
+		"b": "",
+		"c": "",
+		"d": "",
+		"e": "",
+		"f": "",
+		"g": ""
+	}
+},
+	{
+		"name": "Brown - Trails for intestines congenital disorders",
+		"ambossID": "",
+		"values": [{
+				"varQuestionNumber": 0,
+				"text": "",
+				"disease": "",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 1,
+				"text": "A 2-week-old infant is brought to the emergency room because of 4 episodes of bilious vomiting and inconsolable crying for the past 3 hours. Abdominal examination shows no abnormalities. An upper GI contrast series shows the duodenojejunal junction to the right of the vertebral midline; an air-filled cecum is noted in the right upper quadrant. Which of the following is the most likely cause of this patient's condition?",
+				"disease": "incomplete intestinal rotation",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 2,
+				"text": "Sixteen hours after delivery, a newborn develops respiratory distress. She was born at 38 weeks' gestation with a birth weight of 3200 g (7 lb 1 oz). Pregnancy was complicated by polyhydramnios. Physical examination shows tachypnea and bluish discoloration of the extremities. Auscultation of the chest shows diffuse crackles in the lung fields and a harsh holosystolic murmur at the left lower sternal border. Abdominal x-ray shows absence of bowel gas. Which of the following best explains the pathogenesis of this newborn's condition?",
+				"disease": "tracheoesophageal fistula",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 3,
+				"text": "A 3900-g (8.6-lb) male infant is delivered at 39 weeks' gestation via spontaneous vaginal delivery. Pregnancy and delivery were uncomplicated but a prenatal ultrasound at 20 weeks showed a defect in the pleuroperitoneal membrane. Further evaluation of this patient is most likely to show which of the following findings?",
+				"disease": "diaphragmatic hernia",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 4,
+				"text": "A 3900-g (8-lb 11-oz) male newborn is delivered at term to a 27-year-old woman. Immediately after delivery, he develops cyanosis and tachypnea. Pulse oximetry on 100% oxygen shows an oxygen saturation of 88%. Examination shows decreased breath sounds in the right lung field. An x-ray of the chest shows a sharply demarcated fluid-filled density in the right lung. Which of the following is the most likely explanation for the x-ray findings?",
+				"disease": "bronchogenic cyst",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 5,
+				"text": "A 5-week-old male infant is brought to the physician by his mother because of a 4-day history of recurrent nonbilious vomiting after feeding. He was born at 36 weeks' gestation via spontaneous vaginal delivery. Vital signs are within normal limits. Physical examination shows a 2-cm epigastric mass. Further diagnostic evaluation of this patient is most likely to show which of the following?",
+				"disease": "pyloric stenosis",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 6,
+				"text": "Six hours after delivery, a 3100-g (6-lb 13-oz) male newborn has an episode of bilious projectile vomiting. He was born at term to a 21-year-old woman. The pregnancy was complicated by polyhydramnios. The mother smoked a pack of cigarettes daily during the pregnancy. Physical examination shows a distended upper abdomen. An x-ray of the abdomen shows 3 distinct, localized gas collections in the upper abdomen and a gasless distal abdomen. Which of the following is the most likely diagnosis?",
+				"disease": "jejunal atresia",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 7,
+				"text": "A female newborn delivered at 38 weeks’ gestation is evaluated for abdominal distention and bilious vomiting 24 hours after delivery. The pregnancy and delivery were uncomplicated. She appears lethargic and her fontanelles are sunken. An x-ray of the abdomen is shown. This infant most likely has a congenital obstruction affecting which of the following anatomic structures?",
+				"disease": "duodenal atresia",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 8,
+				"text": "A new imaging modality is being tested to study vitelline duct morphology. A fetus at 20 weeks' gestation is found to have partial obliteration of this duct. Which of the following is the most likely sequela of this condition?",
+				"disease": "Meckel diverticulum",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 9,
+				"text": "A 15-month-old girl is brought to the physician by her mother for grossly bloody diarrhea for 2 days. The girl has had a few episodes of blood-tinged stools over the past 3 weeks. She has not had pain, nausea, or vomiting. She is at the 55th percentile for height and 55th percentile for weight. Examination shows conjunctival pallor. The abdomen is soft and nontender. There is a small amount of dark red blood in the diaper. Her hemoglobin concentration is 9.5 g/dL, mean corpuscular volume is 68 μm3, and platelet count is 300,000/mm3. Further evaluation is most likely to show which of the following findings?",
+				"disease": "Meckel diverticulum",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 10,
+				"text": "A 22-day-old male newborn is brought to the physician because of poor feeding, lethargy, and an abdominal protrusion. The child was delivered at home and has not yet been evaluated by a physician. The mother has not had routine prenatal care. The patient is at the 25th percentile for height, 50th percentile for weight, and 95th percentile for head circumference. Physical examination shows scleral icterus, pale facies, and an enlarged tongue. The abdomen is distended and there is a protruding mass at the abdominal midline. The skin covering the protrusion appears normal. When the newborn cries during the examination, the mass enlarges but is easily reducible. Which of the following is the most likely cause of the abdominal protrusion?",
+				"disease": "umbilical hernia",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 11,
+				"text": "A 3-day-old newborn is brought to the physician because of abdominal distention, inconsolable crying, and 3 episodes of bilious vomiting since the previous evening. He was delivered at home at 40 weeks' gestation by a trained midwife. He has not passed meconium. Physical examination shows abdominal distention, a tight anal sphincter, and an explosive passage of air and feces on removal of the examining finger. Abnormal development of which of the following best explains this patient's condition?",
+				"disease": "Hirschsprung disease",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 12,
+				"text": "Two days after delivery, a 3470-g (7-lb 10-oz) newborn has an episode of bilious vomiting. He has not yet passed meconium. He was born at term to a 26-year-old woman; pregnancy and delivery were uncomplicated. His vital signs are within normal limits. Examination shows a distended abdomen. There is tympany to percussion. Digital rectal examination shows elevated sphincter tone; when the finger is removed, there is an explosive release of stool and air. An x-ray of the abdomen shows a massively dilated colon proximal to a narrowed segment of colon. Which of the following is the underlying cause of these findings?",
+				"disease": "Hirschsprung disease",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 13,
+				"text": "A female newborn delivered at 37 weeks’ gestation develops respiratory distress immediately after birth. She was delivered vaginally to a 31-year-old woman, gravida 1, para 1. Pregnancy was complicated by gestational diabetes mellitus treated with insulin during the third trimester. The newborn's pulse is 136/min, respirations are 57/min, and blood pressure is 60/35 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 91% when the newborn is crying and a saturation of 85% at rest. Examination shows grunting breath sounds and perioral blue discoloration that improves when the patient cries. Lungs are clear to auscultation. Cardiac examination shows a split S2 during inspiration but no murmurs are heard. Femoral pulses are palpable bilaterally. A suction catheter cannot be passed through the nares. In addition to establishing an oral airway, which of the following is the most appropriate treatment for this patient's condition?",
+				"disease": "choanal atresia",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 14,
+				"text": "A 3175-g (7-lb) female newborn is delivered at term. Initial examination shows a distended abdomen and a flat perineal region without an opening. A dark green discharge is coming out of the vulva. Which of the following is the most likely diagnosis?",
+				"disease": "imperforate anus",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 15,
+				"text": "A 19-year-old woman, gravida 1, para 0, at 21 weeks’ gestation comes to the physician for a follow-up prenatal visit. At her previous appointment, her serum α-fetoprotein concentration was elevated. She has smoked one pack of cigarettes daily for 3 years but quit at 6 weeks' gestation. Examination shows a uterus consistent in size with a 21-week gestation. Ultrasonography shows fetal viscera suspended freely into the amniotic cavity. Which of the following is the most likely diagnosis?",
+				"disease": "gastroschisis",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			},
+			{
+				"varQuestionNumber": 16,
+				"text": "A 24-day-old infant girl is brought to the emergency department because of a 2-hour history of fever, vomiting, and diarrhea. She has fed less and has had decreased urine output for 1 day. She was born at 33 weeks' gestation and weighed 1400-g (3-lb 1-oz). Her diet consists of breast milk and cow milk protein-based formula. Examination shows abdominal rigidity, distention, and absent bowel sounds. Test of the stool for occult blood is positive. An x-ray of the abdomen shows gas within the intestinal wall and the peritoneal cavity. Which of the following is the most likely diagnosis?",
+				"disease": "necrotizing enterocolitis",
+				"videoSettings": {
+					"youtubeID": "",
+					"start": ""
+				}
+			}
+		],
+		"diseaseObject": {
+			"a": "",
+			"b": "",
+			"c": "",
+			"d": "",
+			"e": "",
+			"f": "",
+			"g": ""
+		}
 	}	
 	]
 
