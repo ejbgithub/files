@@ -2582,7 +2582,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Pyelonephritis"
 							],
 							[
-								"Answer: (D) Nephrotic syndrome"
+								"Answer: Nephrotic syndrome"
 							],
 							[
 								"The classic features of nephrotic syndrome are marked proteinuria, hypoalbuminemia, generalized edema, and hyperlipidemia.",
@@ -2605,7 +2605,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Increased renal sodium wasting"
 							],
 							[
-								"Answer: (D) Increased liver lipoprotein synthesis"
+								"Answer: Increased liver lipoprotein synthesis"
 							],
 							[
 								"Two mechanisms contribute to the pathogenesis of edema in nephrotic syndrome: underfilling and overfilling.",
@@ -2626,7 +2626,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) white blood cells and white blood cell casts"
 							],
 							[
-								"Answer: (C) oval fat bodies and fatty casts"
+								"Answer: oval fat bodies and fatty casts"
 							],
 							[
 								"The nephrotic syndrome is associated with increased lipids (hyperlipidemia and hyperlipiduria).",
@@ -2647,7 +2647,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) white blood cell casts"
 							],
 							[
-								"Answer: (B) red blood cell casts"
+								"Answer: red blood cell casts"
 							],
 							[
 								"The nephritic syndrome is characterized by red blood cells (may be dysmorphic) and red blood cell casts in the urine.",
@@ -2694,7 +2694,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Tubular necrosis and epithelial shedding"
 							],
 							[
-								"Answer: (B) Loss of glomerular basement membrane anions"
+								"Answer: Loss of glomerular basement membrane anions"
 							],
 							[
 								"Minimal change disease is caused by immune dysregulation and overproduction of a glomerular permeability factor.",
@@ -2715,7 +2715,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Subepithelial deposits"
 							],
 							[
-								"Answer: (A) Effacement of podocytes"
+								"Answer: Effacement of podocytes"
 							],
 							[
 								"The principal lesion with MCD is a diffuse foot process effacement that can be seen on electron microscopy.",
@@ -2759,7 +2759,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) within the mesangium"
 							],
 							[
-								"Answer: (C) between the podocytes and the basement membrane"
+								"Answer: between the podocytes and the basement membrane"
 							],
 							[
 								"Membranous nephropathy (MGN) is the most common cause of nephrotic syndrome in white adults.",
@@ -2778,7 +2778,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Wire-loop lesion"
 							],
 							[
-								"Answer: (C) Spike and dome pattern"
+								"Answer: Spike and dome pattern"
 							],
 							[
 								"The main histologic change seen with MGN is a thickened glomerular basement membrane without an increase in number of cells in the glomerulus.",
@@ -2797,7 +2797,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Anti-type IV collagen antibodies"
 							],
 							[
-								"Answer: (C) Anti-PLA2R antibodies"
+								"Answer: Anti-PLA2R antibodies"
 							],
 							[
 								"Primary MGN is associated with anti-phospholipase A2 receptor antibodies, which can be deposited between the podocytes and the glomerular basal membrane (subepithelial deposits).",
@@ -2837,7 +2837,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Wire-loop lesion"
 							],
 							[
-								"Answer: (D) Tram-track pattern"
+								"Answer: Tram-track pattern"
 							],
 							[
 								"Membranoproliferative glomerulonephritis (MPGN), formerly called type I MPGN, usually presents with signs of the nephrotic syndrome, although some patients may present with combined nephrotic-nephritic signs.",
@@ -2858,7 +2858,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Streptolysin O antigen"
 							],
 							[
-								"Answer: (C) C3 convertase"
+								"Answer: C3 convertase"
 							],
 							[
 								"Many cases of dense deposit disease (DDD) involve activation of the alternate pathway by C3 nephritic factor, which stabilizes C3 convertase and prolongs complement activation.",
@@ -2899,7 +2899,7 @@ var myUWorldQuestionsDataArray = [
 									"(C) Kimmelstiel-Wilson nodule"
 							],
 							[
-								"Answer: (C) Kimmelstiel-Wilson nodule"
+								"Answer: Kimmelstiel-Wilson nodule"
 							],
 							[
 								"Diabetes mellitus is the most common cause of nephrotic syndrome.",
@@ -2921,7 +2921,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Waxy casts"
 							],
 							[
-								"Answer: (A) Albumin"
+								"Answer: Albumin"
 							],
 							[
 								"Microalbuminuria is the earliest diagnostic sign of diabetic nephropathy.",
@@ -2964,7 +2964,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) subendothelial deposits"
 							],
 							[
-								"Answer: (C) mesangial deposits"
+								"Answer: mesangial deposits"
 							],
 							[
 								"IgA nephropathy (Berger disease) is a common cause of recurrent microscopic or gross hematuria.",
@@ -2986,7 +2986,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Wegener's granulomatosis"
 							],
 							[
-								"Answer: (B) Henoch-Scholein purpura"
+								"Answer: Henoch-Scholein purpura"
 							],
 							[
 								"IgA vasculitis (aka Henoch-Schönlein purpura) is a disorder of children who present with a skin rash and hematuria following an upper respiratory infection.",
@@ -3031,7 +3031,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Gross hematuria"
 							],
 							[
-								"Answer: (A) Adult onset"
+								"Answer: Adult onset"
 							],
 							[
 								"Poststreptococcal glomerulonephritis (PSGN) is the most common cause of the nephritic syndrome in children.",
@@ -3051,7 +3051,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Linear IgG and C3 deposits on immunofluorescent microscopy"
 							],
 							[
-								"Answer: (B) Discrete subepithelial humps on electron microscopy"
+								"Answer: Discrete subepithelial humps on electron microscopy"
 							],
 							[
 								"Electron microscopy of a renal biopsy from PSGN will show characteristic large discrete hump-shaped (lumpy-bumpy) subepithelial deposits.",
@@ -3070,7 +3070,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Increased eosinophil count"
 							],
 							[
-								"Answer: (C) Decreased serum C3 level"
+								"Answer: Decreased serum C3 level"
 							],
 							[
 								"Laboratory tests with PSGN reveal increased ASO titers and decreased C3.",
@@ -3106,7 +3106,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Renal amyloidosis"
 							],
 							[
-								"Answer: (D) Rapidly progressive glomerulonephritis"
+								"Answer: Rapidly progressive glomerulonephritis"
 							],
 							[
 								"Rapidly progressive glomerulonephritis (RPGN), which causes a severe nephritic syndrome, is a rapidly progressive inflammatory disease of the kidneys (hence the name).",
@@ -3117,7 +3117,7 @@ var myUWorldQuestionsDataArray = [
 						[
 							[
 								"QUESTION III (UWorld question)",
-								"Suppose that rapidly progressive glomerulonephritis was diagnosed in an individual who presented with hemoptysis and hematuria ans was found to have linear deposition of IgG and C3 on the GBM. Antibodies directed against which of the following is most likely to be associated with this patient's condition?",
+								"Suppose that rapidly progressive glomerulonephritis was diagnosed in an individual who presented with hemoptysis and hematuria and was found to have linear deposition of IgG and C3 on the GBM. Antibodies directed against which of the following is most likely to be associated with this patient's condition?",
 									"(A) Alpha 3 chain of type IV collagen",
 									"(B) Beta-hemolytic streptococci",
 									"(C) Cardiolipin phospholipid",
@@ -3125,7 +3125,7 @@ var myUWorldQuestionsDataArray = [
 									"(E) Topoisomerase I"
 							],
 							[
-								"Answer: (A) Alpha 3 chain of type IV collagen"
+								"Answer: Alpha 3 chain of type IV collagen"
 							],
 							[
 								"RPGN may be subdivided into three types based on the immunofluorescence (IF) staining pattern.",
@@ -3148,13 +3148,302 @@ var myUWorldQuestionsDataArray = [
 									"(E) Serum antiphospholipid antibodies"
 							],
 							[
-								"Answer: (D) Serum antineutrophil cytoplasmic antibodies"
+								"Answer: Serum antineutrophil cytoplasmic antibodies"
 							],
 							[
 								"Type III RPGN reveals minimal immune changes and is referred to as pauci-immune crescentic GN.",
 								"Antineutrophil cytoplasmic antibodies (ANCAs), which are found in some patients with vasculitis, are found in many of these patients with type III RPGN (the result is neutrophil-mediated damage).",
 								"ANCAs are either perinuclear (P-ANCAs, against myeloperoxidase) or cytoplasmic (C-ANCAs, against proteinase 3).",
 								"P-ANCAs are found in patients with microscopic polyarteritis, while C-ANCAs are found in patients with granulomatosis with polyangiitis (Wegener’s granulomatosis)."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 652",
+        "disease": "patent urachus",
+		"keyInfo": [
+						"2-week-old boy",
+						"drainage from the umbilicus",
+						"clear to pale yellow fluid leaking from the umbilical stump site"
+					],
+		"keyUWorldInfo": [
+						"<strong>Patent urachus</strong>",
+						"Persistent leakage of urine",
+						"<strong>Patent omphalomesenteric duct</strong>",
+						"Persistent leakage of stool",
+						"<strong>allantois</strong>",
+						"<strong>bladder to the umbilicus</strong>",
+						"fibrous cord known as the <strong>urachus</strong>",
+						"<strong>Failed obliteration</strong> of the allantois can lead to a <strong>patent urachus</strong>",
+						"Leukocyte adhesion deficiency",
+						"delayed (&gt;1 month) umbilical cord stump separation",
+						"Failed obliteration of the allantois lumen can result&nbsp;in a patent urachus, which presents with urinary drainage from the umbilicus in the neonate"
+					],
+		"questions": [
+						[["UWorld"],[""]],
+						[
+							[
+								"QUESTION II (based on a UWorld question)",
+								"This patient most likely has a congenital abnormality related to which of the following structures?",
+									"(A) Omphalomesenteric duct",
+									"(B) Umbilical artery",
+									"(C) Umbilical vein",
+									"(D) Urachus",
+									"(E) Urorectal septum"
+							],
+							[
+								"Answer: Urachus"
+							],
+							[
+								"Urachal abnormalities result from failed obliteration of an allantoic remnant, a fibrous cord called the urachus.",
+								"A complete patent urachus can result in urachal sinuses and fistulas.",
+								"Urachal sinuses and fistulas still connect the umbilicus to the urinary bladder, so therefore urine can leak urine at the site of the umbilicus.",
+								"Patial patent urachus can result in a urachal diverticulum, which can result in urinary stasis within the diverticulum.",
+								"Urinary stasis within the diverticulum is a risk factor for recurrent urinary tract infection.",
+								"Compare to bladder exstrophy refers to the protrusion of the urinary bladder through a defect in the abdominal wall.",
+								"Bladder exstrophy results from failure of caudal fold closure of ventral abdominal with persistence of the cloacal membrane.",
+								"Note that in contrast, a patent omphalomesenteric duct can lead to persistent leakage of stoll.",
+								"Also note that a persistent urogenital membrane is the most common cause in newborn boys of posterior urethral valves.",
+								"Posterior urethral valves can lead to bladder distention and bilateral secondary vesicoureteral reflux."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 15869",
+        "disease": "acute bacterial cystitis",
+		"keyInfo": [
+						"16-year-old girl",
+						"burning sensation with urination",
+						"sexual intercourse",
+						"no vaginal discharge",
+						"positive nitrites, positive leukocyte esterase, 50 white blood cells/hpf, and many bacteria",
+						"Urine β-hCG is negative"
+					],
+		"keyUWorldInfo": [
+						"<strong>acute simple cystitis</strong>",
+						"Women are at high risk for urinary tract infections due to a shorter urethra",
+						"enteric pathogens to colonize the vagina and ascend to the bladder",
+						"dysuria, urinary frequency/urgency, suprapubic tenderness, and pyuria/bacteriuria on urinalysis",
+						"<strong>enteric flora</strong>",
+						"Escherichia coli",
+						"<strong>ascend through the urethra to the bladder</strong>",
+						"<strong>sexual intercourse</strong>"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis?",
+									"(A) Acute cystitis",
+									"(B) Acute pyelonephritis",
+									"(C) Chronic cystitis",
+									"(D) Eosinophilic cystitis",
+									"(E) Interstitial cystitis"
+							],
+							[
+								"Answer: Acute cystitis"
+							],
+							[
+								"Acute cystitis refers to acute inflammation of the urinary bladder (aka urinary tract infection or UTI).",
+								"Signs of acute cystitis include frequency, dysuria, urgency, and lower abdominal, suprapubic pain.",
+								"Acute cystitis occurs more commonly in females (because of the short urethra).",
+								"The major risk factor in otherwise healthy young women is recent sexual intercourse.",
+								"Acute cystitis is associated with an ascending infection from the urethra into the bladder, typically by coliform bacteria, e.g., Escherichia coli.",
+								"The best initial test to diagnose a UTI is the urine dipstick test, which will be positive for leukocyte esterase or nitrites.",
+								"Urinalysis with a UTI will show numerous white blood cells (neutrophils).",
+								"Complications of acute cystitis include acute pyelonephritis, hydronephrosis, and sepsis."
+							]
+						],
+						[["UWorld"],[""]],
+						[
+							[
+								"QUESTION III (based on a UWorld question)",
+								"Suppose that over the next few years, this individual presents multiple times with recurrent urinary tract infections. The last time she presented with fever, dysuria, flank pain, and costovertebral tenderness, and was diagnosed with acute pyelonephritis. Which of the following findings is most suggestive of a diagnosis of acute pyelonephritis?",
+									"(A) Bacteriuria",
+									"(B) Leukocytosis",
+									"(C) Microscopic hematuria",
+									"(D) Sterile pyuria",
+									"(E) White blood cell casts"
+							],
+							[
+								"Answer: White blood cell casts"
+							],
+							[
+								"Both upper (eg, pyelonephritis) and lower (eg, cystitis) urinary tract infections (UTIs) can show microscopic hematuria, pyuria, and bacteriuria on urinalysis with microscopy.",
+								"White blood cell (WBC) casts only form in the renal tubules.",
+								"Therefore the presence of WBC casts confirms the diagnosis of acute pyelonephritis.",
+								"Note that sterile pyuria (WBCs but no bacteria) is suggestive of urethritis from an atypical organism such as Chlamydia trachomatis or Ureaplasma species."
+							]
+						],
+						[
+							[
+								"QUESTION IV (based on a UWorld question)",
+								"The pathogenesis of acute pyelonephritis is this individual most likely involved which of the following?",
+									"(A) Frequent voiding",
+									"(B) Hematogenous bacterial spread",
+									"(C) Retrograde urine flow",
+									"(D) Suppression of endogenous flora",
+									"(E) Urethral colonization"
+							],
+							[
+								"Answer: Retrograde urine flow"
+							],
+							[
+								"Retrograde urine flow through the ureterovesical junction can be due to anatomic abnormalities (eg, short intravesical ureter) or functional disruption (eg, neurogenic bladder, chronic inflammation).",
+								"Retrograde urine flow contributes to the development of acute pyelonephritis.",
+								"The bacteria that cause most UTIs, both lower (ie, cystitis) and upper (ie, pyelonephritis), originate from fecal flora (eg, Escherichia coli, Enterococcus) that ascend the urinary tract.",
+								"Recurrent acute bacterial cystitis can cause chronic inflammation of the bladder wall that weakens the ureterovesical junction over time.",
+								"This may allow transient retrograde flow of infected urine into the ureter during micturition, which contricutes to the pathogenesis of acute pyelonephritis in patients with recurrent cystitis. "
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 7623",
+        "disease": "transitional cell carcinoma (urotheiial carcinoma)",
+		"keyInfo": [
+						"68-year-old man",
+						"episodes of gross hematuria over the last 3 months",
+						"no abdominal pain, dysuria, urinary frequency, or nocturia",
+						"rubber manufacturing plant for 35 years",
+						"Serum creatinine is 1.1 mg/dL"
+					],
+		"keyUWorldInfo": [
+						"Tobacco smoke",
+						"<strong>painless gross hematuria</strong>",
+						"A history of smoking or occupational exposure to rubber, plastics, aromatic amine–containing dyes, textiles, or leather increases the risk"
+					],
+		"questions": [
+						[["UWorld"],[""]],
+						[
+							[
+								"QUESTION II (UWorld question)",
+								"Which of the following is a major risk factor for the development of bladder cancer?",
+									"(A) Alcohol use",
+									"(B) Silica exposure",
+									"(C) Testosterone therapy",
+									"(D) Tobacco smoking",
+									"(E) Travel history"
+							],
+							[
+								"Answer: Tobacco smoking"
+							],
+							[
+								"Urothelial carcinoma (aka transitional cell carcinoma) is the most common type of urinary bladder cancer.",
+								"Most urothelial cancers present with painless hematuria.",
+								"Tobacco smoking (cigarette smoking) is the number one risk factor for the development of bladder cancer.",
+								"Another risk factor for urothelial cancer is long-term occupational exposure to aromatic amines like beta-naphthylamine."
+							]
+						],
+						[
+							[
+								"QUESTION III (UWorld question)",
+								"Which of the following features would be most suggestive of a poor prognosis with bladder cancer?",
+									"(A) High-grade intraepithelial lesion",
+									"(B) Involvement of the muscularis propria layer",
+									"(C) Location at the anterior bladder wall",
+									"(D) Papillary morphology",
+									"(E) Tumor size >2 cm"
+							],
+							[
+								"Answer: Involvement of the muscularis propria layer"
+							],
+							[
+								"Most bladder cancers are papillary carcinomas.",
+								"Papillary urothelial carcinomas may be either non-invasive or invasive.",
+								"The most important prognostic histologic finding is the depth of invasion of the malignant urothelial cells.",
+								"Dysplastic cells extending into the lamina propria has a worse prognosis than a tumor that does not invade the lamina propria.",
+								"Involvement of the muscular layer has an even worse prognosis."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 15438",
+        "disease": "Schistosoma haematobium",
+		"keyInfo": [
+						"54-year-old Sudanese immigrant",
+						"intermittent dysuria and gross hematuria",
+						"no associated pain"
+					],
+		"keyUWorldInfo": [
+						"bathing in freshwater contaminated with cercariae from infected snails",
+						"<strong>Schistosomiasis</strong>",
+						"sub-Saharan Africa, Asia, and South America",
+						"<strong>bathe in freshwater</strong>",
+						"<strong>infected snails</strong>",
+						"<strong>eosinophilic granulomatous inflammation</strong>",
+						"<strong>terminal hematuria</strong>",
+						"One common manifestation of genitourinary schistosomiasis is painless terminal hematuria"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is present in this picture?",
+									"(A) Ascaris lumbricoides infection",
+									"(B) Plasmodium falciparum infection",
+									"(C) Schistosoma haematobium infection",
+									"(D) Schistosoma mansoni infection",
+									"(E) Trichuris trichiura infection"
+							],
+							[
+								"Answer: Schistosoma haematobium infection"
+							],
+							[
+								"Schistosomiasis is a parasitic blood fluke infection endemic to rural areas of sub-Saharan Africa, Asia, and South America.",
+								"One common manifestation of genitourinary schistosomiasis is painless terminal hematuria.",
+								"Terminal hematuria refers to the development of hematuria at the end of voiding.",
+								"Schistosoma eggs can often be identified in the urine or on biopsy.",
+								"Different species of Schistosoma can be differentiated based on the appearance of their eggs, primarily by observing the location of the spine on the egg.",
+								"The eggs of S. haematobium have a characteristic terminal spine, which is located at the end of the egg.",
+								"The eggs of S. mansoni have a distinctive large, lateral spine, which is located at the side of the egg.",
+								"The eggs of S. japonicum have a small, indistinct, and inconspicuous lateral spine that is often not clearly visible.",
+								"Both S. mansoni and S. japonicum are associated with intestinal and hepatic schistosomiasis."
+							]
+						],
+						[["UWorld"],[""]],
+						[
+							[
+								"QUESTION III (UWorld question)",
+								"Which of the following most likely predisposed this patient to his current condition?",
+									"(A) Anopheles mosquitoes",
+									"(B) Freshwater snails",
+									"(C) Freshwater fish",
+									"(D) Saltwater fish",
+									"(E) Water fleas"
+							],
+							[
+								"Answer: Freshwater snails"
+							],
+							[
+								"Freshwater snails in endemic regions serve as the intermediate host for schistosomiasis (contaminated water exposure).",
+								"Transmission occurs through skin contact with contaminated freshwater, where cercariae penetrate the skin and develop into adult worms.",
+								"Schistosoma haematobium is primarily associated with urinary schistosomiasis, characterized by hematuria, dysuria, and urinary frequency.",
+								"Schistosomiasis result in a TH2-mediated granulomatous response that leads to the development of marked fibrosis and ulceration and scarring of the bowel or bladder/ureters.",
+								"Infection with S. haematobium can lead to chronic complications, such as bladder fibrosis, hydronephrosis, and increased risk of carcinoma of the bladder."
+							]
+						],
+						[
+							[
+								"QUESTION IV",
+								"What type of bladder cancer is most closely associated with Schistosoma haematobium infection?",
+									"(A) Adenocarcinoma",
+									"(B) Leiomyosarcoma",
+									"(C) Rhabdomyosarcoma",
+									"(D) Small cell carcinoma",
+									"(E) Squamous cell carcinoma"
+							],
+							[
+								"Answer: Squamous cell carcinoma"
+							],
+							[
+								"Squamous cell carcinomas of the urinary bladder, which produce keratin, are quite rare except in Egypt and other areas of the Middle East.",
+								"In these areas bladder squamous cell carcinomas are associated with infection with Schistosoma.",
+								"Schistosoma haematobium, which infects the urinary bladder, classically leads to epithelial metaplasia and possible squamous cell carcinoma.",
+								"In contrast, adenocarcinomas of the urinary bladder may be associated with urachal epithelial remnants located in the dome of the bladder, bladder exstrophy, or cystitis glandularis."
 							]
 						]
 					],
