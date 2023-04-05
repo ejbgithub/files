@@ -3181,10 +3181,26 @@ var myUWorldQuestionsDataArray = [
 						"Failed obliteration of the allantois lumen can result&nbsp;in a patent urachus, which presents with urinary drainage from the umbilicus in the neonate"
 					],
 		"questions": [
-						[["UWorld"],[""]],
+						[
+							["UWorld"],
+							[
+								"Answer: Persistence of allantois remnant"
+							],
+							[
+								"Urachal abnormalities result from persistence of the allantoic remnant.",
+								"Compare urachal abnormalities to bladder exstrophy, which refers to the protrusion of the urinary bladder through a defect in the abdominal wall.",
+								"Bladder exstrophy results from failure of caudal fold closure of ventral abdominal with persistence of the cloacal membrane.",
+								"Note that in contrast, a patent omphalomesenteric (vitelline) duct can lead to persistent leakage of stool.",
+								"Also note that a persistent urogenital membrane is the most common cause in newborn boys of posterior urethral valves.",
+								"Posterior urethral valves can lead to bladder distention and bilateral secondary vesicoureteral reflux."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L7316.jpg' target='_blank'>vitelline duct abnormalities</a>"
+							]
+						],
 						[
 							[
-								"QUESTION II (based on a UWorld question)",
+								"QUESTION II (<strong>based on a UWorld question</strong>)",
 								"This patient most likely has a congenital abnormality related to which of the following structures?",
 									"(A) Omphalomesenteric duct",
 									"(B) Umbilical artery",
@@ -3196,16 +3212,15 @@ var myUWorldQuestionsDataArray = [
 								"Answer: Urachus"
 							],
 							[
-								"Urachal abnormalities result from failed obliteration of an allantoic remnant, a fibrous cord called the urachus.",
+								"The urachus is a fibrous cord remnant of the allantois, which extends from the embryologic bladder to the umbilicus.",
+								"Failed obliteration of the allantois can lead to urachal abnormalities.",
 								"A complete patent urachus can result in urachal sinuses and fistulas.",
 								"Urachal sinuses and fistulas still connect the umbilicus to the urinary bladder, so therefore urine can leak urine at the site of the umbilicus.",
-								"Patial patent urachus can result in a urachal diverticulum, which can result in urinary stasis within the diverticulum.",
-								"Urinary stasis within the diverticulum is a risk factor for recurrent urinary tract infection.",
-								"Compare to bladder exstrophy refers to the protrusion of the urinary bladder through a defect in the abdominal wall.",
-								"Bladder exstrophy results from failure of caudal fold closure of ventral abdominal with persistence of the cloacal membrane.",
-								"Note that in contrast, a patent omphalomesenteric duct can lead to persistent leakage of stoll.",
-								"Also note that a persistent urogenital membrane is the most common cause in newborn boys of posterior urethral valves.",
-								"Posterior urethral valves can lead to bladder distention and bilateral secondary vesicoureteral reflux."
+								"Partial patent urachus can result in a urachal diverticulum, which can result in urinary stasis within the diverticulum.",
+								"Urinary stasis within the diverticulum is a risk factor for recurrent urinary tract infection."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L90023.jpg' target='_blank'>urachal abnormalities</a>",
 							]
 						]
 					],
@@ -3250,16 +3265,23 @@ var myUWorldQuestionsDataArray = [
 								"Signs of acute cystitis include frequency, dysuria, urgency, and lower abdominal, suprapubic pain.",
 								"Acute cystitis occurs more commonly in females (because of the short urethra).",
 								"The major risk factor in otherwise healthy young women is recent sexual intercourse.",
-								"Acute cystitis is associated with an ascending infection from the urethra into the bladder, typically by coliform bacteria, e.g., Escherichia coli.",
-								"The best initial test to diagnose a UTI is the urine dipstick test, which will be positive for leukocyte esterase or nitrites.",
-								"Urinalysis with a UTI will show numerous white blood cells (neutrophils).",
 								"Complications of acute cystitis include acute pyelonephritis, hydronephrosis, and sepsis."
 							]
 						],
-						[["UWorld"],[""]],
+						[
+							["UWorld"],
+							[
+								"Answer: A. Ascending infection"
+							],
+							[
+								"Acute cystitis is associated with an ascending infection from the urethra into the bladder, typically by coliform bacteria, e.g., Escherichia coli.",
+								"The best initial test to diagnose a UTI is the urine dipstick test, which will be positive for leukocyte esterase, which is an enzyme produced by white blood cells (a positive nitrite suggests gram-negative UTI).",
+								"Urinalysis with a UTI will show numerous white blood cells (neutrophils)."
+							]
+						],
 						[
 							[
-								"QUESTION III (based on a UWorld question)",
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
 								"Suppose that over the next few years, this individual presents multiple times with recurrent urinary tract infections. The last time she presented with fever, dysuria, flank pain, and costovertebral tenderness, and was diagnosed with acute pyelonephritis. Which of the following findings is most suggestive of a diagnosis of acute pyelonephritis?",
 									"(A) Bacteriuria",
 									"(B) Leukocytosis",
@@ -3279,8 +3301,8 @@ var myUWorldQuestionsDataArray = [
 						],
 						[
 							[
-								"QUESTION IV (based on a UWorld question)",
-								"The pathogenesis of acute pyelonephritis is this individual most likely involved which of the following?",
+								"QUESTION IV (<strong>based on a UWorld question</strong>)",
+								"The pathogenesis of acute pyelonephritis is this individual with recurrent UTI's and acute pyelonephritis most likely involved which of the following?",
 									"(A) Frequent voiding",
 									"(B) Hematogenous bacterial spread",
 									"(C) Retrograde urine flow",
@@ -3302,7 +3324,7 @@ var myUWorldQuestionsDataArray = [
     },
     {
         "varUWquestionsID": "Question Id: 7623",
-        "disease": "transitional cell carcinoma (urotheiial carcinoma)",
+        "disease": "transitional cell carcinoma (Urothelial Carcinoma)",
 		"keyInfo": [
 						"68-year-old man",
 						"episodes of gross hematuria over the last 3 months",
@@ -3316,10 +3338,20 @@ var myUWorldQuestionsDataArray = [
 						"A history of smoking or occupational exposure to rubber, plastics, aromatic amine–containing dyes, textiles, or leather increases the risk"
 					],
 		"questions": [
-						[["UWorld"],[""]],
+						[
+							["UWorld"],
+							[
+								"Answer: A. Bladder cancer"
+							],
+							[
+								"Urothelial carcinoma (aka transitional cell carcinoma) is the most common type of urinary bladder cancer.",
+								"Most urothelial cancers present with painless hematuria.",
+								"Most bladder cancers are papillary carcinomas."
+							]
+						],
 						[
 							[
-								"QUESTION II (UWorld question)",
+								"QUESTION II (<strong>UWorld question</strong>)",
 								"Which of the following is a major risk factor for the development of bladder cancer?",
 									"(A) Alcohol use",
 									"(B) Silica exposure",
@@ -3331,15 +3363,13 @@ var myUWorldQuestionsDataArray = [
 								"Answer: Tobacco smoking"
 							],
 							[
-								"Urothelial carcinoma (aka transitional cell carcinoma) is the most common type of urinary bladder cancer.",
-								"Most urothelial cancers present with painless hematuria.",
 								"Tobacco smoking (cigarette smoking) is the number one risk factor for the development of bladder cancer.",
 								"Another risk factor for urothelial cancer is long-term occupational exposure to aromatic amines like beta-naphthylamine."
 							]
 						],
 						[
 							[
-								"QUESTION III (UWorld question)",
+								"QUESTION III (<strong>UWorld question</strong>)",
 								"Which of the following features would be most suggestive of a poor prognosis with bladder cancer?",
 									"(A) High-grade intraepithelial lesion",
 									"(B) Involvement of the muscularis propria layer",
@@ -3351,11 +3381,14 @@ var myUWorldQuestionsDataArray = [
 								"Answer: Involvement of the muscularis propria layer"
 							],
 							[
-								"Most bladder cancers are papillary carcinomas.",
 								"Papillary urothelial carcinomas may be either non-invasive or invasive.",
+								"Transitional cell carcinoma in situ specifically refers to non-invasive flat TCC (not non-invasive papillary TCC).",
 								"The most important prognostic histologic finding is the depth of invasion of the malignant urothelial cells.",
 								"Dysplastic cells extending into the lamina propria has a worse prognosis than a tumor that does not invade the lamina propria.",
 								"Involvement of the muscular layer has an even worse prognosis."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L62737.jpg' target='_blank'>transitional carcinoma in situ</a>"
 							]
 						]
 					],
@@ -3393,21 +3426,29 @@ var myUWorldQuestionsDataArray = [
 								"Answer: Schistosoma haematobium infection"
 							],
 							[
-								"Schistosomiasis is a parasitic blood fluke infection endemic to rural areas of sub-Saharan Africa, Asia, and South America.",
-								"One common manifestation of genitourinary schistosomiasis is painless terminal hematuria.",
-								"Terminal hematuria refers to the development of hematuria at the end of voiding.",
 								"Schistosoma eggs can often be identified in the urine or on biopsy.",
-								"Different species of Schistosoma can be differentiated based on the appearance of their eggs, primarily by observing the location of the spine on the egg.",
+								"Different species of Schistosoma can be differentiated based on the appearance of their eggs, primarily by the location of the spine on the egg.",
 								"The eggs of S. haematobium have a characteristic terminal spine, which is located at the end of the egg.",
 								"The eggs of S. mansoni have a distinctive large, lateral spine, which is located at the side of the egg.",
 								"The eggs of S. japonicum have a small, indistinct, and inconspicuous lateral spine that is often not clearly visible.",
-								"Both S. mansoni and S. japonicum are associated with intestinal and hepatic schistosomiasis."
+								"Both S. mansoni and S. japonicum are associated with intestinal and hepatic schistosomiasis, while S. haematobium is associated with bladder infection."
 							]
 						],
-						[["UWorld"],[""]],
+						[
+							["UWorld"],
+							[
+								"Answer: B. Contaminated water exposure"
+							],
+							[
+								"Schistosomiasis is a parasitic blood fluke infection endemic to rural areas of sub-Saharan Africa, Asia, and South America.",
+								"Transmission occurs through skin contact with contaminated freshwater, where cercariae penetrate the skin and develop into adult worms.",
+								"One common manifestation of genitourinary schistosomiasis is painless terminal hematuria.",
+								"Terminal hematuria refers to the development of hematuria at the end of voiding."
+							]
+						],
 						[
 							[
-								"QUESTION III (UWorld question)",
+								"QUESTION III (<strong>UWorld question</strong>)",
 								"Which of the following most likely predisposed this patient to his current condition?",
 									"(A) Anopheles mosquitoes",
 									"(B) Freshwater snails",
@@ -3420,9 +3461,8 @@ var myUWorldQuestionsDataArray = [
 							],
 							[
 								"Freshwater snails in endemic regions serve as the intermediate host for schistosomiasis (contaminated water exposure).",
-								"Transmission occurs through skin contact with contaminated freshwater, where cercariae penetrate the skin and develop into adult worms.",
 								"Schistosoma haematobium is primarily associated with urinary schistosomiasis, characterized by hematuria, dysuria, and urinary frequency.",
-								"Schistosomiasis result in a TH2-mediated granulomatous response that leads to the development of marked fibrosis and ulceration and scarring of the bowel or bladder/ureters.",
+								"Schistosomiasis results in a TH2-mediated granulomatous response that leads to the development of marked fibrosis and ulceration and scarring of the bowel or bladder/ureters.",
 								"Infection with S. haematobium can lead to chronic complications, such as bladder fibrosis, hydronephrosis, and increased risk of carcinoma of the bladder."
 							]
 						],
@@ -3440,10 +3480,186 @@ var myUWorldQuestionsDataArray = [
 								"Answer: Squamous cell carcinoma"
 							],
 							[
-								"Squamous cell carcinomas of the urinary bladder, which produce keratin, are quite rare except in Egypt and other areas of the Middle East.",
-								"In these areas bladder squamous cell carcinomas are associated with infection with Schistosoma.",
+								"Squamous cell carcinomas of the urinary bladder are quite rare except in Egypt and other areas of the Middle East.",
+								"In these areas bladder squamous cell carcinomas are associated with Schistosoma infection.",
 								"Schistosoma haematobium, which infects the urinary bladder, classically leads to epithelial metaplasia and possible squamous cell carcinoma.",
-								"In contrast, adenocarcinomas of the urinary bladder may be associated with urachal epithelial remnants located in the dome of the bladder, bladder exstrophy, or cystitis glandularis."
+								"Adenocarcinomas of the urinary bladder, in contrast, may be associated with urachal epithelial remnants located in the dome of the bladder, bladder exstrophy, or cystitis glandularis."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 816",
+        "disease": "nephrolithiasis",
+		"keyInfo": [
+						"32-year-old woman",
+						"sudden-onset left flank pain and nausea",
+						"pain radiates to the left groin and she is unable to find a comfortable position",
+						"intermittent and waxes and wanes in severity"
+					],
+		"keyUWorldInfo": [
+						"<strong>nephrolithiasis</strong>",
+						"pain commonly radiates to the groin",
+						"Most kidney stones are calcium-based (calcium oxalate, calcium phosphate)",
+						"<strong>supersaturation</strong>",
+						"<strong>Increasing fluid intake</strong>",
+						"Urine supersaturation",
+						"Low fluid intake",
+						"advised to maintain adequate fluid intake"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I (<strong>based on a UWorld question</strong>)",
+								"Which of the following is the most likely cause of this patient's current condition?",
+									"(A) Appendicitis",
+									"(B) Glomerulonephritis",
+									"(C) Renal cell carcinoma",
+									"(D) Renal infarction",
+									"(E) Ureterolithiasis"
+							],
+							[
+								"Answer: (E) Ureterolithiasis"
+							],
+							[
+								"Kidney stones (urolithiasis or nephrolithiasis) typically present with severe flank pain (renal colic).",
+								"The pain commonly radiates to the groin and may be associated with nausea and vomiting.",
+								"Most kidney stones are calcium-based (calcium oxalate, calcium phosphate), with calcium oxalate stones being the most common type.",
+								"Calcium oxalate stones are radiopaque and appear as envelope-shaped (aka, a square with an X) crystals on urinalysis.",
+								"Hypercalcinuria is the most common risk factor for the development of calcium oxalate stones.",
+								"Most patients remain normocalcemic due to regulation of plasma calcium levels by vitamin D and parathyroid hormone.",
+								"Hyperparathyroidism is a common cause of recurrent kidney stones and is typically associated with mild hypercalcemia and hypophosphatemia."
+							]
+						],
+						[
+							[
+								"QUESTION II (<strong>UWorld question</strong>)",
+								"Urinalysis in this patient would most likely reveal which of the following?",
+									"(A) Malignant cells",
+									"(B) Red blood cells",
+									"(C) Red blood cell casts",
+									"(D) Specific gravity of 1.002",
+									"(E) White blood cell casts"
+							],
+							[
+								"Answer: (B) Red blood cells"
+							],
+							[
+								"Kidney stones typically present with hematuria (red blood cells in the urine).",
+								"The RBC morphology is normal with kidney stones, while they may be dysmorphic with bleeding within the glomerulus (glomerulonephritis).",
+								"Red blood cell casts are seen with the nephritic syndrome, while white blood cell casts indicate acute pyelonephritis."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L17549.png' target='_blank'>red blood cells in urine</a>",
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: C. Drink plenty of water daily"
+							],
+							[
+								"Urine supersaturation is the main mechanism underlying all types of renal stones.",
+								"Increased fluid intake (drink plenty of water daily to maintain adequate hydration) reduces the risk of recurrent nephrolithiasis because it decreases the urinary solute concentration and increases urine volume.",
+								"Adequate hydration prevents recurrence of all types of urinary stones.",
+								"Increased urinary citrate concentration also prevents calculi formation (citrate excreted by the kidneys binds to ionized calcium in the urine, preventing the formation of insoluble calcium-oxalate complexes).",
+								"Complications associated with kidney stones include obstruction in the ureter (ureteral stone, aka ureterolithiasis), hydronephrosis (renal calyx and pelvis distension secondary to an obstruction in urine flow distal to the renal pelvis), and pyelonephritis."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L22745.jpg' target='_blank'>nephrolithiasis chart</a>",
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 6739",
+        "disease": "struvite stone",
+		"keyInfo": [
+						"54-year-old woman",
+						"fever, nausea, vomiting, and confusion",
+						"dysuria and increased frequency of urination",
+						"recurrent urinary tract infections and primary hypertension",
+						"right flank tenderness"
+					],
+		"keyUWorldInfo": [
+						"<strong>Struvite (magnesium ammonium phosphate) stones</strong>",
+						"Recurrent upper urinary tract infection",
+						"Urease-producing organisms (eg, <em>Klebsiella</em>, <em>Proteus</em>)",
+						"<strong>urease-producing organisms</strong>",
+						"<strong>ammonia</strong>",
+						"<strong>urease-producing organisms</strong>",
+						"Staghorn calculi are large renal stones that take on the shape of the renal calyces",
+						"They are composed primarily of struvite (magnesium ammonium phosphate)",
+						"associated with recurrent upper urinary tract infections by urease-producing organisms (eg, <em>Proteus</em>, <em>Klebsiella</em>)",
+						"Hydrolysis of urea yields ammonia, which alkalinizes the urine"
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: C. Klebsiella infection"
+							],
+							[
+								"Staghorn calculi are large renal stones that take on the shape of the renal calyces.",
+								"They are composed primarily of struvite (magnesium ammonium phosphate).",
+								"These crystals have a coffin-lid appearance and are strongly birefringent when viewed under polarized light.",
+								"These stones are associated with recurrent upper urinary tract infections by urease-producing organisms (eg, Proteus, Klebsiella)."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L7033.png' target='_blank'>struvite stone (gross; labeled)</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L11647.png' target='_blank'>struvite stone (CT scan; labeled)</a>"
+							]
+						],
+						[
+							[
+								"QUESTION II (<strong>UWorld question</strong>)",
+								"Urinalysis for this patient would most likely show which of the following?",
+									"(A) 4+ protein",
+									"(B) Numerous eosinophils",
+									"(C) pH 8.0",
+									"(D) Red blood cell casts",
+									"(E) Specific gravity 1.002",
+									"(F) Uric acid crystals"
+							],
+							[
+								"Answer: (C) pH 8.0"
+							],
+							[
+								"Struvite stones are typically seen in patients with recurrent upper urinary infection by urease-producing organisms (eg, Proteus, Klebsiella).",
+								"Hydrolysis of urea yields ammonia, which alkalinizes the urine and facilitates precipitation of magnesium ammonium phosphate.",
+								"Urinalysis shows hematuria and elevated urine pH.",
+								"In contrast, the formation of uric acid kidney stones is promoted by low urine pH."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								" A child who presents with recurrent nephrolilthiasis is found to have an <a contenteditable='false' href='https://lp.uworld.com/media/U17532.jpg' target='_blank'>abnormal urine finding</a>. What is the most likely composition of this kidney stone?",
+									"(A) Calcium oxalate",
+									"(B) Calcium phosphate",
+									"(C) Cystine",
+									"(D) Magnesium ammonium phosphate",
+									"(E) Uric acid"
+							],
+							[
+								"Answer: (C) Cystine"
+							],
+							[
+								"Recurrent nephrolithiasis in a young patient should raise suspicion for cystinuria (aminoaciduria).",
+								"Cystinuria is an autosomal recessive disorder caused by defective transportation of cystine, ornithine, arginine, and lysine across the intestinal and renal tubular epithelium.",
+								"Urinalysis shows pathognomonic hexagonal cystine crystals.",
+								"Cysteine stones may form staghorn stones in kids.",
+								"The sodium cyanide-nitroprusside test can be used to detect excess cystine in the urine.",
+								"Treatment of cystinuria involves increasing hydration and urinary alkalinization (eg, acetazolamide).",
+								"In contrast, under microscopy uric acid can appear as either needle or rhomboid-shaped crystals.",
+								"Magnesium ammonium phosphate crystals have a coffin-lid appearance and are strongly birefringent when viewed under polarized light."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/U17532.jpg' target='_blank'>cystine stones</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L6179.jpg' target='_blank'>uric acid crystal</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L64579.png' target='_blank'>monosodium urate crystal (gout)</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L6185.jpg' target='_blank'>magnesium ammonium phosphate crystals</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L23768.jpg' target='_blank'>magnesium ammonium phosphate crystals (drawing)</a>"
 							]
 						]
 					],
@@ -3451,6 +3667,8 @@ var myUWorldQuestionsDataArray = [
 ]
 
 console.log(myUWorldQuestionsDataArray);
+
+//<a contenteditable='false' href='https://lp.uworld.com/lp-media/content/highresdefault/U88789.png' target='_blank'>renal amyloidosis</a>
 
 /*
     {
@@ -3475,7 +3693,25 @@ console.log(myUWorldQuestionsDataArray);
 						""
 					],
 		"questions": [
-						[["UWorld"],[""]],
+						[
+							["UWorld"],
+							[
+								"Answer: "
+							],
+							[
+								"",
+								"",
+								"",
+								"",
+								"",
+								"",
+								""
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/' target='_blank'></a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/' target='_blank'></a>"
+							]
+						],
 						[
 							[
 								"QUESTION I",
@@ -3497,6 +3733,10 @@ console.log(myUWorldQuestionsDataArray);
 								"",
 								"",
 								""
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/' target='_blank'></a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/' target='_blank'></a>"
 							]
 						],
 						[
@@ -3520,6 +3760,10 @@ console.log(myUWorldQuestionsDataArray);
 								"",
 								"",
 								""
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/' target='_blank'></a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/' target='_blank'></a>"
 							]
 						]
 					],
