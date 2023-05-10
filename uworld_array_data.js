@@ -3663,6 +3663,2235 @@ var myUWorldQuestionsDataArray = [
 							]
 						]
 					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 21465",
+        "disease": "acetaminophen overdose",
+		"keyInfo": [
+						"42-year-old ma",
+						"suspected suicide attempt",
+						"concurrent alcohol and acetaminophen intake",
+						"acute ethanol ingestion may reduce the risk of acetaminophen-induced liver toxicity",
+						"",
+						"",
+						""
+					],
+		"keyUWorldInfo": [
+						"Acetaminophen and ethanol are metabolized by same cytochrome P450 enzyme",
+						"acute (not chronic) ingestion of ethanol can lead to decreased conversion of acetaminophen to N-acetyl-p-benzoquinone imine",
+						"chronic alcohol consumption increases NAPQI concentrations and the risk of hepatotoxicity during an acetaminophen overdose"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"Post-mortem histologic sections taken from the liver of a 19-year-old woman who died from an overdose of acetaminophen would most likely reveal what change?",
+									"(A) Centrilobular necrosis",
+									"(B) Focal necrosis",
+									"(C) Geographic necrosis",
+									"(D) Midzonal necrosis",
+									"(E) Periportal necrosis"
+							],
+							[
+								"Answer: (A) Centrilobular necrosis"
+							],
+							[
+								"Centrilobular necrosis (acinar zone 3) is characteristic of 1) ischemic injury (heart failure or shock), 2) toxic effects (acetaminophen toxicity), and 3) carbon tetrachloride exposure (due to formation of a free radical).",
+								"Drugs such as acetaminophen may be metabolized in zone 1 to toxic compounds that cause necrosis of zone 3 hepatocytes.",
+								"Excess acetaminophen is hydroxylated by P450 to form N-acetyl-p-benzyoquioneimine (NAPQI), a hepatotoxic breakdown product of acetaminophen.",
+								"Excess acetaminophen depletes glutathione stores and forms toxic amounts of NAPQI that kill hepatocytes downstream in acinar zone 3."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: A. Competitive inhibition of hepatic cytochrome P450"
+							],
+							[
+								"Acetaminophen and ethanol are metabolized by same cytochrome P450 enzyme.",
+								"Through competitive inhibition of cytochrome P450, ethanol can decrease metabolism of acetaminophen to NAPQI and therefore decrease NAPQI concentrations.",
+								"Acute (not chronic) ingestion of ethanol can lead to decreased conversion of acetaminophen to N-acetyl-p-benzoquinone imine.",
+								"Chronic alcohol consumption increases NAPQI concentrations and the risk of hepatotoxicity during an acetaminophen overdose."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L71536.png' target='_blank'>hepatic metabolism of acetaminophen</a>",
+							]
+						]
+					]
+    },
+    {
+        "varUWquestionsID": "Question Id: 99",
+        "disease": "GGT",
+		"keyInfo": [
+						"40-year-old female",
+						"worsening fatigue",
+						"alkaline phosphatase level of 180 U/L"
+					],
+		"keyUWorldInfo": [
+						"A moderately elevated alkaline phosphatase of unclear etiology should be followed up with γ-glutamyl transpeptidase",
+						"Bone and liver are the primary sources of alkaline phosphatase",
+						"enzyme predominantly present in hepatocytes and biliary epithelia"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"The majority of alkaline phosphatase in serum (more than 80%) is released from what two sources?",
+									"(A) Bone and red blood cells",
+									"(B) Heart and pancreas",
+									"(C) Liver and bone",
+									"(D) Pancreas and liver",
+									"(E) Red blood cells and heart"
+							],
+							[
+								"Answer: (C) Liver and bone"
+							],
+							[
+								"Alkaline phosphatase (ALP) is found in bone and liver.",
+								"Liver parenchymal disease causes a slight increase in alkaline phosphatase, while a extrahepatic obstruction (think bile ducts and biliary tract) causes marked increase in ALP."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: E. γ-glutamyl transpeptidase"
+							],
+							[
+								"When the alkaline phosphatase is elevated, serum GGT measurements can differentiate whether the cause is biliary disease or an alternate cause such as bone disease.",
+								"Causes of increased gamma-glutamyl transpeptidase (GGT) are similar to liver causes of increased alkaline phosphatase.",
+								"Markedly increased GGT is caused by alcohol (which induces microsomal enzymes)."
+							]
+						]
+					]
+    },
+    {
+        "varUWquestionsID": "Question Id: 100",
+        "disease": "liver failure",
+		"keyInfo": [
+						"45-year-old man",
+						"history of alcohol use disorder, chronic hepatitis C, and HIV",
+						"altered mental status and abdominal distension",
+						"recently been drinking heavily",
+						"sweet, sulfurous odor",
+						"gynecomastia, palmar erythema, and multiple spider angiomata",
+						"testicular atrophy",
+						"disorientation and asterixis",
+						"splenomegaly"
+					],
+		"keyUWorldInfo": [
+						"<strong>liver cirrhosis</strong>",
+						"gynecomastia often occurs due to hyperestrinism, which can also promote the formation of spider angiomata",
+						"subcutaneous vascular lesions consisting of a central arteriole surrounded by smaller vessels that blanch on compression",
+						"<strong>estrogen-induced arteriolar dilation</strong>",
+						"ammonia accumulates in the blood, resulting in impaired neurotransmission in the CNS and possible brain edema",
+						"Portal hypertension arises from increased hepatic resistance to portal flow at the sinusoid"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the likely cause of gynecomastia an man with liver failure?",
+									"(A) bile salt deposition",
+									"(B) defective urea cycle",
+									"(C) impaired bilirubin metabolism",
+									"(D) increased circulating ammonia",
+									"(E) increased liver NAPQI",
+									"(F) increased serum estrogen"
+							],
+							[
+								"Answer: (F) increased serum estrogen"
+							],
+							[
+								"Liver failure is characterized by increased circulating estrogen, the signs of which include the formation of spider angioma, palmar erythema, and gynecomastia and testicular atrophy in males.",
+								"Increased circulating estrogen results from decreased clearance by the liver and decreased production of binding proteins by liver."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: D. Spider angiomata"
+							],
+							[
+								"Spider angiomata (aka spider telangiectasias) are subcutaneous vascular lesions consisting of a central arteriole surrounded by smaller vessels that blanch on compression.",
+								"Spider angiomata are likely due to estrogen-induced arteriolar dilation and are also seen in other hyperestrogenic states (eg, pregnancy)."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L24627.jpg' target='_blank'>spider angioma</a>"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>UWorld question</strong>)",
+								"Which of the following laboratory findings would be most indicative of a poor prognosis for an individual with cirrhosis?",
+									"(A) High aspartate aminotransferase",
+									"(B) High fibrinogen levels",
+									"(C) High gamma glutamyl transferase",
+									"(D) Prolonged bleeding time",
+									"(E) Prolonged prothrombin time"
+							],
+							[
+								"Answer: (E) Prolonged prothrombin time"
+							],
+							[
+								"Hypoalbuminemia, elevated bilirubin levels, and prolonged PT, which is due to a decreased factor VII, indicate a poor prognosis in cirrhotic patients."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 102",
+        "disease": "Hepatic encephalopathy",
+		"keyInfo": [
+						"54-year-old man",
+						"history of hepatitis C infection",
+						"episodes of vomiting bright red blood",
+						"disoriented and cannot identify the month or his current locatio",
+						"significant abdominal distention and gynecomastia",
+						"Repetitive flicking motions of the hands are seen when the patient is asked to outstretch his arms and dorsiflex his wrists"
+					],
+		"keyUWorldInfo": [
+						"Hepatic encephalopathy is caused by increased levels of ammonia and other neurotoxins in the circulation that lead to increased inhibitory neurotransmission and impaired excitatory neurotransmitter release",
+						"Hepatic encephalopathy is frequently precipitated by a stressor (eg, gastrointestinal bleeding, infection) that increases blood ammonia levels",
+						"Hepatic encephalopathy refers to a reversible decline in neurologic function that occurs due to failure of the liver to metabolize waste products such as ammonia",
+						"",
+						"",
+						"<strong></strong>",
+						""
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) Hepatic encephalopathy",
+									"(B) Hepatolenticular degeneration",
+									"(C) Hepatorenal syndrome",
+									"(D) Peliosis hepatis"
+							],
+							[
+								"Answer: (A) Hepatic encephalopathy"
+							],
+							[
+								"Hepatic encephalopathy refers to a reversible decline in neurologic function that occurs due to failure of the liver to metabolize waste products such as ammonia.",
+								"Signs of hepatic encephalopathy include cerebral dysfunction (delirium, convulsions, coma) and asterixis (tremor or flapping of the hand when the wrist is extended).",
+								"Hepatorenal syndrome is characterized by the combination of liver failure with signs of renal failure (azotemia = increased BUN) with oliguria (decreased urine production).",
+								"There are no pathologic changes in kidney with hepatorneal syndrome, and the renal disease is reversible."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: D. Increased absorption of nitrogenous substances by the gut"
+							],
+							[
+								"Hepatic encephalopathy is caused by increased levels of ammonia and other neurotoxins in the circulation that lead to increased inhibitory neurotransmission and impaired excitatory neurotransmitter release.",
+								"Hepatic encephalopathy is frequently precipitated by a stressor (eg, gastrointestinal bleeding, infection) that increases blood ammonia levels.",
+								"Treatment for hepatic encephalopathy is by lowering ammonia levels, one way is with lactulose, which increases the fecal excretion of NH4 by promoting the conversion of ammonia (NH3) to ammonium (NH4+)."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 21085",
+        "disease": "benign neonatal hyperbilirubinemia",
+		"keyInfo": [
+						"4-day-old newborn",
+						"2-day history of progressive jaundic",
+						"scleral icterus and jaundice",
+						"Total bilirubin",
+						"Direct bilirubin"
+					],
+		"keyUWorldInfo": [
+						"Benign neonatal hyperbilirubinemia presents with jaundice and elevated indirect bilirubin levels that peak at age 2-5 days",
+						"Pathophysiology includes impaired bilirubin clearance by the liver due to decreased hepatic UDP glucuronosyltransferase"
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: D. Decreased UDP glucuronsyltransferase activity"
+							],
+							[
+								"Physiologic jaundice of the newborn (physiological neonatal jaundice or benign neonatal hyperbilirubinemia) is characterized by increased indirect bilirubin that develops 24-48 hours after birth.",
+								"Pathophysiology includes impaired bilirubin clearance by the liver due to decreased hepatic UDP glucuronosyltransferase",
+								"Treatment (if needed) is with phototherapy, in which expose skin to light (non-UV) activates oxygen and converts bilirubin to photobilirubin (isomerization of unconjugated bilirubin molecules) which is excreted in urine."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L14693.png' target='_blank'>neonatal jaundice</a>",
+							]
+						],
+						[
+							[
+								"QUESTION II (<strong>based on a UWorld question</strong>)",
+								"Excess unconjugated bilirubin in the neonatal period if untreated can lead to the development of kernicterus (aka bilirubin-induced neurologic dysfunction) due to the deposition of bilirubin in what location in the brain?",
+									"(A) Basal ganglia",
+									"(B) Corpus callosum",
+									"(C) Lateral temporal cortex",
+									"(D) Mammillary bodies",
+									"(E) Occipital cortex"
+							],
+							[
+								"Answer: (A) Basal ganglia"
+							],
+							[
+								"Kernicterus (bilirubin-induced neurologic dysfunction, aka BIND) is a complication of severe cases of neonatal hyperbilirubinemia.",
+								"Kernicterus is characterized by unconjugated bilirubin deposition in brain (basal ganglia).",
+								"Signs of kernicterus include abnormal movements (eg, chorea, dystonia) and impaired vision and hearing."
+							]
+						]
+					]	
+    },
+    {
+        "varUWquestionsID": "Question Id: 362",
+        "disease": "Gilbert syndrome",
+		"keyInfo": [
+						"21-year-old man",
+						"yellow discoloration of his eyes after a hiking trip",
+						"imilar episode 2 years ago after fasting for a couple of days",
+						"scleral icterus",
+						"no hepatosplenomegaly",
+						"Total bilirubin",
+						"Direct bilirubin"
+					],
+		"keyUWorldInfo": [
+						"Gilbert syndrome is a benign disorder that presents with recurrent scleral icterus and jaundice, typically triggered by stress (eg, fasting, illness)",
+						"Pathogenesis involves decreased activity of UDP glucuronosyltransferase (impaired bilirubin conjugation), and an isolated mild unconjugated hyperbilirubinemia is typical"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) Budd-Chiari syndrome",
+									"(B) Crigler-Najjar syndrome",
+									"(C) Dubin-Johnson syndrome",
+									"(D) Gilbert syndrome",
+									"(E) Rotor syndrome"
+							],
+							[
+								"Answer: (D) Gilbert syndrome"
+							],
+							[
+								"Gilbert syndrome is a benign disorder that presents with recurrent scleral icterus and jaundice.",
+								"Signs are typically triggered by stress (eg, fasting, illness) and are due to unconjugated hyperbilirubinemia.",
+								"Because bilirubin excretion into the bile duct is normal in Gilbert syndrome, hepatocyte bilirubin storage is also normal, as is liver histology."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: A. Decreased activity of UDP glucuronosyltransferase"
+							],
+							[
+								"Gilbert syndrome is the most common inherited disorder of bilirubin glucuronidation.",
+								"Gilbert syndrome is caused by impaired bilirubin conjugation due to mildly decreased UGT levels"
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L24741.jpg' target='_blank'>bilirubin metabolism</a>"
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 101",
+        "disease": "Dubin-Johnson syndrome",
+		"keyInfo": [
+						"20-year-old man",
+						"intermittent episodes of self-resolving jaundice",
+						"Total bilirubin",
+						"Direct bilirubin",
+						"abundant pigment inclusions in the lysosomes of the otherwise normal hepatocytes",
+						"polymers of epinephrine metabolites"
+					],
+		"keyUWorldInfo": [
+						"Dubin-Johnson syndrome is a benign disorder characterized by defective hepatic excretion of bilirubin glucuronides across the canalicular membrane",
+						"hyperbilirubinemia and jaundice",
+						"Grossly, the liver appears black due to impaired excretion of epinephrine metabolites",
+						"dense pigments within lysosomes",
+						"<strong>direct (conjugated) hyperbilirubinemia</strong>",
+						"Increased production of catecholamines is not associated with Dubin-Johnson syndrome despite the hepatocyte accumulation of epinephrine metabolites in this condition"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) Budd-Chiari syndrome",
+									"(B) Crigler-Najjar syndrome",
+									"(C) Dubin-Johnson syndrome",
+									"(D) Gilbert syndrome",
+									"(E) Rotor syndrome"
+							],
+							[
+								"Answer: (C) Dubin-Johnson syndrome"
+							],
+							[
+								"Dubin-Johnson syndrome is a benign disorder characterized by intermittent direct (conjugated) hyperbilirubinemia and jaundice.",
+								"The liver is grossly black with DJS due to impaired excretion of epinephrine metabolites.",
+								"These epinephrine metabolites can be seen as dense pigments within lysosomes of hepatocytes.",
+								"Increased production of catecholamines is not associated with Dubin-Johnson syndrome despite the hepatocyte accumulation of epinephrine metabolites in this condition."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: A. Defective hepatocellular excretion of bilirubin glucuronides"
+							],
+							[
+								"Dubin-Johnson syndrome (DJS) is an autosomal recessive disorder that results from mutations involving the multidrug resistance protein 2 (MRP2).",
+								"This results in defective excretion of bilirubin glucuronide and other organic anions from hepatocytes across the canalicular membrane."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L24741.jpg' target='_blank'>bilirubin metabolism</a>"
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 1927",
+        "disease": "acute viral hepatitis",
+		"keyInfo": [
+						"34-year-old man",
+						"elevated liver aminotransferases",
+						"history of injection drug use",
+						"liver cirrhosis in his mother",
+						"panlobular mononuclear cell infiltration that spans adjacent lobules",
+						"Intensely eosinophilic round bodies"
+					],
+		"keyUWorldInfo": [
+						"Intravenous drug use is a risk factor for acute viral hepatitis",
+						"panlobular inflammation",
+						"cytotoxic T-cell–mediated signals cause hepatocyte apoptosis",
+						"Councilman bodies (ie, round, intensely eosinophilic bodies)",
+						"<strong>panlobular lymphocytic inflammation</strong>",
+						"<strong>Councilman bodies</strong>"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) acute alcoholic hepatitis",
+									"(B) acute alcoholic steatosis",
+									"(C) acute viral hepatitis",
+									"(D) chronic alcholic hepatitis",
+									"(E) chronic viral hepatitis"
+							],
+							[
+								"Answer: (C) acute viral hepatitis"
+							],
+							[
+								"This patient with a history of intravenous drug use likely has elevated aminotransferases due to acute viral hepatitis.",
+								"Acute hepatitis due to most hepatotropic viruses causes hepatocyte injury (eg, ballooning degeneration) and cell death with panlobular mononuclear cell infiltration.",
+								"Intensely eosinophilic round bodies are occasionally seen scattered among the hepatic parenchyma."
+							]
+						],
+						[
+							[
+								"QUESTION II",
+								"What are these eosinophilic round bodies?",
+									"(A) Councilman bodies",
+									"(B) Cowdry bodies",
+									"(C) Kupffer cells",
+									"(D) Mallory bodies",
+									"(E) Stellate cells"
+							],
+							[
+								"Answer: (A) Councilman bodies"
+							],
+							[
+								"Councilman bodies are hepatocytes with shrunken, eosinophilic cytoplasm and pyknotic nuclei.",
+								"Councilman bodies are seen in acute viral hepatitis."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: B. Cytotoxic T-cell–mediated apoptosis"
+							],
+							[
+								"Councilman bodies result from cytotoxic CD8 T-cell mediated apoptosis of viral-infected hepatocytes.",
+								"Cytotoxic T cells trigger apoptosis of infected hepatocytes by binding death receptors (eg, Fas) on the plasma membrane and by secreting cytotoxic mediators (eg, perforins, granzymes).",
+								"As a result, a cascade of caspase enzymes breaks down hepatocyte proteins and DNA, leading to cell shrinkage, chromatin condensation and fragmentation, and budding apoptotic bodies (ie, membrane-bound cellular fragments)."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L78263.jpg' target='_blank'>ballooning degeneration</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L68570.jpg' target='_blank'>Councilman body</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L80982.png' target='_blank'>acute viral hepatitis histology</a>"
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 372",
+        "disease": "acute hepatitis A",
+		"keyInfo": [
+						"34-year-old woman",
+						"notable for hepatomegaly",
+						"Anti-HAV IgM"
+					],
+		"keyUWorldInfo": [
+						"Transmission of the hepatitis A virus occurs through the fecal-oral route and is common in areas with overcrowding and poor sanitation.",
+						"Outbreaks frequently result from contaminated water or food, and raw or steamed shellfish is a common culprit in the United States.",
+						"Anti-HAV IgM is positive and is a marker of active disease",
+						"Hepatitis A infection is a self-limiting disease and does not progress to chronic hepatitis, cirrhosis, or hepatocellular carcinoma"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) Acute hepatitis A",
+									"(B) Acute hepatitis B",
+									"(C) Acute hepatitis C",
+									"(D) Acute hepatitis D",
+									"(E) Acute hepatitis E"
+							],
+							[
+								"Answer: (A) Acute hepatitis A"
+							],
+							[
+								"Acute hepatitis A is a self-limited infection that typically presents acutely with prodromal symptoms (eg, fever, malaise, anorexia, nausea/vomiting, right upper quadrant pain) followed by signs of cholestasis (eg, jaundice, pruritus, dark-colored urine, clay-colored stool).",
+								"With acute hepatitis A the resulting hepatocellular damage is self-limited, with complete resolution within 2-3 months.",
+								"Liver biopsies after resolution of the accute infection would be normal."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: D. Had steamed oysters at a neighborhood restaurant"
+							],
+							[
+								"Transmission of the hepatitis A virus occurs through the fecal-oral route and is common in areas with overcrowding and poor sanitation.",
+								"Outbreaks frequently result from contaminated water or food, and raw or steamed shellfish is a common culprit in the United States."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Suppose instead an asymptomatic individual is found to have anti-hepatitis A IgG in their serum without anti-hepatitis A IgM. These findings most likely suggest which one of the following?",
+									"(A) Anicteric viral infection as a toddler",
+									"(B) Asymptomatic viral carrier state",
+									"(C) Chronic viral hepatitis",
+									"(D) Liver failure during childhood",
+									"(E) Reinfection with hepatitis A virus"
+							],
+							[
+								"Answer: (A) Anicteric viral infection as a toddler"
+							],
+							[
+								"The presence of IgM anti-HAV antibodies indicates active hepatitis A infection, while the presence of anti-HAV IgG shows immunity.",
+								"Therefore an asymptomatic patient with IgG antibodies against hepatitis A virus likely had a prior infection with HAV.",
+								"In children HAV infection is most often silent or subclinical.",
+								"Clinical disease is typically more severe in adults (some of whom develop an aversion to smoking).",
+								"Hepatitis A virus and hepatitis E virus do not have chronic infections.",
+								"A liver biopsy from this individual would show no histopathologic abnormality."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 365",
+        "disease": "acute hepatitis B",
+		"keyInfo": [
+						"39-year-old man",
+						"month-long history of fever, fatigue, joint pain, and an urticarial skin rash",
+						"moderately enlarged and tender liver",
+						"No jaundice is seen",
+						"significant elevations in serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST)"
+					],
+		"keyUWorldInfo": [
+						"Acute hepatitis B infection can cause a serum sickness-like syndrome with joint pain, lymphadenopathy, and a pruritic urticarial rash",
+						"<strong>serum sickness-like</strong>"
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: A. Acute hepatitis B"
+							],
+							[
+								"Acute hepatitis B infection can cause a serum sickness-like syndrome with joint pain, lymphadenopathy, and a pruritic urticarial rash.",
+								"Acute HBV is characterized by significant elevations in aspartate aminotransferase and alanine aminotransferase, often >10 times the upper limit of normal.",
+								"The most important early marker of acute infection is hepatitis B surface antigen (HBsAg), which may be detectable prior to symptoms or changes in transaminase levels.",
+								"HBV contains a DNA-dependent DNA polymerase that is similar to RNA-dependent DNA polymerase of reverse transcriptase of HIV. The result is that HBV DNA is incorporated into the host genome."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L71381.png' target='_blank'>ground-glass cytoplasm</a>"
+							]
+						],
+						[
+							[
+								"QUESTION II (<strong>based on a UWorld question</strong>)",
+								"What is the most common outcome of acute hepatitis caused by HBV?",
+									"(A) Complete resolution",
+									"(B) Fulminant hepatitis",
+									"(C) Stable chronic hepatitis",
+									"(D) Chronic hepatitis with progression to cirrhosis",
+									"(E) Chronic hepatitis with progression to hepatocellular carcinoma"
+							],
+							[
+								"Answer: A. Complete resolution"
+							],
+							[
+								"Hepatitis B virus infection can produce one of three syndromes: acute hepatitis with complete resolution; chronic hepatitis (with or without cirrhosis and the attendant increased risk of hepatocellular carcinoma); or fulminant hepatitis with massive liver necrosis.",
+								"The most common outcome in HBV-infected adults (> 95%) is acute hepatitis with mild or subclinical symptoms that eventually completely resolve."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Which one of the following histologic changes is most suggestive of chronic HBV infection?",
+									"(B) Accumulation of large and small vesicles of fat within hepatocyte",
+									"(A) Finely granular, homogeneous, pale eosinophilic cytoplasm of hepatocytes",
+									"(D) Focal areas of macrovesicular steatosis",
+									"(E) Portal and periportal lymphoplasmacytic cell infiltration",
+									"(C) Yellow-brown hemosiderin granules in the cytoplasm of hepatocytes"
+							],
+							[
+								"Answer: (A) Finely granular, homogeneous, pale eosinophilic cytoplasm of hepatocytes"
+							],
+							[
+								"Hepatitis B virus (HBV), hepatitis C virus (HCV), and hepatitis D virus (HDV) are hepatitis viruses with blood spread and do have chronic disease (think the consonants B, C, and D may have chronic hepatitis).",
+								"The presence of hepatocytes with a ground-glass appearance of the cytoplasm (finely granular homogenous pale pink cytoplasm) implies chronic hepatitis due to hepatitis B virus (presence of HBsAg in cytoplasm).",
+								"The presence of steatosis (fatty change) in the setting of chronic hepatitis is suggestive of hepatitis C.",
+								"Portal and periportal lymphoplasmacytic cell infiltration is characteristic of autoimmune hepatitis.",
+								"Characteristic laboratory abnormalities with autoimmune hepatitis include anti–smooth muscle autoantibodies and hypergammaglobulinemia."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 379",
+        "disease": "chronic active hepatitis B",
+		"keyInfo": [
+						"25-year-old man is hospitalized with fever, anorexia, and fatigue",
+						"IV drug abuse and many episodes of unprotected sex",
+						"following serologic marker dynamics are obtained"
+					],
+		"keyUWorldInfo": [
+						"If HBeAg persists for several months and host anti-HBeAg remain at low or undetectable levels, suspect chronic hepatitis B infection with high infectivity.",
+						"HBsAg first appears before the onset of symptoms, peaks when the patient is most ill, and then becomes undetectable in 3-6 months (unless the disease progresses to a chronic phase).",
+						"Shortly after HBsAg first appears, HBeAg and HBV DNA can be detected in the serum and are markers of active viral replication.",
+						"Anti-HBcAg IgM and elevated serum transaminases appear shortly before symptom onset.",
+						"Over the next few months, the anti-HBcAg IgM component is replaced with an IgG component.",
+						"Anti-HBeAg appears shortly after HBeAg vanishes and suggests subsiding viral activity (transition from high viral replication/infectivity to low viral replication/infectivity).",
+						"Anti-HBsAg IgG arises once the acute disease has resolved (unless the disease progresses to a chronic phase), and is typically not detectable until weeks or months after HBsAg has disappeared.",
+						"This antibody may persist indefinitely, conferring lifelong immunity."
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: D. Had acute hepatitis B that has progressed to chronic hepatitis with high infectivity"
+							],
+							[
+								"HBsAg first appears before the onset of symptoms, peaks when the patient is most ill, and then becomes undetectable in 3-6 months (unless the disease progresses to a chronic phase).",
+								"Shortly after HBsAg first appears, HBeAg and HBV DNA can be detected in the serum and are markers of active viral replication.",
+								"Anti-HBcAg IgM and elevated serum transaminases appear shortly before symptom onset.",
+								"Over the next few months, the anti-HBcAg IgM component is replaced with an IgG component.",
+								"Anti-HBeAg appears shortly after HBeAg vanishes and suggests subsiding viral activity (transition from high viral replication/infectivity to low viral replication/infectivity).",
+								"Anti-HBsAg IgG arises once the acute disease has resolved (unless the disease progresses to a chronic phase), and is typically not detectable until weeks or months after HBsAg has disappeared.",
+								"This antibody may persist indefinitely, conferring lifelong immunity.",
+								"If HBeAg persists for several months and host anti-HBeAg remain at low or undetectable levels, suspect chronic hepatitis B infection with high infectivity."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L22964.jpg' target='_blank'>normal HBV serology</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L15838.jpg' target='_blank'>acute hepatitis B infection</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L17646.jpg' target='_blank'>chronic hepatitis B infection</a>"
+							]
+						],
+						[
+							[
+								"QUESTION II (<strong>based on a UWorld question</strong>)",
+								"What is the best interpretation of a woman with the following serology following an accidental needlestick in the operating room: Anti-HAV IgM	negative; Anti-HAV IgG	positive; HBsAg	negative; HBeAg	negative; Anti-HBs	positive; Anti-HBc IgM	negative; Anti-HBc IgG	negative; Anti-HBe	negative; Anti-HCV	negative?",
+									"(A) She has been vaccinated against hepatitis B virus",
+									"(B) She has chronic hepatitis but is non-contagious",
+									"(C) She has recovered from HBV infection recently",
+									"(D) She is actively shedding hepatitis A virus",
+									"(E) She is an asymptomatic carrier of HBV"
+							],
+							[
+								"Answer: A. She has been vaccinated against hepatitis B virus"
+							],
+							[
+								"Acute HBV infection is marked by the proliferation of the virus in hepatocytes with the release of viral antigens (HBsAg, HBeAg) and HBV DNA into the bloodstream and the generation of IgM against HB core antigen.",
+								"Anti-HBe antibodies develop 3-6 months after initial infection and are associated with the elimination of HBeAg.  This correlates with reduced viral replication and infectivity.",
+								"Anti-HBsAg antibodies form several weeks/months later and provide protective immunity against future infection. These antibodies prevent infection by binding to the envelope of circulating virus and inhibiting viral entry.",
+								"The presence of anti-HBc and anti-HBs antibodies in the serum without detectable viral antigens indicates recovery from acute hepatitis B infection.",
+								"In contrast, patients vaccinated against hepatitis B will have anti-HBs antibodies without detectable levels of anti-HBc.",
+								"Chronic hepatitis B is indicated by persistent levels of HBsAg and HBV DNA in the serum."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"A 23-year-old pregnant woman is found to have chronic viral hepatitis B on liver biopsy.  The presence of which of the following serologic markers is most likely to increase the risk of vertical transmission of the virus?",
+									"(A) HBsAg",
+									"(B) HBeAg",
+									"(C) Anti- HBcAg IgG",
+									"(D) Anti- HBeAg IgM",
+									"(E) Anti-HBsAg IgG"
+							],
+							[
+								"Answer: (B) HBeAg"
+							],
+							[
+								"Vertical transmission of hepatitis B from pregnant females to the unborn child can occur in women with active hepatitis B infection.",
+								"The presence of HBeAg (a marker of viral replication and increased infectivity) in the mother greatly increases the risk of vertical transmission of the virus."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 48",
+        "disease": "hepatitis E virus",
+		"keyInfo": [
+						"outbreak of hepatitis in New Delhi",
+						"high incidence of fulminant hepatitis in pregnant women",
+						"mortality rate of 20%"
+					],
+		"keyUWorldInfo": [
+						"Hepatitis E virus is an unenveloped, single-stranded RNA virus spread through the fecal-oral route",
+						"high mortality rate observed in infected pregnant women"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"Which virus is most likely responsible for this outbreak?",
+									"(A) Acute hepatitis A",
+									"(B) Acute hepatitis B",
+									"(C) Acute hepatitis C",
+									"(D) Acute hepatitis D",
+									"(E) Acute hepatitis E"
+							],
+							[
+								"Answer: (E) Acute hepatitis E"
+							],
+							[
+								"HEV is is found in underdeveloped countries and has an unusually high mortality in pregnant females due to fulminant hepatic failure (especially during the third trimester)."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: A. Is an unenveloped RNA virus"
+							],
+							[
+								"Hepatitis E virus is an unenveloped, single-stranded RNA virus spread through the fecal-oral route.",
+								"HEV infection is typically self-limited and not associated with either chronic liver disease or a carrier state."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Without treatment, what is the most likely outcome for an individual with a newly diagnosed infection with hepatitis C virus?",
+									"(A) Acute liver failure",
+									"(B) Decompensated liver cirrhosis",
+									"(C) Hepatocellular carcinoma",
+									"(D) Lifelong persistent infection",
+									"(E) Spontaneous viral clearance"
+							],
+							[
+								"Answer: (D) Lifelong persistent infection"
+							],
+							[
+								"High titers of IgG against hepatitis C do not confer effective immunity, because the envelope proteins have variations in their antigenic structure.",
+								"The most common outcome of hepatitis C infection without antiviral treatment is lifelong persistent infection (ie, chronic hepatitis C)."
+							]
+						],
+						[
+							[
+								"QUESTION IV (<strong>based on a UWorld question</strong>)",
+								"Universal vaccination with a vaccine against HBV would most likely lead to eradication of which of the following conditions?",
+									"(A) Acute viral hepatitis",
+									"(B) Fulminant viral hepatitis",
+									"(C) Hepatitis C infection",
+									"(D) Hepatitis D infection",
+									"(E) Hepatocellular carcinoma"
+							],
+							[
+								"Answer: (D) Hepatitis D infection"
+							],
+							[
+								"Hepatitis D virus (HDV or deltavirus) is distinct in that it is a defective RNA deltavirus (think D for Defective virus) that needs HBsAg to cause disease.",
+								"HDV infection can occur as an acute coinfection with hepatitis B or as a superinfection in a chronic HBV carrier."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 18523",
+        "disease": "Schistosomiasis",
+		"keyInfo": [
+						"54-year-old man",
+						"vomiting blood",
+						"sub-Saharan Africa 20 years ago",
+						"enlarged liver and a spleen tip below the level of the umbilicus",
+						"Eosinophils",
+						"bleeding esophageal varices"
+					],
+		"keyUWorldInfo": [
+						"Schistosomiasis, a parasitic blood fluke infection, is common in rural portions of sub-Saharan Africa.",
+						"Initial infection is often asymptomatic, but some patients develop chronic hepatosplenic (eg, portal hypertension, hepatosplenomegaly, esophageal varices) or urinary (eg, bladder cancer) complications",
+						"The presence of eosinophilia is an important diagnostic clue.",
+						"",
+						"",
+						"<strong></strong>",
+						""
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: D. Schistosomiasis"
+							],
+							[
+								"Schistosomiasis, a parasitic blood fluke infection, is common in rural portions of sub-Saharan Africa.",
+								"Initial infection is often asymptomatic, but some patients develop chronic hepatosplenic (eg, portal hypertension, hepatosplenomegaly, esophageal varices) or urinary (eg, bladder cancer) complications.",
+								"The presence of eosinophilia is an important diagnostic clue.",
+								"Exposure to Schistosoma occurs when humans swim in freshwater contaminated by infected snails (the intermediate host).",
+								"Occlusion of periportal veins eventually blocks venous outflow from abdominal organs, leading to congestive splenomegaly and gastroesophageal varices."
+							]
+						],
+						[
+							[
+								"QUESTION II",
+								"What is the most common cause of esophageal varices in the United States?",
+									"(A) Alcoholic cirrhosis",
+									"(B) Chronic hepatitis B",
+									"(C) Hepatic vein thrombosis",
+									"(D) Non-alcoholic steatosis",
+									"(E) Portal vein thrombosis"
+							],
+							[
+								"Answer: (A) Alcoholic cirrhosis"
+							],
+							[
+								"Esophageal varices and splenomegaly are signs of portal hypertension, which usually indicates underlying hepatic fibrosis (cirrhosis).",
+								"Chronic viral hepatitis and alcohol abuse are the leading causes of cirrhosis in the United States."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"During surgery to remove a cystic mass in the liver, spilling of the contents of the cyst result in anaphylaxis. Infection with what organism was most likely responsible for the formation of this liver cyst?",
+									"(A) Clonorchis sinensis",
+									"(B) Echinococcus granulosa",
+									"(C) Entamoeba histolytica",
+									"(D) Escherichia coli",
+									"(E) Schistosoma mansoni"
+							],
+							[
+								"Answer: (B) Echinococcus granulosa"
+							],
+							[
+								"Echinococcus granulosa is a tapeworm that is the cause of hydatid cyst of the liver, which causes RUQ abdominal pain.",
+								"Spilling of cyst contents can cause anaphylactic shock.",
+								"E. coli is the most common cause of a bacterial liver abscess, the underlying cause is cholangitis.",
+								"Entamoeba histolytica is the cause of an amebic liver abscess. Grossly the liver abscess contains an anchovy paste-like material."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 881",
+        "disease": "Reye syndrome",
+		"keyInfo": [
+						"6-year-old boy",
+						"confusion and intractable vomiting",
+						"contracted a febrile illness from his younger brother 2 days ago",
+						"one tablet of an over-the-counter cold medication yesterday"
+					],
+		"keyUWorldInfo": [
+						"Reye syndrome is characterized by liver failure and encephalopathy following salicylate (aspirin) administration in children with a febrile illness.",
+						"Aspirin-induced mitochondrial dysfunction causes impaired fatty acid metabolism and microvesicular steatosis of the liver."
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis?",
+									"(A) Alpha-1-antitrypsin deficiency",
+									"(B) Cystic fibrosis",
+									"(C) Primary hemochromatosis",
+									"(D) Reye syndrome",
+									"(E) Wilson disease"
+							],
+							[
+								"Answer: (D) Reye syndrome"
+							],
+							[
+								"Reye syndrome is characterized by liver failure and encephalopathy following salicylate (aspirin) administration in children with a febrile illness."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: D. Microvesicular steatosis"
+							],
+							[
+								"Steatosis refers to fatty change of the liver (triglycerides accumulate).",
+								"The main cause of microvesicular steatosis is Reye syndrome.",
+								"Aspirin-induced mitochondrial dysfunction causes impaired fatty acid metabolism and microvesicular steatosis of the liver."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Which of the following is the most likely cause of this patient's presentation?",
+									"(A) Accumulation of a misfolded protein within hepatocytes",
+									"(B) CD8+ T-cell–mediated destruction of viral infected hepatocytes",
+									"(C) Depletion of intracellular reduced glutathione",
+									"(D) Excessive formation of superoxide in hepatocytes",
+									"(E) Mitochondrial damage leading to impaired fatty acid metabolism"
+							],
+							[
+								"Answer: (E) Mitochondrial damage leading to impaired fatty acid metabolism"
+							],
+							[
+								"Reye syndrome is characterized by acute liver failure (eg, hepatomegaly, elevated aminotransferases, coagulopathy) and rapidly progressive encephalopathy related to hyperammonemia.",
+								"It usually develops in susceptible children during a viral infection after administration of salicylates (eg, aspirin), which cause damage to the mitochondria and impair fatty acid beta-oxidation within hepatocytes."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 15023",
+        "disease": "nonalcoholic fatty liver disease",
+		"keyInfo": [
+						"22-year-old woman",
+						"mild fatigue",
+						"She does not use tobacco, alcohol, or recreational drugs",
+						"BMI is 30 kg/m2",
+						"truncal obesity",
+						"Total cholesterol",
+						"Glucose",
+						"Aspartate aminotransferase (SGOT)",
+						"Alanine aminotransferase (SGPT)"
+					],
+		"keyUWorldInfo": [
+						"Nonalcoholic fatty liver disease frequently develops in patients with metabolic syndrome (eg, obesity, dyslipidemia, insulin resistance) and can progress to cirrhosis due to chronic inflammation and hepatocyte injury.",
+						"<strong>metabolic syndrome</strong>"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) Alcoholic hepatitis",
+									"(B) Alcoholic steatosis",
+									"(C) Nonalcoholic fatty liver disease",
+									"(D) Nonalcoholic steatohepatitis"
+							],
+							[
+								"Answer: (C) Nonalcoholic fatty liver disease"
+							],
+							[
+								"Non-alcoholic fatty liver disease (NAFLD) is a type of chronic hepatitis characterized by liver damage similar to alcohol-induced liver damage except it occurs in individuals who do not abuse alcohol (diagnosis of exclusion).",
+								"NAFLD frequently develops in patients with metabolic syndrome (eg, obesity, dyslipidemia, insulin resistance)."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: D. Cirrhosis"
+							],
+							[
+								"Patients with NAFLD have an increased risk of cirrhosis due to chronic hepatocellular injury and inflammation triggered by hepatic free fatty acid accumulation.",
+								"In the presence of inflammation, hepatic stellate (Ito) cells in the space of Disse are activated and transform into myofibroblasts that produce collagen in large quantities, leading to progressive fibrosis and ultimately cirrhosis.",
+								"Cirrhosis refers to a rock-hard nodular liver that results from fibrosis and nodular parenchymal regeneration of hepatocytes.",
+								"Complications of cirrhosis include 1) increased risk of hepatocellular carcinoma (therefore need to monitor alpha-fetoprotein), and 2) portal hypertension (fibrosis blocks the flow of blood through the sinusoids).",
+								"Portal hypertension can cause dilation of the portosystemic collateral veins in the periumbilical system (caput medusae), lower rectum (anorectal varices), and lower esophagus (esophageal varices).",
+								"Alcoholic cirrhosis is a major cause of esophageal varices in the United States."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L26649.png' target='_blank'>cirrhosis due to nonalcoholic fatty liver disease</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/U63903.png' target='_blank'>cirrhosis gross</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L66838.jpg' target='_blank'>cirrhosis histology</a>"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Which of the following metabolic changes most likely contributed to the development of <strong>alcoholic steatosis</strong>?",
+									"(A) Decreased free fatty acid oxidation",
+									"(B) Decreased triglyceride synthesis",
+									"(C) Enhanced lipoprotein assembly",
+									"(D) Increased gluconeogenesis",
+									"(E) Increased glucose uptake into cells"
+							],
+							[
+								"Answer: (A) Decreased free fatty acid oxidation"
+							],
+							[
+								"Alcohol is a cause of macrovesicular steatosis.",
+								"Alcohol (ethanol) is taken up by the liver and is converted by alcohol dehydrogenase (the major pathway) into acetaldehyde (metabolite responsible for liver damage), which is subsequently converted by acetaldehyde dehydrogenase into acetate.",
+								"Excess production of NADH (NADH >> NAD) increases glycerol 3-phosphate formation results in 1) increased hepatic production of triglyceride and 2) decreased mitochondrial oxidation of fatty acids and (decreased release of VLDL into the blood)."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/U7810.png' target='_blank'>alcoholic steatosis</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L65106.jpg' target='_blank'>normal histology vs steatosis</a>"
+							]
+						],
+						[
+							[
+								"QUESTION IV (<strong>based on a UWorld question</strong>)",
+								"Which of the following histologic findings is most likely to be seen with <strong>alcoholic hepatitis</strong>?",
+									"(A) Granulomatous destruction of interlobular bile ducts",
+									"(B) Ground-glass hepatocyte inclusions containing viral antigen",
+									"(C) Marked intrahepatic neutrophil infiltration",
+									"(D) Portal tract–predominant lymphocytic infiltration"
+							],
+							[
+								"Answer: (C) Marked intrahepatic neutrophil infiltration"
+							],
+							[
+								"Three basic types of alcoholic liver disease are 1) alcoholic steatosis (afebrile and reversible), 2) alcoholic hepatitis (febrile and reversible), and 3) cirrhosis (irreversible).",
+								"Histologic changes seen with alcoholic hepatitis include 1) central hyaline sclerosis (fibrosis around central veins), 2) the presence of Mallory bodies, and 3) marked intrahepatic neutrophilic infiltration.",
+								"Mallory bodies (aka alcoholic hyaline) are intracytoplasmic eosinophilic ropey inclusions in hepatocytes that are composed of prekeratin intermediate filaments."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L70822.png' target='_blank'>alcoholic hepatitis</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L72190.png' target='_blank'>Mallory bodies</a>"
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 19591",
+        "disease": "primary hemochromatosis",
+		"keyInfo": [
+						"45-year-old man",
+						"fatigue, lack of sexual desire, and inability to maintain an erection",
+						"mildly elevated fasting glucose levels",
+						"increased pigmentation over the knuckles and face",
+						"palpable 3-4 cm below the right costal margin",
+						"small testes"
+					],
+		"keyUWorldInfo": [
+						"Hereditary hemochromatosis can cause secondary hypogonadism due to deposition of iron in the pituitary gland, resulting in decreased gonadotropin secretion.",
+						"Patients who develop secondary hypogonadism are also at risk for deficiencies in other pituitary hormones (eg, central hypothyroidism).",
+						"",
+						"",
+						"",
+						"<strong></strong>",
+						""
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) Alpha-1-antitrypsin deficiency",
+									"(B) Primary hemochromatosis",
+									"(C) Primary hypogonadism",
+									"(D) Secondary hemochromatosis",
+									"(E) Wilson disease"
+							],
+							[
+								"Answer: (B) Primary hemochromatosis"
+							],
+							[
+								"Primary (familial or hereditary) hemochromatosis is a genetic disorder of iron metabolism that is inherited as an autosomal recessive disease and associated with HLA-A3.",
+								"Hemochromatosis refers to excess accumulation of iron in tissue (excess iron kills cells).",
+								"Signs of hemochromatosis include 1) bronze skin color, 2) diabetes mellitus, and 3) cirrhosis. The combination of diabetes and skin pigmentation is called bronze diabetes.",
+								"Secondary hemochromatosis is most common in patients with hemolytic anemias, such as thalassemia. Excess iron may also be due to an excessive number of transfusions or to increased absorption of dietary iron."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: E. Iron deposition in the pituitary gland"
+							],
+							[
+								"This patient's decreased libido, erectile dysfunction, and testicular atrophy are indicative of hypogonadism.",
+								"These findings, in combination with hyperpigmentation of the skin, elevated glucose/diabetes mellitus, and hepatomegaly, are strongly suggestive of hereditary hemochromatosis (HH).",
+								"Hereditary hemochromatosis can cause secondary hypogonadism due to deposition of iron in the pituitary gland, resulting in decreased gonadotropin secretion.",
+								"Patients who develop secondary hypogonadism are also at risk for deficiencies in other pituitary hormones (eg, central hypothyroidism)."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L8520.jpg' target='_blank'>hemochromatosis, liver biopsy (H&E)</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/U8523.jpg' target='_blank'>hemochromatosis, liver biopsy (Prussian blue)</a>"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"The genetic defect responsible for hereditary hemochromatosis most likely affects which of the following processes?",
+									"(A) Blood iron transport",
+									"(B) Hemoglobin synthesis",
+									"(C) Hepatic iron excretion",
+									"(D) Intestinal iron absorption",
+									"(E) Renal iron excretion"
+							],
+							[
+								"Answer: (D) Intestinal iron absorption"
+							],
+							[
+								"Hereditary hemochromatosis is most commonly caused by a missense mutation in the HFE gene, resulting in excessive intestinal iron absorption and organ damage (eg, cirrhosis, diabetes mellitus, cardiomyopathy, arthropathy) due to iron accumulation within parenchymal tissues.",
+								"Lab evaluation would find <strong>elevated ferritin</strong>, while a liver biopsy would show granular brown pigment in hepatocytes, due to the iron deposition."
+							]
+						],
+						[
+							[
+								"QUESTION IV (<strong>based on a UWorld question</strong>)",
+								"Which of the following would most likely contribute to the delayed onset of signs of familial hemochromatosis in a female with the disease versus a male with the disease?",
+									"(A) Heterozygosity for HFE gene mutation",
+									"(B) High-dose vitamin C intake",
+									"(C) Incomplete penetrance of homozygotic HFE mutations",
+									"(D) Premenopausal menstrual bleeding",
+									"(E) Receipt of blood transfusions"
+							],
+							[
+								"Answer: (D) Premenopausal menstrual bleeding"
+							],
+							[
+								"Treatment for hemochromatosis includes 1) decreased dietary iron intake, 2) regular phlebotomy, and 3) iron chelation therapy (with deferoxamine).",
+								"Men with hereditary hemochromatosis typically develop manifestations in their 30s and 40s.",
+								"Premenopausal women have ongoing blood and iron losses due to menstruation, which partially offsets the excess iron absorption and delays the onset of symptoms."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 397",
+        "disease": "Wilson disease",
+		"keyInfo": [
+						"21-year-old man",
+						"impaired balance, tremor, and difficulty speaking",
+						"elevated serum transaminases",
+						"sibling who was diagnosed at a young age with a progressive neurologic disease"
+					],
+		"keyUWorldInfo": [
+						"Wilson disease is an autosomal recessive condition characterized by excessive copper deposition into tissues (eg, liver, basal ganglia, cornea).",
+						"It typically presents in young adults with liver disease, neuropsychiatric symptoms (eg, gait disturbance, dysarthria, depression, personality changes), and Kayser-Fleischer rings on slit lamp examination."
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) Alpha-1 antitrypsin deficiency",
+									"(B) Budd-Chiari syndrome",
+									"(C) Kimmelstiel-Wilson disease",
+									"(D) Whipple disease",
+									"(E) Wilson disease"
+							],
+							[
+								"Answer: (E) Wilson disease"
+							],
+							[
+								"Wilson disease, also known as hepatolenticular degeneration, is an autosomal recessive disorder characterized by excess copper deposition within the liver and basal ganglia of the brain (especially the putamen).",
+								"Signs of Wilson disease include varying liver disease and neurologic symptoms, which consist of neuropsychiatric abnormalities and choreiform movements (repetitive and rapid, jerky, involuntary movements).",
+								"The diagnosis can be confirmed by the presence of low serum ceruloplasmin, increased urinary copper excretion, and elevated hepatic copper content on liver biopsy.",
+								"Alpha-l antitrypsin deficiency is an inherited deficiency of a serine protease inhibitor that causes both liver disease and lung disease.",
+								"A1ATD is associated with panacinar (panlobular) emphysema, which primarily affects the lower lobes of the lungs (bullous changes of the lung bases on chest CT).",
+								"The Pi ZZ homozygote is the most deficient in α1 antitrypsin (memory aid: think PAN PiZZa)."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: F. Slit lamp examination"
+							],
+							[
+								"Wilson disease is an autosomal recessive condition characterized by excessive copper deposition into tissues (eg, liver, basal ganglia, cornea).",
+								"It typically presents in young adults with liver disease, neuropsychiatric symptoms (eg, gait disturbance, dysarthria, depression, personality changes), and Kayser-Fleischer rings on slit lamp examination."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/U11887.png' target='_blank'>Kayser-Fleischer ring</a>"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"The most likely cause of Wilson disease is an abnormality in which of the following physiologic processes?",
+									"(A) Biliary excretion",
+									"(B) Immunoglobulin production",
+									"(C) Intestinal absorption",
+									"(D) Lipid metabolism",
+									"(E) Renal tubular reabsorption"
+							],
+							[
+								"Answer: (A) Biliary excretion"
+							],
+							[
+								"Wilson disease is caused by defective copper transport within hepatocytes, which leads to impaired biliary excretion of copper.",
+								"Hepatic copper accumulation eventually results in the release of free copper into the bloodstream and copper deposition into extrahepatic tissues (eg, basal ganglia, cornea)."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 402",
+        "disease": "primary biliary cholangitis",
+		"keyInfo": [
+						"52-year-old woman",
+						"6-month history of progressive fatigue and generalized pruritus",
+						"skin excoriations and mild hepatomegaly",
+						"Alkaline phosphatase",
+						"Antimitochondrial antibody"
+					],
+		"keyUWorldInfo": [
+						"Primary biliary cholangitis is a chronic autoimmune liver disease characterized by lymphocytic infiltrates and destruction of small and midsized intrahepatic bile ducts.",
+						"Similar findings are seen in hepatic graft versus host disease, highlighting the immunologic etiology of both disorders.",
+						"<strong>antimitochondrial antibody</strong>"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the most likely diagnosis for this individual?",
+									"(A) Alcohol-induced hepatitis",
+									"(B) Autoimmune hepatitis",
+									"(C) Primary biliary cholangitis",
+									"(D) Primary sclerosing cholangitis",
+									"(E) Sarcoidosis"
+							],
+							[
+								"Answer: (C) Primary biliary cholangitis"
+							],
+							[
+								"Primary biliary cholangitis is an autoimmune disorder that most commonly affects middle-aged women and is characterized by fatigue, pruritus, jaundice, cholestasis (eg, elevated alkaline phosphatase, elevated gamma-glutamyl transferase, direct hyperbilirubinemia), and antimitochondrial antibodies."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: D. Graft versus host disease"
+							],
+							[
+								"Primary biliary cholangitis is a chronic autoimmune liver disease characterized by lymphocytic infiltrates and destruction of small and midsized intrahepatic bile ducts.",
+								"Similar findings are seen in hepatic graft versus host disease, highlighting the immunologic etiology of both disorders.",
+								"GVHD occurs in immunocompromised patients following transplant of allogeneic bone marrow or other lymphocyte-rich tissues (eg, nonirradiated blood).",
+								"Donor T-cells migrate into host tissues, where they recognize host major histocompatibility complex antigens as foreign."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"What is the best diagnosis for a liver biopsy that showed fibrous obliteration of intrahepatic bile ducts with concentric replacement by connective tissue?",
+									"(A) Autoimmune hepatitis",
+									"(B) Cytomegalovirus infection",
+									"(C) Hemochromatosis",
+									"(D) Primary biliary cholangitis",
+									"(E) Primary sclerosing cholangitis"
+							],
+							[
+								"Answer: (E) Primary sclerosing cholangitis"
+							],
+							[
+								"Primary sclerosing cholangitis (PSC) is a disorder primarily of males less than 40 years of age that is highly associated with chronic ulcerative colitis and positive p-ANCA (anti-MPO).",
+								"Primary sclerosing cholangitis is characterized by inflammation, fibrosis, and stricture of intrahepatic and extrahepatic bile ducts.",
+								"Histologic findings include fibrous obliteration of bile ducts and concentric periductal connective tissue deposition (eg, onion skin–like pattern).",
+								"Patients with PSC have an increased risk of cholangiocarcinoma (a malignancy of bile ducts) and cancer of the gallbladder",
+								"A characteristic MRI finding is beading of bile ducts due to areas of intrahepatic bile duct strictures alternating with areas of dilation.",
+								"Autoimmune hepatitis is characterized histologically by portal and periportal lymphoplasmacytic infiltration."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L88612.png' target='_blank'>primary biliary cholangitis</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L70843.png' target='_blank'>primary sclerosing cholangitis</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L89586.png' target='_blank'>autoimmune hepatitis</a>"
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 1701",
+        "disease": "portal vein thrombosis",
+		"keyInfo": [
+						"46-year-old man",
+						"large-volume hematemesis",
+						"palpable spleen",
+						"bleeding esophageal varices",
+						"liver biopsy performed 2 days later shows no abnormalities"
+					],
+		"keyUWorldInfo": [
+						"Portal vein thrombosis causes portal hypertension, splenomegaly, and varicosities at portocaval anastomoses.",
+						"It does not cause histologic changes to the hepatic parenchyma.",
+						"Ascites is uncommon as the obstruction is presinusoidal; ascites typically only develops in conditions that cause sinusoidal hypertension."
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: E. Portal vein thrombosis"
+							],
+							[
+								"Portal vein thrombosis causes portal hypertension, splenomegaly, and varicosities at portocaval anastomoses.",
+								"It does not cause histologic changes to the hepatic parenchyma.",
+								"Ascites is uncommon as the obstruction is presinusoidal; ascites typically only develops in conditions that cause sinusoidal hypertension."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L11702.jpg' target='_blank'>portal vein thrombosis</a>"
+							]
+						],
+						[
+							[
+								"QUESTION II",
+								"What would be the diagnosis instead if the liver biopsy in this individual showed centrilobular congestion and necrosis?",
+									"(A) Budd-Chiari syndrome",
+									"(B) Congestive heart failure",
+									"(C) Hepatic artery thrombosis",
+									"(D) Macronodular cirrhosis"
+							],
+							[
+								"Answer: (A) Budd-Chiari syndrome"
+							],
+							[
+								"Budd-Chiari syndrome (BCS) results from <strong>thrombosis of the hepatic vein</strong> (causing hepatic vein obstruction).",
+								"BCS is characterized by the triad of 1) sudden onset of severe right upper quadrant abdominal pain, 2) tender hepatomegaly, and 3) hematemesis (due to bleeding esophageal varices caused by the portal hypertension)."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 16070",
+        "disease": "focal nodular hyperplasia",
+		"keyInfo": [
+						"34-year-old woman",
+						"ruptured plaque in the proximal anterior descending artery with an overlying occlusive thrombus is found",
+						"Incidentally, a 4-cm hepatic mass",
+						"central, gray-white, depressed stellate scar"
+					],
+		"keyUWorldInfo": [
+						"Focal nodular hyperplasia is a benign liver lesion marked by a central stellate scar with radiating fibrous septa that microscopically contain abnormally large, thick-walled arteries.",
+						"It usually arises in asymptomatic young women, and most cases are found incidentally."
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: A. Focal nodular hyperplasia"
+							],
+							[
+								"Focal nodular hyperplasia is a benign liver lesion marked by a central stellate scar with radiating fibrous septa that microscopically contain abnormally large, thick-walled arteries.",
+								"It usually arises in asymptomatic young women, and most cases are found incidentally.",
+								"Hepatic hemangiomas (aka cavernous hemangioma), which are the most common benign hepatic tumor, are usually asymptomatic and are found incidentally.",
+								"Hepatic adenomas are associated with the use of oral contraceptives and anabolic steroids."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L70901.png' target='_blank'>focal nodular hyperplasia gross</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L75172.jpg' target='_blank'>focal nodular hyperplasia histology</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/U1170.jpg' target='_blank'>hepatic hemangioma</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L3659.png' target='_blank'>hepatic adenoma</a>"
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 56",
+        "disease": "hepatocellular carcinoma",
+		"keyInfo": [
+						"58-year-old man",
+						"chronic liver disease secondary to hepatitis C infection",
+						"solid mass within the liver parenchyma",
+						"large cells with prominent nucleoli arranged in thickened plates",
+						"serum markers"
+					],
+		"keyUWorldInfo": [
+						"Alpha-fetoprotein is a serum tumor marker that is often moderately elevated in patients with chronic viral hepatitis.",
+						"However, it can be strikingly elevated in those with hepatocellular carcinoma, and a sudden rise can be a sign that a patient with chronic liver disease is harboring hepatocellular carcinoma."
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis?",
+									"(A) Cholangiocarcinoma",
+									"(B) Hepatic angiosarcoma",
+									"(C) Hepatoblastoma",
+									"(D) Hepatocellular adenoma",
+									"(E) Hepatocellular carcinoma",
+									"(F) Metastatic colon cancer",
+							],
+							[
+								"Answer: (E) Hepatocellular carcinoma"
+							],
+							[
+								"Hepatocellular carcinoma (HCC) occurs in up to 25% of patients with chronic hepatitis C virus (HCV).",
+								"Suspicion for HCC is often raised when patients with chronic HCV develop worsened underlying cirrhotic symptoms such as fatigue, ascites, variceal bleeding, abdominal discomfort, or jaundice.",
+								"Biopsies of hepatocellular carcinomas reveal cords of malignant cells that have cytoplasmic bile."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: B. Alpha-fetoprotein"
+							],
+							[
+								"Alpha-fetoprotein is a serum tumor marker that is often moderately elevated in patients with chronic viral hepatitis.",
+								"However, it can be strikingly elevated in those with hepatocellular carcinoma, and a sudden rise can be a sign that a patient with chronic liver disease is harboring hepatocellular carcinoma."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L67569.png' target='_blank'>normal vs hepatocellular carcinoma</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L87737.png' target='_blank'>hepatocellular carcinoma histology</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L77807.png' target='_blank'>hepatic angiosarcoma</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L63091.png' target='_blank'>intrahepatic cholangiocarcinoma</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L62765.jpg' target='_blank'>cholangiocarcinoma</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L1092.jpg' target='_blank'>metastatic colon cancer</a>"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Which one of the following is most likely to be associated with the development of a hepatocellular carcinoma?",
+									"(A) Exposure to thorotrast",
+									"(B) Exposure to vinyl chloride",
+									"(C) Ingestion of aflatoxin",
+									"(D) Increased serum triglyceride",
+									"(E) Liver fluke infection"
+							],
+							[
+								"Answer: (C) Ingestion of aflatoxin"
+							],
+							[
+								"Aflatoxin B1 is a carcinogen produced by Aspergillus that contaminates food (eg, corn) in hot, humid environments (eg, Southeast Asia).",
+								"Chronic aflatoxin B1 ingestion is associated with inactivating p53 mutations that increases the risk for hepatocellular carcinoma",
+								"Liver angiosarcomas are highly aggressive malignant tumors that arise from the endothelial cells of the sinusoids of the liver (histologic marker is CD31).",
+								"Liver angiosarcomas are associated with certain chemicals, such as vinyl chloride (factory workers with plastic pipes), arsenic, and Thorotrast (a previous radiologic dye)."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 59",
+        "disease": "liver metastases",
+		"keyInfo": [
+						"53-year-old man",
+						"progressively worsening anorexia and abdominal discomfort",
+						"lost 14 kg (31 lb)",
+						"nontender hepatomegaly",
+						"elevated serum alkaline phosphatase"
+					],
+		"keyUWorldInfo": [
+						"Malignant hepatic lesions most often represent metastasis from another primary site (eg, breast, lung, colon); primary liver neoplasms (eg, hepatocellular carcinoma) are much less common."
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: F. Metastatic liver disease"
+							],
+							[
+								"Metastatic liver disease is the most common type of tumor found in the liver.",
+								"Grossly there usually are multiple tumor nodules, which microscopically usually resemble the primary tumor."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/U27948.png' target='_blank'>metastatic cancer to the liver gross</a>"
+							]
+						],
+						[
+							[
+								"QUESTION II (<strong>based on a UWorld question</strong>)",
+								"Which of the following is the most likely cause of this patient's liver lesions?",
+									"(A) Lymphatic spread of a malignancy",
+									"(B) Malignancy metastasizing via the hepatic veins",
+									"(C) Malignancy spreading through the portal circulation",
+									"(D) Primary neoplastic transformation of hepatocytes",
+									"(E) Transcoelomic spread of a malignancy"
+							],
+							[
+								"Answer: (C) Malignancy spreading through the portal circulation"
+							],
+							[
+								"Colorectal cancer is the most common cause of hepatic metastases due to direct blood flow from the colon (and superior rectum) to the liver via the portal venous circulation.",
+								"Metastatic colorectal cancer to the liver histologically reveals adenocarcinoma."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 16116",
+        "disease": "cholesterol gallstones",
+		"keyInfo": [
+						"40-year-old woman",
+						"recurrent episodes of postprandial abdominal pain",
+						"right upper quadrant",
+						"obesity",
+						"tenderness in the right upper quadrant",
+						"multiple gallstones"
+					],
+		"keyUWorldInfo": [
+						"Most gallstones occur due to the supersaturation of cholesterol, which precipitates out of bile with mucin and calcium salts to form white or yellow cholesterol stones.",
+						"Factors that promote the formation of cholesterol stones include increased cholesterol synthesis, gallbladder hypomotility, increased calcium or mucin concentration, and decreased bile acid synthesis or recirculation."
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the most likely main composition of these gallstones?",
+									"(A) Bilirubin",
+									"(B) Calcium",
+									"(C) Cholesterol",
+									"(D) Copper",
+									"(E) Triglyceride"
+							],
+							[
+								"Answer: (C) Cholesterol"
+							],
+							[
+								"In the United States, most gallstones are due to the supersaturation of cholesterol, which usually precipitates out of bile with calcium salts and mucin, forming white or yellow cholesterol stones",
+								"Risk factors for gallstone formation include obesity or rapid weight loss, female sex, glucose intolerance, and hypomotility of the gallbladder (eg, pregnancy, prolonged fasting)."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/' target='_blank'></a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/' target='_blank'></a>"
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: D. Increased cholesterol synthesis"
+							],
+							[
+								"Most gallstones occur due to the supersaturation of cholesterol, which precipitates out of bile with mucin and calcium salts to form white or yellow cholesterol stones.",
+								"Factors that promote the formation of cholesterol stones include increased cholesterol synthesis, gallbladder hypomotility, increased calcium or mucin concentration, and decreased bile acid synthesis or recirculation."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L26878.png' target='_blank'>cholesterol gallstones</a>"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Decreased activity of which of the following enzymes would most likely have contributed to the formation of these cholesterol stones?",
+									"(A) Aromatase",
+									"(B) β-glucuronidase",
+									"(C) Cholesterol 7α-hydroxylase",
+									"(D) HMG-CoA reductase",
+									"(E) Thiolase"
+							],
+							[
+								"Answer: (C) Cholesterol 7α-hydroxylase"
+							],
+							[
+								"Elevated cholesterol concentrations increase the likelihood of cholesterol precipitation and gallstone formation.",
+								"High levels of bile salts and phosphatidylcholine increase cholesterol solubility and decrease the risk of gallstones.",
+								"Cholesterol 7α-hydroxylase catalyzes the rate-limiting step in the synthesis of bile acids.",
+								"The reduced bile acid production results in decreased cholesterol solubility in bile and favors the formation of cholesterol stones.",
+								"The end result is the cholesterol gallstone formation is increased with increased cholesterol, decreased bile acids, and decreased phosphatidylcholine in the bile."
+							]
+						],
+						[
+							[
+								"QUESTION IV (<strong>based on a UWorld question</strong>)",
+								"A cholecystokinin stimulation test that shows slow and incomplete gallbladder emptying is most likely to have which of the following pathologic findings?",
+									"(A) Biliary sludge",
+									"(B) Black pigment stones",
+									"(C) Brown pigment stones",
+									"(D) Cystine stones",
+									"(E) Uric acid stones"
+							],
+							[
+								"Answer: (A) Biliary sludge"
+							],
+							[
+								"The gallbladder functions to actively absorb water from bile.",
+								"Gallbladder hypomotility causes the bile to become concentrated, promoting precipitation and accumulation of particulate material.",
+								"This forms a viscous biliary sludge that can cause transient bile duct obstruction (biliary colic) and promote cholesterol gallstone formation."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 69",
+        "disease": "bilirubin gallstones",
+		"keyInfo": [
+						"44-year-old woman",
+						"right upper quadrant abdominal discomfort and nausea with fatty meals, which subside spontaneously after several hours",
+						"immigrated to the United States from Nepal 10 years ago",
+						"numerous gallstones",
+						"very low cholesterol content and appear small, dark, and spiculated"
+					],
+		"keyUWorldInfo": [
+						"Black pigment stones arise from conditions that increase the amount of unconjugated bilirubin in bile, which promotes calcium bilirubinate precipitation.",
+						"his may occur in the setting of chronic hemolysis (eg, sickle cell anemia, β-thalassemia, hereditary spherocytosis) and increased enterohepatic cycling of bilirubin (eg, ileal disease)."
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the most likely main composition of these gallstones?",
+									"(A) Bilirubin",
+									"(B) Carbon",
+									"(C) Cholesterol",
+									"(D) Copper",
+									"(E) Triglyceride"
+							],
+							[
+								"Answer: (A) Bilirubin"
+							],
+							[
+								"Black gallstones are black molded, radiopaque gallstones that are composed of bilirubin.",
+								"Grossly, black pigment stones are usually present in significant numbers and are small, spiculated, and friable.",
+								"These stones arise from conditions that increase the amount of unconjugated bilirubin in bile, which promotes calcium bilirubinate precipitation.",
+								"Pigment gallstones, which account for only 10%-25% of gallstone cases in the United States, are most common in rural Asian populations."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: A. Chronic hemolysis"
+							],
+							[
+								"Black pigment stones arise from conditions that increase the amount of unconjugated bilirubin in bile, which promotes calcium bilirubinate precipitation.",
+								"This may occur in the setting of chronic hemolysis (eg, sickle cell anemia, β-thalassemia, hereditary spherocytosis) and increased enterohepatic cycling of bilirubin (eg, ileal disease)."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/U26806.jpg' target='_blank'>bilirubin stones</a>"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Which of the following is most likely responsible for the development of black gallstones in an individual with <strong>sickle cell anemia</strong>?",
+									"(A) Altered enterohepatic circulation of bilirubin",
+									"(B) Biliary stasis due to lack of enteral stimulation",
+									"(C) Decreased gallbladder motility due to denervation",
+									"(D) Impaired bile acid synthesis",
+									"(E) Increased cholesterol synthesis",
+									"(F) Increased efflux of bilirubin into bile"
+							],
+							[
+								"Answer: (F) Increased efflux of bilirubin into bile"
+							],
+							[
+								"Black gallstones form due to supersaturation of the bile with bilirubin, which precipitates with calcium to form calcium bilirubinate stones.",
+								"This typically occurs in the setting of chronic hemolysis (eg, sickle cell disease) or altered enterohepatic circulation of bilirubin (eg, Crohn disease, ileal resection).",
+								"Chronic hemolysis, as seen in sickle cell anemia, hereditary spherocytosis, and thalassemia, increases circulating levels of free bilirubin, which is taken up by the liver and excreted into bile.",
+								"A patient with sickle cell anemia most likely has chronic hemolysis, which has increased bilirubin efflux into the bile, promoting formation of black stones."
+							]
+						],
+						[
+							[
+								"QUESTION IV (<strong>based on a UWorld question</strong>)",
+								"Which of the following is most likely responsible for the development of black gallstones in an individual with <strong>Crohn disease</strong>?",
+									"(A) Gallbladder hypomobility",
+									"(B) Increased bile acid wasting",
+									"(C) Increased intestinal oxalate absorption",
+									"(D) Medication side effect",
+									"(E) Red blood cell destruction"
+							],
+							[
+								"Answer: (B) Increased bile acid wasting"
+							],
+							[
+								"Altered enterohepatic circulation of bilirubin is one cause of bilirubin gallstone formation, which can result from ileal disease (eg, Crohn disease) or resection allows bile acids, which are normally reabsorbed in the ileum, to spill into the colon.",
+								"Patients with Crohn disease affecting the terminal ileum (most common site of involvement) are prone to developing gallstones.",
+								"Decreased bile acid reabsorption by the inflamed terminal ileum promotes cholesterol supersaturation of the bile, resulting in gallstone formation.",
+								"When the mucosa of the terminal ileum is inflamed, bile acids are lost in the feces.",
+								"As a result, a lesser amount of bile acid is present in the bile, so the ratio of cholesterol/bile acids increases.  Supersaturation of the bile with cholesterol then leads to formation of gallstones."
+							]
+						],
+						[
+							[
+								"QUESTION V (<strong>based on a UWorld question</strong>)",
+								"Which of the following enzymes is most likely responsible for the development of <strong>brown gallstones</strong>?",
+									"(A) 7-alpha-hydroxylase",
+									"(B) Aromatase",
+									"(C) Beta-glucuronidase",
+									"(D) Desmolase",
+									"(E) HMG-CoA reductase"
+							],
+							[
+								"Answer: (C) Beta-glucuronidase"
+							],
+							[
+								"Brown pigment stones typically arise secondary to bacterial (eg, Escherichia coli) or helminthic (eg, Ascaris lumbricoides, Clonorchis sinensis) infection of the biliary tract.",
+								"This results in the release of beta-glucuronidase by injured hepatocytes and bacteria.",
+								"This enzyme hydrolyzes bilirubin glucuronides and increases the amount of unconjugated bilirubin.",
+								"The liver fluke Clonorchis sinensis has a high prevalence in East Asian countries and is a common cause of pigment stones."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 1525",
+        "disease": "gallstone ileus",
+		"keyInfo": [
+						"68-year-old woman",
+						"2-day history of crampy abdominal pain and vomiting",
+						"Several months ago, the patient had an episode of acute calculous cholecystitis that was managed non-operatively",
+						"distended, tympanic abdomen with high-pitched bowel sounds",
+						"air in the gallbladder and biliary tree"
+					],
+		"keyUWorldInfo": [
+						"Gallstone ileus results from passage of a large gallstone through a cholecystenteric fistula into the small bowel, where it ultimately causes obstruction at the ileum.",
+						"Patients typically present with symptoms/signs of small bowel obstruction, and an abdominal x-ray may reveal gas within the gallbladder and biliary tree."
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis?",
+									"(A) Acute cholangitis",
+									"(B) Ascending cholangitis",
+									"(C) Gallstone ileus",
+									"(D) Meconium ileus"
+							],
+							[
+								"Answer: (C) Gallstone ileus"
+							],
+							[
+								"Gallstone ileus refers to obstruction of the small intestines by a gallstone.",
+								"A large (typically >2.5 cm) gallstone causes formation of a cholecystoenteric fistula between the gallbladder and adjoining gut (most often the duodenum) due to pressure necrosis and erosion of these tissues.",
+								"Patients with a gallstone ileus present with symptoms/signs of small bowel obstruction.",
+								"A CT scan will show (<strong>air in the biliary tree (pneumobilia)</strong>), due to retrograde passage of air through the cholecystoenteric fistula."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: D. Ileum"
+							],
+							[
+								"Gallstone ileus results from passage of a large gallstone through a cholecystenteric fistula into the small bowel, where it ultimately causes obstruction at the ileum, the narrowest portion of the intestine."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L25854.jpg' target='_blank'>gallstone ileus</a>"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Which of the following is the most likely underlying cause of <strong>acute cholangitis</strong>?",
+									"(A) Acinar cell dysfunction and necrosis",
+									"(B) Calculous obstruction of the common bile duct",
+									"(C) Extensive hepatic formation of noncaseating granulomas",
+									"(D) Immune-mediated destruction of hepatocytes",
+									"(E) Medication overdose with hepatic failure",
+									"(F) Neoplastic mass in the pancreatic tail"
+							],
+							[
+								"Answer: (B) Calculous obstruction of the common bile duct"
+							],
+							[
+								"Acute cholangitis, aka ascending cholangitis, refers to bacterial infection of the biliary tree (bile is normally sterile).",
+								"The precipitating event is usually a gallstone blocking common bile duct.",
+								"Acute cholangitis is a life-threatening infection characterized by fever, right upper quadrant pain, and jaundice (Charcot triad).",
+								"Hypotension and altered mental status (Reynold pentad) occur in severe cases."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 79",
+        "disease": "acute cholecystitis",
+		"keyInfo": [
+						"46-year-old woman",
+						"3 days of persistent upper abdominal pain, nausea, and vomiting",
+						"similar pain in the past, especially after fatty meals, which resolved spontaneously within several hours",
+						"101.5 F",
+						"severe right upper quadrant tenderness",
+						"Leukocyte count is 21,000/mm3",
+						"erythematous, distended gallbladder with patchy necrosis"
+					],
+		"keyUWorldInfo": [
+						"Acute calculous cholecystitis is an acute inflammation of the gallbladder initiated by gallstone obstruction of the cystic duct.",
+						"bacterial invasion",
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis for this individual?",
+									"(A) acute cholangitis",
+									"(B) acute cholecystitis",
+									"(C) adenocarcinoma",
+									"(D) cholesterolosis",
+									"(E) chronic cholecystitis"
+							],
+							[
+								"Answer: (B) acute cholecystitis"
+							],
+							[
+								"Acute cholecystitis refers to acute inflammation of the gallbladder (consists of neutrophils).",
+								"Signs of acute cholecystitis include acute colicky RUQ pain with fever and leukocytosis (increased white blood cells in the peripheral blood).",
+								"Pain may <strong>radiate to the right shoulder</strong> since the phrenic nerve originates from C3-C5 and has somatic sensation to shoulder.",
+								"Murphy sign, which refers to pain while palpating RUQ with deep inhalation, is positive in acute cholecystitis."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: C. Gallbladder outflow obstruction"
+							],
+							[
+								"Acute calculous cholecystitis is an acute inflammation of the gallbladder initiated by gallstone obstruction of the cystic duct.",
+								"The gallbladder may be secondarily infected with EEEK! bugs.",
+								"Patients typically present with persistent right upper quadrant pain, fever, and leukocytosis.",
+								"The diagnosis can be made by identifying signs of gallbladder inflammation (eg, wall thickening, pericholecystic fluid) on ultrasonography.",
+								"When ultrasound is inconclusive, nuclear medicine hepatobiliary scanning (ie, cholescintigraphy) can be used to assess cystic duct patency and make the diagnosis.",
+								"In acute or chronic cholecystitis the gallbladder will not be visualized due to the obstruction"
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"What disorder <strong>typically occurs in critically ill patients (eg, those with sepsis, severe burns, trauma, immunosuppression) due to gallbladder stasis and ischemia</strong>?",
+									"(A) acute acalculous cholecystitis",
+									"(B) acute calculous cholecystitis",
+									"(C) adenocarcinoma",
+									"(D) cholesterolosis",
+									"(E) chronic cholecystitis"
+							],
+							[
+								"Answer: (A) acute acalculous cholecystitis"
+							],
+							[
+								"Acute acalculous cholecystitis is an acute inflammation of the gallbladder in the absence of gallstones.",
+								"Acalculous cholecystitis is a life-threatening disorder seen in critically ill patients that is caused by gallbladder stasis and ischemia or biliary sludge.",
+								"Clinical findings may be subtle and include fever, right upper quadrant pain, and leukocytosis."
+							]
+						],
+						[
+							[
+								"QUESTION IV (<strong>based on a UWorld question</strong>)",
+								"An individual with the abnormality seen in this <a contenteditable='false' href='https://lp.uworld.com/media/L406.jpg' target='_blank'>picture</a> is at elevated risk for which of the following conditions?",
+									"(A) Ascending cholangitis",
+									"(B) Cholangiocarcinoma",
+									"(C) Gallbladder adenocarcinoma",
+									"(D) Hepatocellular carcinoma",
+									"(E) Liver cirrhosis"
+							],
+							[
+								"Answer: (C) Gallbladder adenocarcinoma"
+							],
+							[
+								"Porcelain gallbladder is a potential manifestation of chronic cholecystitis and is often found in association with multiple gallstones.",
+								"It is due to dystrophic intramural deposition of calcium salts in the setting of chronic inflammation.",
+								"Porcelain gallbladder is associated with an increased risk of adenocarcinoma of the gallbladder.",
+								"Therefore, treatment is surgical removal of the gallbladder."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 358",
+        "disease": "cystic fibrosis",
+		"keyInfo": [
+						"18-year-old man",
+						"cough, fever, and hypoxemia",
+						"non-lactose-fermenting gram-negative rod",
+						"dies of overwhelming pneumonia complicated by respiratory failure",
+						"hospitalized for recurrent episodes of multi-lobar pneumonia, sinusitis, and poor growth",
+						"both vas deferens are absent"
+					],
+		"keyUWorldInfo": [
+						"The most common gastrointestinal disorder in patients with cystic fibrosis is pancreatic insufficiency.",
+						"Mutations in the cystic fibrosis transmembrane conductance regulator gene lead to thick, viscous secretions in the lumens of the pancreas, resulting in obstruction, inflammation, and subsequent fibrosis.",
+						"Clinical manifestations include steatorrhea, failure to thrive, and deficiency of fat-soluble vitamins.",
+						"",
+						"",
+						"<strong></strong>",
+						""
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I",
+								"What is the best diagnosis?",
+									"(A) Annular pancreas",
+									"(B) Cystic fibrosis",
+									"(C) Pancreatic choristoma",
+									"(D) Pancreas divisum",
+									"(E) Pancreatic hamartoma"
+							],
+							[
+								"Answer: (B) Cystic fibrosis"
+							],
+							[
+								"Cystic fibrosis (CF) is an autosomal recessive disorder that is caused by mutations in CFTR gene (chloride channel) on chromosome 7.",
+								"Clinical manifestations of CF include steatorrhea, failure to thrive, and deficiency of fat-soluble vitamins.",
+								"Pneumonia due to a non-lactose-fermenting, gram-negative rod (Pseudomonas aeruginosa or Burkholderia cepacia) is very common. Pseudomonas species have a green color (greenish sputum).",
+								"The presence of nasal polyps in children is suggestive of cystic fibrosis.",
+								"Almost all males born with cystic fibrosis have congenital bilateral absence of the vas deferens, which results in azoospermia and infertility."
+							]
+						],
+						[
+							["UWorld"],
+							[
+								"Answer: A. Distension and obstruction of pancreatic ducts"
+							],
+							[
+								"The most common gastrointestinal disorder in patients with cystic fibrosis is pancreatic insufficiency.",
+								"Mutations in the cystic fibrosis transmembrane conductance regulator gene lead to thick, viscous secretions in the lumens of the pancreas, resulting in obstruction, inflammation, and subsequent fibrosis.",
+								"Pancreatic duct obstruction and distension due to viscous mucus and subsequent inflammation develop in utero, eventually leading to fibrosis."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Which of the following is most likely present in an individual with cystic fibrosis?",
+									"(A) Decreased fecal calcium content",
+									"(B) Decreased fecal elastase",
+									"(C) Increased fecal calprotectin",
+									"(D) Increased fecal chymotrypsin",
+									"(E) Increased pancreatic bicarbonate secretion"
+							],
+							[
+								"Answer: (B) Decreased fecal elastase"
+							],
+							[
+								"Pancreatic insufficiency is common in cystic fibrosis because thick, viscous secretions in the pancreas block digestive enzymes, leading to malabsorption (eg, steatorrhea, failure to thrive).",
+								"Because elastase production and secretion are decreased in patients with pancreatic insufficiency, fecal elastase levels are also decreased.",
+								"The presence of low fecal elastase is an accurate and noninvasive method for diagnosing pancreatic insufficiency of any cause (eg, CF, chronic pancreatitis)."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 439",
+        "disease": "acute pancreatitis",
+		"keyInfo": [
+						"35-year-old man",
+						"2-day history of abdominal pain",
+						"Autopsy reveals chalky white lesions in the mesentery",
+						"adipose cell destruction and calcium deposition"
+					],
+		"keyUWorldInfo": [
+						"In acute pancreatitis, release of lipase and other digestive enzymes causes fat necrosis with precipitation of insoluble calcium salts (ie, saponification), imparting a chalky white gross appearance.",
+						"Microscopically, necrotic fat cells with calcium deposits are seen."
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: A. Acute pancreatitis"
+							],
+							[
+								"Acute pancreatitis is usually associated with increased serum levels of pancreatic enzymes, mainly <strong>amylase and lipase</strong>.",
+								"In acute pancreatitis, release of lipase and other digestive enzymes causes fat necrosis with precipitation of insoluble calcium salts (ie, saponification), imparting a chalky white gross appearance.",
+								"Microscopically, necrotic fat cells with calcium deposits are seen.",
+								"Elastase-mediated destruction of blood vessel walls can cause hemorrhage into the necrotic areas (ie, hemorrhagic pancreatitis), and black hemorrhage may be seen grossly."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L76080.png' target='_blank'>fat necrosis histology</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L3686.png' target='_blank'>acute pancreatitis histology</a>"
+							]
+						],
+						[
+							[
+								"QUESTION II (<strong>based on a UWorld question</strong>)",
+								"The inappropriate activation of which of the following most likely initiated acute pancreatitis?",
+									"(A) Amylase",
+									"(B) Chymotrypsinogen",
+									"(C) Lipase",
+									"(D) Proelastase",
+									"(E) Prophospholipase",
+									"(F) Trypsinogen"
+							],
+							[
+								"Answer: (F) Trypsinogen"
+							],
+							[
+								"Pancreatic zymogens are normally converted into their active form by trypsin in the duodenal lumen.",
+								"Premature cleavage of trypsinogen to trypsin within the pancreas leads to uncontrolled activation of these zymogens, causing pancreatic autodigestion and acute pancreatitis."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Abdominal ultrasound in an individual with acute pancreatitis reveals a normal gallbladder and common bile duct.  Which of the following laboratory findings is most specific for the most likely underlying cause of acute pancreatitis in this individual?",
+									"(A) Decreased serum calcium",
+									"(B) Increased RBC size",
+									"(C) Increased serum glucose",
+									"(D) Increased serum sodium",
+									"(E) Increased WBC count"
+							],
+							[
+								"Answer: (B) Increased RBC size"
+							],
+							[
+								"Gallstones and alcohol use are the two most common causes of acute pancreatitis.",
+								"Macrocytosis and an AST:ALT ratio >2 are indirect indicators of chronic alcohol consumption."
+							]
+						],
+						[
+							[
+								"QUESTION IV (<strong>based on a UWorld question</strong>)",
+								"Which of the following tests should be considered during the workup of a patient with acute pancreatitis not due to gallstones or alcohol use?",
+									"(A) Serum ceruloplasmin",
+									"(B) Serum cholesterol",
+									"(C) Serum ferritin",
+									"(D) Serum triglycerides",
+									"(E) Serum uric acid"
+							],
+							[
+								"Answer: (D) Serum triglycerides"
+							],
+							[
+								"Other less frequent causes of acute pancreatitis include hypercalcemia (calcium stimulates the activation of trypsinogen in the pancreatic duct) and hyperlipidemias (especially markedly increased triglycerides, so need to check serum triglycerides)",
+								"High levels of circulating triglycerides lead to increased production of free fatty acids within the pancreatic capillaries by pancreatic lipase.",
+								"If serum triglyceride levels rise to >1000 mg/dL, the concentration of free fatty acids exceeds the binding capacity of albumin and leads to direct injury to the pancreatic acinar cells."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 1547",
+        "disease": "chronic pancreatitis",
+		"keyInfo": [
+						"54-year-old man",
+						"abdominal pain, chronic diarrhea, and recent weight loss",
+						"episodic abdominal pain in the past, but lately it has become persistent and worsens after eating",
+						"does consume alcohol regularly",
+						"calcifications in the epigastric area"
+					],
+		"keyUWorldInfo": [
+						"Diarrhea, weight loss, and epigastric calcifications in a patient with chronic alcohol use suggest chronic pancreatitis with resulting pancreatic exocrine insufficiency and malabsorption.",
+						"<strong>exocrine insufficiency</strong>"
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: B. Digestive enzyme deficiency"
+							],
+							[
+								"Diarrhea, weight loss, and epigastric calcifications in a patient with chronic alcohol use suggest chronic pancreatitis with resulting pancreatic exocrine insufficiency and malabsorption.",
+								"It is thought that alcohol-related chronic pancreatitis develops in part due to alcohol-induced secretion of protein-rich fluid.",
+								"These proteinaceous secretions can precipitate within the pancreatic ducts, forming ductal plugs that may calcify and obstruct ducts causing exocrine insufficiency.",
+								"<strong>Low fecal elastase</strong> support the diagnosis of pancreatic exocrine insufficiency."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L530.jpg' target='_blank'>chronic pancreatitis CT scan</a>"
+							]
+						],
+						[
+							[
+								"QUESTION II (<strong>based on a UWorld question</strong>)",
+								"What is the best diagnosis for the lesion marked with an asterisk in this <a contenteditable='false' href='https://lp.uworld.com/media/PancreaticPseudocyst.gif' target='_blank'>CT scan of the abdomen</a>?",
+									"(A) Apocrine hydrocystoma",
+									"(B) Eccrine hydrocystoma",
+									"(C) Mucinous cystadenoma",
+									"(D) Pancreatic pseudocyst",
+									"(E) Serous cystadenoma"
+							],
+							[
+								"Answer: (D) Pancreatic pseudocyst"
+							],
+							[
+								"Complications of acute or chronic pancreatitis include the formation of a nonmotile fluid-filled mass next to pancreas, called a pancreatic pseudocyst.",
+								"It is a collection of fluid rich in enzymes and inflammatory debris."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"The inner walls of this lesion are most likely lined with:",
+									"(A) Atypical cells forming papillary projections",
+									"(B) Columnar mucinous epithelium",
+									"(C) Endothelial cells",
+									"(D) Fibrous and granulation tissue",
+									"(E) Glycogen-rich cuboidal epithelium"
+							],
+							[
+								"Answer: (D) Fibrous and granulation tissue"
+							],
+							[
+								"Unlike true cysts, pancreatic pseudocysts are not lined by epithelium.",
+								"Its walls consist of granulation tissue and fibrosis."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 21994",
+        "disease": "pancreatic adenocarcinoma",
+		"keyInfo": [
+						"62-year-old man",
+						"nawing epigastric pain radiating to the back",
+						"10-kg (22-lb) weight loss and yellowing of the eyes",
+						"cachectic",
+						"scleral icterus"
+					],
+		"keyUWorldInfo": [
+						"Pancreatic ductal adenocarcinoma is the most common pancreatic malignancy and typically presents with epigastric pain, weight loss, jaundice (more common if in the pancreatic head), or back pain (more common if in the pancreatic body/tail).",
+						"ill-defined hypoattenuating lesion within the pancreatic parenchyma",
+						"haphazardly arranged pleomorphic glandular cells surrounded by dense stromal fibrosis",
+						"Jaundice is more common in cancers of the pancreatic head due to obstruction of extrahepatic bile ducts but can also occur in large tumors of the pancreatic body or tail."
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: D. Pancreatic duct epithelium"
+							],
+							[
+								"Pancreatic ductal adenocarcinoma is the most common pancreatic malignancy and typically presents with epigastric pain, weight loss, jaundice (more common if in the pancreatic head), or back pain (more common if in the pancreatic body/tail).",
+								"Jaundice is more common in cancers of the pancreatic head due to obstruction of extrahepatic bile ducts but can also occur in large tumors of the pancreatic body or tail.",
+								"Pancreatic ductal adenocarcinoma appears radiographically as an ill-defined hypoattenuating lesion within the pancreatic parenchyma.",
+								"It is characterized microscopically by haphazardly arranged pleomorphic glandular cells surrounded by dense stromal fibrosis (eg, desmoplasia)."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L14763.png' target=L14763.png'_blank'>pancreatic neoplasm CT scan labeled</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L77844.png' target='_blank'>pancreatic adenocarcinoma histology</a>"
+							]
+						],
+						[
+							[
+								"QUESTION II",
+								"Which one of the following clinical signs refers to the differential diagnosis of the cause of obstructive jaundice?",
+									"(A) Courvoisier sign",
+									"(B) Cullen sign",
+									"(C) Murphy sign",
+									"(D) Romana sign",
+									"(E) Trousseau sign"
+							],
+							[
+								"Answer: (A) Courvoisier sign"
+							],
+							[
+								"Courvoisier law states that obstructive jaundice in the presence of a dilated gallbladder is most suggestive of cancer of the head of the pancreas.",
+								"This is because the obstruction causes the gallbladder to dilate.",
+								"Most patients with gallstones have cholecystitis, which is associated with a thickened gallbladder wall that prevents the gallbladder from dilating. Therefore, if the obstruction is due to a gallstone, the gallbladder will not dilate and will not be palpable.",
+								"<strong>Trousseau sign refers to the presence of migratory thrombophlebitis</strong> (recurrent venous thrombosis in different veins with simultaneous thrombophlebitis = warm, red, swollen skin with tender cord-like structure).",
+								"Trousseau sign may be associated with visceral malignancy, especially pancreatic adenocarcinoma.",
+								"Cullen sign (ecchymoses, or bruising, around the umbilicus) is characteristic of acute pancreatitis.",
+								"Murphy sign (pain with palpation of RUQ during inspiration) is characteristic of acute cholecystitis.",
+								"Romana sign (unilateral painless periorbital swelling) is characteristic of trypanasoma infection."
+							]
+						],
+						[
+							[
+								"QUESTION III (<strong>based on a UWorld question</strong>)",
+								"Suppose that <a contenteditable='false' href='https://lp.uworld.com/media/U68785.jpg' target='_blank'>biopsies of the pancreatic mass</a> show tumor cells that are positive for synaptophysin and chromogranin A.  Which of the following would be the most likely diagnosis?",
+									"(A) Ductal adenocarcinoma of the pancreas",
+									"(B) Metastatic colonic adenocarcinoma",
+									"(C) Metastatic melanoma",
+									"(D) Neuroendocrine tumor of the pancreas",
+									"(E) Schwannoma"
+							],
+							[
+								"Answer: (D) Neuroendocrine tumor of the pancreas"
+							],
+							[
+								"Pancreatic neuroendocrine tumors are histologically characterized by uniform tumor cells with an organoid architecture (eg, nested, glandular, ribbon, or pseudorosette arrangement).",
+								"The cells have characteristic salt-and-pepper chromatin, as well as granular cytoplasm, and stain positive for synaptophysin and chromogranin A."
+							],
+							[
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L74476.png' target='_blank'>pancreatic neuroendocrine tumor histology labeled</a>",
+								"<a contenteditable='false' href='https://lp.uworld.com/media/L74475.png' target='_blank'>pancreatic neuroendocrine tumor special stains</a>"
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 8531",
+        "disease": "insulinoma",
+		"keyInfo": [
+						"43-year-old woman",
+						"episodic confusion, blurred vision, tremors, and sweating",
+						"relieved by drinking orange juice",
+						"blood glucose level was 32 mg/dL",
+						"Glucose",
+						"Insulin",
+						"C-peptide"
+					],
+		"keyUWorldInfo": [
+						"Hypoglycemia is characterized by tremor, diaphoresis, and confusion in association with a low blood glucose level and resolution of symptoms when the blood glucose level is corrected.",
+						"Hypoglycemia with elevated insulin and low C-peptide levels suggests exogenous insulin injection"
+					],
+		"questions": [
+						[
+							[
+								"QUESTION I (<strong>based on this UWorld question</strong>)",
+								"Which of the following is the most likely cause of this patient's symptoms?",
+									"(A) Alpha cell tumor",
+									"(B) Insulin administration",
+									"(C) Insulinoma",
+									"(D) Somatostatinoma",
+									"(E) VIP-secreting tumor"
+							],
+							[
+								"Answer: (C) Insulinoma"
+							],
+							[
+								"Insulinomas, most of which are benign, are an insulin-secreting tumors that originates from the beta cells of the islets of Langerhan in the pancreas (pancreatic β-cell tumor).",
+								"The classic triad of symptoms associated with insulinomas is called Whipple triad and consists of 1) hypoglycemia (secondary to increased insulin), 2) symptoms of hypoglycemia (such as confusion and effects of epinephrine, e.g., sweating, and increased heart rate), and 3) relief of these symptoms with glucose intake.",
+								"Hypoglycemia is characterized by tremor, diaphoresis, and confusion in association with a low blood glucose level and resolution of symptoms when the blood glucose level is corrected.",
+								"C peptide, a product of insulin synthesis (not present in exogenous manufactured insulin), has no known physiologic function; however, its levels can be useful in the evaluation of patients who present with decreased serum glucose levels and increased insulin levels.",
+								"Hypoglycemia with elevated insulin and low C-peptide levels suggests exogenous insulin injection.",
+								"Elevated C-peptide suggests an insulin secretagogue or insulin-secreting tumor.",
+								"Exogenous insulin injection may be excess self-medication, fictitious injection, such as with Munchausen syndrome (factitious disorder imposed on another), or murder."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 586",
+        "disease": "gastrinoma",
+		"keyInfo": [
+						"46-year-old woman",
+						"persistent diarrhea, weight loss, and abdominal pain",
+						"postbulbar duodenal and jejunal ulcers"
+					],
+		"keyUWorldInfo": [
+						"Zollinger-Ellison syndrome is caused by gastrin-secreting tumors (gastrinomas) involving the small intestine or pancreas.",
+						"peptic ulcers (often beyond the duodenal bulb)",
+						"frequently associated with multiple endocrine neoplasia type 1"
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: A. Gastrin"
+							],
+							[
+								"Gastrinomas, most of which are malignant, are gastrin-secreting tumors (best initial test is fasting gastrin levels) that arise from G cells (usually arise from the pancreas or duodenum).",
+								"Gastrinomas are characterized by recurrent peptic ulcers of duodenum and jejunum (often beyond the duodenal bulb)."
+							]
+						],
+						[
+							[
+								"QUESTION II",
+								"Which of the following is the best diagnosis for this individual?",
+									"(A) Boerhaave syndrome",
+									"(B) Gardener syndrome",
+									"(C) Turcot syndrome",
+									"(D) Vermer-Morrison syndrome",
+									"(E) Zollinger-Ellison syndrome"
+							],
+							[
+								"Answer: (E) Zollinger-Ellison syndrome"
+							],
+							[
+								"Zollinger-Ellison syndrome is caused by gastrin-secreting tumors (gastrinomas) involving the small intestine or pancreas.",
+								"Signs of this syndrome include 1) increased acid production by parietal cells of the stomach (increased basal gastric acid output), 2) recurrent peptic ulcers of duodenum and jejunum, and 3) painful chronic diarrhea."
+							]
+						]
+					],
+    },
+    {
+        "varUWquestionsID": "Question Id: 585",
+        "disease": "glucagonoma",
+		"keyInfo": [
+						"46-year-old woman",
+						"painful rash involving her groin and legs",
+						"diabetes mellitus 6 months ago",
+						"coalescing erythematous plaques with crusting and scaling at the borders and central areas of brownish induration",
+						"superficial necrolysis"
+					],
+		"keyUWorldInfo": [
+						"Glucagonoma presents with hyperglycemia (often as newly diagnosed diabetes mellitus) and necrolytic migratory erythema (blistering erythematous plaques with central clearing) affecting the groin, face, and extremities."
+					],
+		"questions": [
+						[
+							["UWorld"],
+							[
+								"Answer: C. Elevated glucagon"
+							],
+							[
+								"Glucagonomas, most of which are malignant, are glucagon-secreting tumors that originate from the pancreatic alpha-cells.",
+								"Glucagonoma presents with hyperglycemia (often as newly diagnosed diabetes mellitus) and <strong>necrolytic migratory erythema</strong> (blistering erythematous plaques with central clearing) affecting the groin, face, and extremities.",
+								"The diagnosis is made by detecting elevated glucagon levels."
+							]
+						]
+					],
     }
 ]
 
