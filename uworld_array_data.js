@@ -5421,7 +5421,7 @@ var myUWorldQuestionsDataArray = [
 							],
 							[
 								"Acute calculous cholecystitis is an acute inflammation of the gallbladder initiated by gallstone obstruction of the cystic duct.",
-								"The gallbladder may be secondarily infected with EEEK! bugs.",
+								"The gallbladder may be secondarily infected with EEEK! bugs (E. coli, Enterobacter cloacae, Enterococcus, Klebsiella species).",
 								"Patients typically present with persistent right upper quadrant pain, fever, and leukocytosis.",
 								"The diagnosis can be made by identifying signs of gallbladder inflammation (eg, wall thickening, pericholecystic fluid) on ultrasonography.",
 								"When ultrasound is inconclusive, nuclear medicine hepatobiliary scanning (ie, cholescintigraphy) can be used to assess cystic duct patency and make the diagnosis.",
@@ -5818,6 +5818,12 @@ var myUWorldQuestionsDataArray = [
 								"Hypoglycemia with elevated insulin and low C-peptide levels suggests exogenous insulin injection.",
 								"Elevated C-peptide suggests an insulin secretagogue or insulin-secreting tumor.",
 								"Exogenous insulin injection may be excess self-medication, fictitious injection, such as with Munchausen syndrome (factitious disorder imposed on another), or murder."
+							],
+							[
+								"<a contenteditable='false' href='https://coggle.it/diagram/Yy8dAkCwZkiUzpAr/t/trails-for-gallbladder-and-pancreas-2022?present=1&hide=08b7b0%2C5968d8%2Cf92aac' target='_blank'>Coggle link</a>",
+								"<a contenteditable='false' href='https://raw.githubusercontent.com/ejbgithub/files/main/images/Reversal%20of%20Fortune.jpg' target='_blank'>FYI 1</a>",
+								"<a contenteditable='false' href='https://raw.githubusercontent.com/ejbgithub/files/main/images/Duane%20and%20family%201981.png' target='_blank'>FYI 2</a>",
+								"<a contenteditable='false' href='https://raw.githubusercontent.com/ejbgithub/files/main/images/Earl%20and%20Janet%201981.png' target='_blank'>FYI 3</a>"
 							]
 						]
 					],
